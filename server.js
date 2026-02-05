@@ -45,6 +45,9 @@ if (!fs.existsSync(SEED_FILE)) {
 
 
 app.get('/api/health', (req, res) => res.json({ ok: true, time: new Date() }));
+app.get('/', (req, res) => {
+  res.send('JLPT Backend API is running');
+});
 
 // GET list
 // GET list with optional pagination: /api/vocab?level=N5&q=foo&page=1&limit=50
@@ -88,7 +91,8 @@ app.get('/api/vocab', (req, res) => {
 
 // POST add new vocab (very basic validation)
 app.post('/api/vocab', (req, res) => {
-  const { word, reading, meaning_en, jlptLevel } = req.body;
+  const { word, reading, romaji, meaning_en, jlptLevel } = req.body;
+
   if (!word || !meaning_en) return res.status(400).json({ error: 'word and meaning_en required' });
 
   const data = loadData();
