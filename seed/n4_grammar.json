@@ -1,0 +1,1193 @@
+[
+  {
+    "id": 1,
+    "grammar": "aida",
+    "meaning_en": "while; during; between ~",
+    "structure": "間（あいだ）",
+    "explanation": "Used to express that two actions happen during the same period of time.",
+    "example": "テレビを見ている間、雨が降りました。 (It rained while I was watching TV.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 2,
+    "grammar": "aida ni",
+    "meaning_en": "while; during ~ something happened",
+    "structure": "間に（あいだに）",
+    "explanation": "Used when an action happens at some point during another action.",
+    "example": "留守の間に友だちが来ました。 (A friend came while I was away.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 3,
+    "grammar": "amari~nai",
+    "meaning_en": "not very, not much ~",
+    "structure": "あまり～ない",
+    "explanation": "Used to express that something is not done often or not to a high degree.",
+    "example": "肉はあまり食べません。 (I don’t eat meat very much.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 4,
+    "grammar": "ato de",
+    "meaning_en": "after~; later",
+    "structure": "後で（あとで）",
+    "explanation": "Used to say something happens after another action.",
+    "example": "仕事の後で散歩します。 (I take a walk after work.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 5,
+    "grammar": "ba",
+    "meaning_en": "conditional form; If [A] then [B]",
+    "structure": "ば",
+    "explanation": "Expresses a conditional relationship. If A happens, then B will happen.",
+    "example": "雨が降れば、家にいます。 (If it rains, I’ll stay home.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 6,
+    "grammar": "baai wa",
+    "meaning_en": "in the event of; in the case that ~",
+    "structure": "場合は（ばあいは）",
+    "explanation": "Used to express what to do in a certain situation or condition.",
+    "example": "火事の場合は、このボタンを押してください。 (In case of fire, press this button.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 7,
+    "grammar": "bakari",
+    "meaning_en": "only; nothing but ~",
+    "structure": "ばかり",
+    "explanation": "Used when something happens repeatedly or when someone only does one thing.",
+    "example": "ゲームばかりしている。 (He does nothing but play games.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 8,
+    "grammar": "dake de",
+    "meaning_en": "just by; just by doing",
+    "structure": "だけで",
+    "explanation": "Used to express that something can be done simply by doing A.",
+    "example": "名前を書く だけで いいです。 (You only need to write your name.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 9,
+    "grammar": "dasu",
+    "meaning_en": "to begin to; to start to; burst into ~",
+    "structure": "出す（だす）",
+    "explanation": "Used when something suddenly begins.",
+    "example": "急に雨が降り出した。 (It suddenly started to rain.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 10,
+    "grammar": "de gozaimasu",
+    "meaning_en": "to be (honorific)",
+    "structure": "でございます",
+    "explanation": "Polite / formal version of です.",
+    "example": "こちらがメニューでございます。 (Here is the menu.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 11,
+    "grammar": "demo",
+    "meaning_en": "... or something; how about ~",
+    "structure": "でも",
+    "explanation": "Used to suggest something in a soft way.",
+    "example": "コーヒーでも飲みませんか。 (How about some coffee or something?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 12,
+    "grammar": "dewa nai ka",
+    "meaning_en": "right?; isn't it?",
+    "structure": "ではないか",
+    "explanation": "Used for confirmation or strong opinion.",
+    "example": "今日は寒いではないか。 (It’s cold today, isn’t it?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 13,
+    "grammar": "ga hitsuyou",
+    "meaning_en": "need; necessary",
+    "structure": "が必要（がひつよう）",
+    "explanation": "Used to say that something is needed.",
+    "example": "パスポートが必要です。 (A passport is necessary.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 14,
+    "grammar": "ga suru",
+    "meaning_en": "to smell; hear; taste",
+    "structure": "がする",
+    "explanation": "Used to express a sense (sound, smell, taste).",
+    "example": "いいにおいがする。 (It smells good.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 15,
+    "grammar": "gari",
+    "meaning_en": "someone tends to; has a sensitivity to ~",
+    "structure": "がり",
+    "explanation": "Used to describe personality tendencies.",
+    "example": "彼はさびしがりです。 (He gets lonely easily.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 16,
+    "grammar": "garu / gatteiru",
+    "meaning_en": "to show signs of; appear; feel ~",
+    "structure": "がる / がっている",
+    "explanation": "Used to describe someone else’s feelings or reactions.",
+    "example": "子どもがこわがっている。 (The child looks scared.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 17,
+    "grammar": "gozaimasu",
+    "meaning_en": "to be, exist (polite いる/ある)",
+    "structure": "ございます",
+    "explanation": "Very polite form used in service and formal speech.",
+    "example": "トイレは2階にございます。 (The restroom is on the 2nd floor.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 18,
+    "grammar": "hajimeru",
+    "meaning_en": "to start; to begin to ~",
+    "structure": "始める（はじめる）",
+    "explanation": "Used when someone intentionally begins an action.",
+    "example": "日本語を勉強し始めました。 (I started studying Japanese.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 19,
+    "grammar": "hazu da",
+    "meaning_en": "it must be; it should be",
+    "structure": "はずだ",
+    "explanation": "Used when you strongly expect something to be true.",
+    "example": "彼は来るはずだ。 (He should be coming.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 20,
+    "grammar": "hazu ga nai",
+    "meaning_en": "cannot be; impossible",
+    "structure": "はずがない",
+    "explanation": "Used when you strongly believe something is impossible.",
+    "example": "そんなはずがない！ (That can’t be true!)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 21,
+    "grammar": "hitsuyou ga aru",
+    "meaning_en": "need to; it is necessary to",
+    "structure": "必要がある（ひつようがある）",
+    "explanation": "Used to express necessity.",
+    "example": "早く帰る必要がある。 (I need to go home early.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 22,
+    "grammar": "ikou kei",
+    "meaning_en": "volitional form; let's do ~",
+    "structure": "意向形（いこうけい）",
+    "explanation": "Used to express intention or suggest doing something.",
+    "example": "映画を見に行こう。 (Let’s go watch a movie.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 23,
+    "grammar": "irassharu",
+    "meaning_en": "to be; to come; to go (polite)",
+    "structure": "いらっしゃる",
+    "explanation": "Honorific form of いる, 行く, 来る.",
+    "example": "先生はいらっしゃいますか。 (Is the teacher here?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 24,
+    "grammar": "itashimasu",
+    "meaning_en": "to do (polite する)",
+    "structure": "いたします",
+    "explanation": "Very humble form of する used in formal speech.",
+    "example": "よろしくお願いいたします。 (I humbly ask for your favor.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 25,
+    "grammar": "janai ka",
+    "meaning_en": "right? isn't it? let's~",
+    "structure": "じゃないか",
+    "explanation": "Used for suggestion or strong confirmation.",
+    "example": "行こうじゃないか。 (Let’s go, shall we?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 26,
+    "grammar": "ka dou ka",
+    "meaning_en": "whether or not ~",
+    "structure": "かどうか",
+    "explanation": "Used when expressing uncertainty or alternatives.",
+    "example": "行くかどうか分かりません。 (I don’t know whether I’ll go or not.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 27,
+    "grammar": "ka shira",
+    "meaning_en": "I wonder (feminine)",
+    "structure": "かしら",
+    "explanation": "Soft expression of wondering, mainly used by women.",
+    "example": "雨が降るかしら。 (I wonder if it will rain.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 28,
+    "grammar": "kai",
+    "meaning_en": "turns a sentence into a yes/no question",
+    "structure": "かい",
+    "explanation": "Casual male speech used for questions.",
+    "example": "行くかい？ (Are you going?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 29,
+    "grammar": "kamo shirenai",
+    "meaning_en": "might; perhaps; possibility",
+    "structure": "かもしれない",
+    "explanation": "Used to express uncertainty or possibility.",
+    "example": "明日は雨かもしれない。 (It might rain tomorrow.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 30,
+    "grammar": "kana",
+    "meaning_en": "I wonder; should I?",
+    "structure": "かな",
+    "explanation": "Used to express self-questioning or mild wondering (neutral).",
+    "example": "どこへ行こうかな。 (Where should I go, I wonder?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 31,
+    "grammar": "kara tsukuru",
+    "meaning_en": "made from; made with",
+    "structure": "から作る（からつくる）",
+    "explanation": "Used to express materials something is made from.",
+    "example": "ワインはぶどうから作ります。 (Wine is made from grapes.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 32,
+    "grammar": "kitto",
+    "meaning_en": "surely; most likely",
+    "structure": "きっと",
+    "explanation": "Used when confidently predicting something.",
+    "example": "彼はきっと来ます。 (He will surely come.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 33,
+    "grammar": "koro / goro",
+    "meaning_en": "around; about; when",
+    "structure": "頃（ころ / ごろ）",
+    "explanation": "Used to express approximate time.",
+    "example": "3時ごろ会いましょう。 (Let’s meet around 3 o’clock.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 34,
+    "grammar": "koto",
+    "meaning_en": "verb nominalizer",
+    "structure": "こと",
+    "explanation": "Turns verbs into nouns.",
+    "example": "日本語を勉強することは楽しい。 (Studying Japanese is fun.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 35,
+    "grammar": "koto ga aru",
+    "meaning_en": "there are times when",
+    "structure": "ことがある",
+    "explanation": "Used for occasional events or past experiences.",
+    "example": "映画を一人で見ることがある。 (Sometimes I watch movies alone.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 36,
+    "grammar": "koto ga dekiru",
+    "meaning_en": "can; able to",
+    "structure": "ことができる",
+    "explanation": "Expresses ability to do something.",
+    "example": "日本語を話すことができます。 (I can speak Japanese.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 37,
+    "grammar": "koto ni naru",
+    "meaning_en": "it has been decided that; turns out that",
+    "structure": "ことになる",
+    "explanation": "Decision not made by the speaker, or natural outcome.",
+    "example": "来月、日本へ行くことになりました。 (It has been decided that I will go to Japan next month.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 38,
+    "grammar": "koto ni suru",
+    "meaning_en": "to decide on",
+    "structure": "ことにする",
+    "explanation": "A personal decision made by the speaker.",
+    "example": "毎日走ることにした。 (I decided to run every day.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 39,
+    "grammar": "ku suru",
+    "meaning_en": "to make something ~",
+    "structure": "くする",
+    "explanation": "Used to change something into a certain state.",
+    "example": "部屋をきれいにする。 (Make the room clean.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 40,
+    "grammar": "kyuu ni",
+    "meaning_en": "suddenly; quickly; unexpectedly",
+    "structure": "急に（きゅうに）",
+    "explanation": "Used when something happens suddenly.",
+    "example": "急に雨が降った。 (It suddenly rained.)",
+    "jlptLevel": "N4"
+  },
+  
+  {
+    "id": 41,
+    "grammar": "made ni",
+    "meaning_en": "by; by the time; indicates time limit",
+    "structure": "までに",
+    "explanation": "Used to indicate the deadline by which something must be done.",
+    "example": "10時までに来てください。 (Please come by 10 o’clock.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 42,
+    "grammar": "mama",
+    "meaning_en": "as it is; current state; without changing",
+    "structure": "まま",
+    "explanation": "Expresses doing something while maintaining the same state.",
+    "example": "テレビをつけたまま寝ました。 (I slept with the TV on.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 43,
+    "grammar": "matawa",
+    "meaning_en": "both; or; otherwise; choice between A or B",
+    "structure": "または",
+    "explanation": "Used to give options or choices.",
+    "example": "水、またはお茶をどうぞ。 (Please choose water or tea.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 44,
+    "grammar": "mitai da",
+    "meaning_en": "like; similar to; resembling ~",
+    "structure": "みたいだ",
+    "explanation": "Used to express similarity or guess based on appearance.",
+    "example": "雨が降りそうみたいだ。 (It looks like it’s going to rain.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 45,
+    "grammar": "mitai na",
+    "meaning_en": "like; similar to ~",
+    "structure": "みたいな",
+    "explanation": "Used before nouns to compare them.",
+    "example": "彼は子どもみたいな人です。 (He is like a child.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 46,
+    "grammar": "mitai ni",
+    "meaning_en": "like; similar to ~",
+    "structure": "みたいに",
+    "explanation": "Used to describe actions done in a similar way.",
+    "example": "彼みたいに速く走れない。 (I can't run as fast as him.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 47,
+    "grammar": "mo",
+    "meaning_en": "as many as; as much as; up to; nearly ~",
+    "structure": "も",
+    "explanation": "Used to emphasize a surprisingly high amount or number.",
+    "example": "100人も来ました。 (As many as 100 people came.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 48,
+    "grammar": "na",
+    "meaning_en": "don’t ~ (order somebody not to do something)",
+    "structure": "な",
+    "explanation": "Strong command telling someone NOT to do something (casual).",
+    "example": "それを触るな！ (Don’t touch that!)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 49,
+    "grammar": "nado",
+    "meaning_en": "such as; things like ~",
+    "structure": "など",
+    "explanation": "Used to list examples loosely.",
+    "example": "りんごやバナナなどが好きです。 (I like apples, bananas, and so on.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 50,
+    "grammar": "nagara",
+    "meaning_en": "while; during; as; simultaneously",
+    "structure": "ながら",
+    "explanation": "Indicates doing two actions at the same time.",
+    "example": "音楽を聞きながら勉強します。 (I study while listening to music.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 51,
+    "grammar": "nakanaka~nai",
+    "meaning_en": "not easy to; struggling to; not able to ~",
+    "structure": "なかなか〜ない",
+    "explanation": "Used when something does not happen easily despite effort.",
+    "example": "日本語はなかなか覚えられない。 (Japanese is not easy to remember.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 52,
+    "grammar": "nakereba ikenai",
+    "meaning_en": "must do; have to do",
+    "structure": "なければいけない",
+    "explanation": "Indicates obligation or necessity.",
+    "example": "早く寝なければいけない。 (I have to sleep early.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 53,
+    "grammar": "nakereba naranai",
+    "meaning_en": "must do; have to do",
+    "structure": "なければならない",
+    "explanation": "Strong formal obligation. Similar to なければいけない.",
+    "example": "報告を書かなければならない。 (I must write the report.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 54,
+    "grammar": "nara",
+    "meaning_en": "if; in the case that ~",
+    "structure": "なら",
+    "explanation": "Used to express condition or suggestion based on context.",
+    "example": "行くなら早くして。 (If you're going, hurry up.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 55,
+    "grammar": "nasai",
+    "meaning_en": "do this (soft/firm command)",
+    "structure": "なさい",
+    "explanation": "Polite command often used by teachers or parents.",
+    "example": "早く寝なさい。 (Go to bed early.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 56,
+    "grammar": "nasaru",
+    "meaning_en": "to do (honorific)",
+    "structure": "なさる",
+    "explanation": "Honorific form of する used to show respect.",
+    "example": "何をなさいますか。 (What will you do?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 57,
+    "grammar": "ni ki ga tsuku",
+    "meaning_en": "to notice; to realize",
+    "structure": "に気がつく（にきがつく）",
+    "explanation": "Used when one suddenly realizes or notices something.",
+    "example": "間違いに気がついた。 (I noticed the mistake.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 58,
+    "grammar": "ni mieru",
+    "meaning_en": "to look; to seem; to appear",
+    "structure": "に見える（にみえる）",
+    "explanation": "Used to describe how something appears or seems.",
+    "example": "彼は元気に見える。 (He looks healthy.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 59,
+    "grammar": "ni suru",
+    "meaning_en": "to make something ~",
+    "structure": "にする",
+    "explanation": "Used to change or decide on a state.",
+    "example": "部屋を明るくする。 (Make the room bright.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 60,
+    "grammar": "nikui",
+    "meaning_en": "difficult to do ~",
+    "structure": "にくい",
+    "explanation": "Attached to verbs to express difficulty doing something.",
+    "example": "この字は読みにくい。 (This character is hard to read.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 61,
+    "grammar": "no naka de",
+    "meaning_en": "in; among ~",
+    "structure": "の中で（のなかで）",
+    "explanation": "Used for comparisons within a group.",
+    "example": "クラスの中で彼が一番背が高い。 (He is the tallest in the class.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 62,
+    "grammar": "noni (contrast)",
+    "meaning_en": "although; in spite of; even though ~",
+    "structure": "のに",
+    "explanation": "Expresses unexpected contrast between A and B.",
+    "example": "雨なのに出かけた。 (Even though it was raining, I went out.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 63,
+    "grammar": "noni (purpose)",
+    "meaning_en": "to (do something); in order to ~",
+    "structure": "のに",
+    "explanation": "Used after verbs to show purpose (rare but used in N4).",
+    "example": "料理をするのにナイフが必要です。 (You need a knife to cook.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 64,
+    "grammar": "nowa ~ da",
+    "meaning_en": "[A] is [B]; the reason for [A] is [B]",
+    "structure": "のは〜だ",
+    "explanation": "Used to emphasize the subject or reason.",
+    "example": "日本語が難しいのは漢字のせいだ。 (The reason Japanese is difficult is kanji.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 65,
+    "grammar": "o~kudasai",
+    "meaning_en": "please do ~ (honorific)",
+    "structure": "お〜ください",
+    "explanation": "Polite way of asking someone to do something.",
+    "example": "お待ちください。 (Please wait.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 66,
+    "grammar": "o~ni naru",
+    "meaning_en": "to do (honorific)",
+    "structure": "お〜になる",
+    "explanation": "Respectful way to describe someone else's actions.",
+    "example": "先生は本をお読みになります。 (The teacher reads books.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 67,
+    "grammar": "oki ni",
+    "meaning_en": "repeated at intervals; every ~",
+    "structure": "おきに",
+    "explanation": "Shows regular intervals between actions.",
+    "example": "一日おきに走ります。 (I run every other day.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 68,
+    "grammar": "owaru",
+    "meaning_en": "to finish; to end ~",
+    "structure": "終わる（おわる）",
+    "explanation": "Used to show completion of an action.",
+    "example": "仕事が終わった。 (The work is finished.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 69,
+    "grammar": "rareru",
+    "meaning_en": "potential form; ability or inability to do",
+    "structure": "られる",
+    "explanation": "Used to express capability (can do something).",
+    "example": "日本語が話せる。 (I can speak Japanese.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 70,
+    "grammar": "rashii",
+    "meaning_en": "it seems like; I heard; apparently ~",
+    "structure": "らしい",
+    "explanation": "Expresses hearsay or appearance based on information.",
+    "example": "雨らしいよ。 (Apparently, it's going to rain.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 71,
+    "grammar": "sa",
+    "meaning_en": "-ness (nominalizer for adjectives)",
+    "structure": "さ",
+    "explanation": "Turns adjectives into nouns showing degree or state.",
+    "example": "暑さに慣れました。 (I got used to the heat.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 72,
+    "grammar": "sakki",
+    "meaning_en": "some time ago; just now",
+    "structure": "さっき",
+    "explanation": "Refers to a short time past.",
+    "example": "さっき会いました。 (I met him a little while ago.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 73,
+    "grammar": "saserareru",
+    "meaning_en": "causative-passive; to be made to do something",
+    "structure": "させられる",
+    "explanation": "Indicates being forced or made to do an action.",
+    "example": "宿題をさせられた。 (I was made to do homework.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 74,
+    "grammar": "saseru",
+    "meaning_en": "causative form; to make/let someone do",
+    "structure": "させる",
+    "explanation": "Used to indicate allowing or forcing someone to do something.",
+    "example": "子どもに野菜を食べさせる。 (I make the child eat vegetables.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 75,
+    "grammar": "sasete kudasai",
+    "meaning_en": "please let me do",
+    "structure": "させてください",
+    "explanation": "Polite request for permission.",
+    "example": "手伝わせてください。 (Please let me help.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 76,
+    "grammar": "sasuga",
+    "meaning_en": "as expected; even ~",
+    "structure": "さすが",
+    "explanation": "Used when something matches expectations.",
+    "example": "さすが先生ですね。 (As expected of the teacher!)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 77,
+    "grammar": "shi",
+       "meaning_en": "and; and what's more (emphasis)",
+    "structure": "し",
+    "explanation": "Used to list multiple reasons or emphasize several points.",
+    "example": "安いし、美味しいし、この店が好きです。 (It's cheap and tasty, so I like this shop.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 78,
+    "grammar": "sonna ni",
+    "meaning_en": "so much; so; like that",
+    "structure": "そんなに",
+    "explanation": "Used to emphasize degree.",
+    "example": "そんなに心配しないで。 (Don’t worry so much.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 79,
+    "grammar": "sore demo",
+    "meaning_en": "but still; even so; and yet",
+    "structure": "それでも",
+    "explanation": "Used when the result is unexpected despite previous statement.",
+    "example": "雨だった。それでも行きました。 (It was raining. Even so, I went.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 80,
+    "grammar": "sore ni",
+    "meaning_en": "besides; in addition; moreover",
+    "structure": "それに",
+    "explanation": "Adds extra information to strengthen a statement.",
+    "example": "安いし、それに便利です。 (It’s cheap, and besides, it’s convenient.)",
+    "jlptLevel": "N4"
+  },
+  
+  {
+    "id": 81,
+    "grammar": "sou da (hearsay)",
+    "meaning_en": "I heard that; it is said that ~",
+    "structure": "そうだ（hearsay）",
+    "explanation": "Expresses hearsay or something you heard from others (\"I heard that...\").",
+    "example": "彼は結婚したそうだ。 (I heard that he got married.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 82,
+    "grammar": "sou da (appearance)",
+    "meaning_en": "looks like; appears like; seeming ~",
+    "structure": "そうだ（appearance）",
+    "explanation": "Expresses judgment from appearance (based on what you see).",
+    "example": "雨が降りそうだ。 (It looks like it will rain.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 83,
+    "grammar": "sou ni / sou na",
+    "meaning_en": "seems like; looks like ~",
+    "structure": "そうに / そうな",
+    "explanation": "Used to modify verbs/adjectives or nouns to show resemblance or apparent manner.",
+    "example": "彼は嬉しそうに笑った。 / 嬉しそうな顔。 (He smiled as if he were happy. / a happy-looking face.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 84,
+    "grammar": "ta bakari",
+    "meaning_en": "just finished; something just occurred",
+    "structure": "たばかり",
+    "explanation": "Indicates that an action was completed just recently.",
+    "example": "今、食べたばかりです。 (I just ate.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 85,
+    "grammar": "ta tokoro",
+    "meaning_en": "just finished doing; was just doing",
+    "structure": "たところ",
+    "explanation": "Used to say that an action has just been completed (very recent) or that something is about to happen.",
+    "example": "ちょうど家を出たところです。 (I just left the house.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 86,
+    "grammar": "tadoushi & jidoushi",
+    "meaning_en": "Transitive & Intransitive Verbs",
+    "structure": "他動詞 & 自動詞（たどうし & じどうし）",
+    "explanation": "Distinguishes verbs that take a direct object (transitive) from verbs that describe changes by themselves (intransitive).",
+    "example": "ドアを開ける（他動詞）・ドアが開く（自動詞）。 (Open the door. / The door opens.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 87,
+    "grammar": "tagaru",
+    "meaning_en": "wants to do ~ (third person)",
+    "structure": "たがる",
+    "explanation": "Used to express a third person's desire based on observable signs; attach to verb stem + がる.",
+    "example": "子どもはケーキを食べたがっている。 (The child seems to want to eat cake.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 88,
+    "grammar": "tara",
+    "meaning_en": "if; after; when ~",
+    "structure": "たら",
+    "explanation": "Conditional used for hypothetical situations or when one action follows another; can mean 'if' or 'when/after'.",
+    "example": "雨が止んだら出かけます。 (If/When the rain stops, I'll go out.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 89,
+    "grammar": "tara dou",
+    "meaning_en": "why don't you; how about ~ (advice)",
+    "structure": "たらどう",
+    "explanation": "Used to give advice or suggestion to someone.",
+    "example": "少し休んだらどう？ (Why don't you rest a bit?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 90,
+    "grammar": "tara ii desu ka",
+    "meaning_en": "what should I do?; seeking instructions",
+    "structure": "たらいいですか",
+    "explanation": "Asks for advice about the best course of action.",
+    "example": "どうしたらいいですか。 (What should I do?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 91,
+    "grammar": "te / de",
+    "meaning_en": "conjunctive particle; so; because of [A], [B]...",
+    "structure": "て / で",
+    "explanation": "Connects clauses: sequence of actions, cause/reason, or simultaneous actions depending on context.",
+    "example": "朝ご飯を食べて、学校へ行きます。 (I eat breakfast and then go to school.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 92,
+    "grammar": "te ageru",
+    "meaning_en": "to do for; to do a favor",
+    "structure": "てあげる",
+    "explanation": "Indicates doing something for someone (speaker or in-group does favor for others).",
+    "example": "友だちに本を貸してあげた。 (I lent a book to my friend.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 93,
+    "grammar": "te hoshii",
+    "meaning_en": "I want you to; need you to ~",
+    "structure": "てほしい",
+    "explanation": "Expresses a desire for someone else to do something.",
+    "example": "手伝ってほしいです。 (I want you to help me.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 94,
+    "grammar": "te iku",
+    "meaning_en": "to start; to continue; to go on",
+    "structure": "ていく",
+    "explanation": "Indicates change that will continue from now into the future or an action going away from the speaker.",
+    "example": "これから暑くなっていくでしょう。 (It will become hotter from now on.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 95,
+    "grammar": "te ita",
+    "meaning_en": "was doing something (past continuous)",
+    "structure": "ていた",
+    "explanation": "Expresses an action that was ongoing in the past or a past state resulting from an action.",
+    "example": "映画を見ていた。 (I was watching a movie.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 96,
+    "grammar": "te itadakemasen ka",
+    "meaning_en": "could you please ~ (very polite)",
+    "structure": "ていただけませんか",
+    "explanation": "Polite request asking someone to do something for you.",
+    "example": "ちょっと待っていただけませんか。 (Could you please wait a moment?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 97,
+    "grammar": "te kureru",
+    "meaning_en": "to do a favor; do something for someone",
+    "structure": "てくれる",
+    "explanation": "Indicates someone does something for the speaker or the speaker's in-group.",
+    "example": "友達が手伝ってくれた。 (My friend helped me.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 98,
+    "grammar": "te kuru",
+    "meaning_en": "to do… and come back; to become; to continue; to start ~",
+    "structure": "てくる",
+    "explanation": "Indicates an action that moves toward the speaker or a change that has started and continues up to now.",
+    "example": "買い物してくる。 (I'll go and come back after shopping.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 99,
+    "grammar": "te miru",
+    "meaning_en": "try doing",
+    "structure": "てみる",
+    "explanation": "Used to try something experimentally to see the result.",
+    "example": "一度やってみてください。 (Please try doing it once.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 100,
+    "grammar": "te morau",
+    "meaning_en": "to get somebody to do something",
+    "structure": "てもらう",
+    "explanation": "Used when you receive a favor (someone does something for you).",
+    "example": "先生に直してもらった。 (I had the teacher correct it for me.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 101,
+    "grammar": "te oku",
+    "meaning_en": "to do something in advance",
+    "structure": "ておく",
+    "explanation": "Used when you do something ahead of time in preparation for later.",
+    "example": "明日のために宿題をしておく。 (I'll do homework in advance for tomorrow.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 102,
+    "grammar": "te shimau / chau",
+    "meaning_en": "to do something by accident; to finish completely",
+    "structure": "てしまう / ちゃう",
+    "explanation": "Expresses regret/accident or completion of an action (casual ちゃう).",
+    "example": "財布を忘れてしまった。 (I accidentally forgot my wallet.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 103,
+    "grammar": "te sumimasen",
+    "meaning_en": "I’m sorry for ~",
+    "structure": "てすみません",
+    "explanation": "Polite apology using the て-form of a verb followed by 'sumimasen'.",
+    "example": "遅れてすみません。 (Sorry for being late.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 104,
+    "grammar": "te yaru",
+    "meaning_en": "to do for; to do a favor (casual)",
+    "structure": "てやる",
+    "explanation": "Casual rougher equivalent of てあげる, often used by males or with lower politeness.",
+    "example": "手伝ってやるよ。 (I'll help you.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 105,
+    "grammar": "te yokatta",
+    "meaning_en": "I’m glad that ~",
+    "structure": "てよかった",
+    "explanation": "Expresses relief or gladness that something happened or was done.",
+    "example": "来てくれてよかった。 (I'm glad you came.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 106,
+    "grammar": "teiru tokoro",
+    "meaning_en": "in the process of doing",
+    "structure": "ているところ",
+    "explanation": "Emphasizes that an action is currently in progress (right now).",
+    "example": "今、食べているところです。 (I'm eating right now.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 107,
+    "grammar": "temo",
+    "meaning_en": "even; even if; even though ~",
+    "structure": "ても",
+    "explanation": "Expresses concession: even if A happens, B (usually still true).",
+    "example": "雨が降っても行きます。 (I'll go even if it rains.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 108,
+    "grammar": "to (conditional/result)",
+    "meaning_en": "whenever [A] happens, [B] also happens",
+    "structure": "と",
+    "explanation": "Used to express natural consequence or repeated result when condition A is met.",
+    "example": "冬になると、寒くなる。 (When it becomes winter, it gets cold.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 109,
+    "grammar": "to ittemo ii",
+    "meaning_en": "you could say; one might say",
+    "structure": "と言ってもいい（といってもいい）",
+    "explanation": "Used to soften or allow alternative expressions; 'it's okay to say...'.",
+    "example": "彼は親友と言ってもいい。 (You could say he is a close friend.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 110,
+    "grammar": "to iu",
+    "meaning_en": "called; named; that ~",
+    "structure": "という",
+    "explanation": "Used to name or quote something; 'called' or 'that...'.",
+    "example": "「ありがとう」という言葉。 (The word 'arigatou'.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 111,
+    "grammar": "to iu koto",
+    "meaning_en": "convert phrase into noun; the fact that ~",
+    "structure": "ということ",
+    "explanation": "Turns a clause into a noun phrase to report facts or summarize.",
+    "example": "彼が来ないということだ。 (It means that he won't come.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 112,
+    "grammar": "to iwarete iru",
+    "meaning_en": "it is said that ~",
+    "structure": "と言われている（といわれている）",
+    "explanation": "Expresses common belief or reputation (general hearsay).",
+    "example": "この川はきれいだと言われている。 (This river is said to be beautiful.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 113,
+    "grammar": "to kiita",
+    "meaning_en": "I heard...",
+    "structure": "と聞いた（ときいた）",
+    "explanation": "Used to report something you heard directly from someone.",
+    "example": "彼は結婚したと聞いた。 (I heard that he got married.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 114,
+    "grammar": "to omou",
+    "meaning_en": "to think…; I think…",
+    "structure": "と思う（とおもう）",
+    "explanation": "Expresses personal thought or opinion.",
+    "example": "これはいいと思う。 (I think this is good.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 115,
+    "grammar": "toka~toka",
+    "meaning_en": "among other things; such as; like ~",
+    "structure": "とか～とか",
+    "explanation": "Lists examples among many possibilities (non-exhaustive).",
+    "example": "ケーキとかアイスとか食べたい。 (I want to eat things like cake and ice cream.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 116,
+    "grammar": "tokoro (about to)",
+    "meaning_en": "just about to; on the verge of doing something",
+    "structure": "ところ",
+    "explanation": "Used with dictionary form to indicate something is about to happen.",
+    "example": "今、出かけるところです。 (I'm just about to go out.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 117,
+    "grammar": "tsuzukeru",
+    "meaning_en": "continue to; keep on ~",
+    "structure": "続ける（つづける）",
+    "explanation": "Indicates that an action is continued or repeated.",
+    "example": "毎日勉強を続けています。 (I continue studying every day.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 118,
+    "grammar": "tte",
+    "meaning_en": "named; called ~",
+    "structure": "って",
+    "explanation": "Casual quotation particle used to report what someone said or a name.",
+    "example": "彼って田中さんのこと？ (Are you talking about Tanaka?)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 119,
+    "grammar": "ukemi kei",
+    "meaning_en": "passive form; passive voice",
+    "structure": "受身形（うけみけい）",
+    "explanation": "Form used to say someone is acted upon or to express inconvenience caused by someone.",
+    "example": "先生に褒められた。 (I was praised by the teacher.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 120,
+    "grammar": "wa~ga... wa",
+    "meaning_en": "[A] but [B]; however; comparison",
+    "structure": "は〜が… は",
+    "explanation": "Contrastive structure: presents A then contrasts with B (often softening or contrasting).",
+    "example": "日本語は難しいが、面白い。 (Japanese is difficult, but interesting.)",
+    "jlptLevel": "N4"
+  },
+  
+  {
+    "id": 121,
+    "grammar": "yasui",
+    "meaning_en": "easy to; likely to; prone to; have a tendency to ~",
+    "structure": "やすい",
+    "explanation": "Added to the verb stem to express that something is easy to do or tends to happen.",
+    "example": "このペンは書きやすいです。 (This pen is easy to write with.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 122,
+    "grammar": "yatto",
+    "meaning_en": "at last; finally; barely; narrowly ~",
+    "structure": "やっと",
+    "explanation": "Used when something difficult or time-consuming is finally accomplished.",
+    "example": "やっと宿題が終わった。 (I finally finished my homework.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 123,
+    "grammar": "yori",
+    "meaning_en": "than; rather than; more than ~",
+    "structure": "より",
+    "explanation": "Used for comparisons, equivalent to 'than'.",
+    "example": "犬は猫より好きです。 (I like dogs more than cats.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 124,
+    "grammar": "yotei da",
+    "meaning_en": "plan to; intend to",
+    "structure": "予定だ（よていだ）",
+    "explanation": "Indicates scheduled plans or intentions.",
+    "example": "明日出発する予定です。 (I plan to leave tomorrow.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 125,
+    "grammar": "you da",
+    "meaning_en": "appears; seems; looks as if ~",
+    "structure": "ようだ",
+    "explanation": "Expresses conjecture or resemblance based on evidence.",
+    "example": "雨が降りそうなようだ。 (It seems like it will rain.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 126,
+    "grammar": "you ni / you na",
+    "meaning_en": "like; as; similar to ~",
+    "structure": "ように / ような",
+    "explanation": "Used to describe similarity or manner ('like' or 'as').",
+    "example": "彼は猫のように静かです。 (He is quiet like a cat.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 127,
+    "grammar": "you ni naru",
+    "meaning_en": "to reach the point that; to come to be that; to turn into ~",
+    "structure": "ようになる",
+    "explanation": "Indicates a change in ability or habitual action over time.",
+    "example": "日本語が話せるようになりました。 (I’ve reached the point where I can speak Japanese.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 128,
+    "grammar": "you ni suru",
+    "meaning_en": "to try to; to make sure that ~",
+    "structure": "ようにする",
+    "explanation": "Expresses effort or intention to form a habit.",
+    "example": "毎日運動するようにしています。 (I try to exercise every day.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 129,
+    "grammar": "you to omou",
+    "meaning_en": "thinking of doing; planning to ~",
+    "structure": "ようと思う（ようとおもう）",
+    "explanation": "Used when the speaker is thinking or planning to do something.",
+    "example": "今年もっと勉強しようと思う。 (I'm thinking of studying more this year.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 130,
+    "grammar": "zehi",
+    "meaning_en": "by all means; certainly; definitely ~",
+    "structure": "ぜひ",
+    "explanation": "Used to strongly encourage or express eagerness.",
+    "example": "ぜひ日本に来てください。 (Please come to Japan by all means.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 131,
+    "grammar": "zenzen~nai",
+    "meaning_en": "(not) at all",
+    "structure": "全然～ない（ぜんぜん～ない）",
+    "explanation": "Used with negative verbs to mean 'not at all'.",
+    "example": "昨日は全然寝られなかった。 (I couldn't sleep at all yesterday.)",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": 132,
+    "grammar": "zurai",
+    "meaning_en": "difficult to do ~",
+    "structure": "づらい",
+    "explanation": "Attached to the verb stem to indicate that something is emotionally or physically difficult to do.",
+    "example": "人前で話しづらいです。 (It's hard to speak in front of people.)",
+    "jlptLevel": "N4"
+  }
+]

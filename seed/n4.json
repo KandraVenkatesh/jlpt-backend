@@ -1,0 +1,2978 @@
+[
+  {
+    "word": "",
+    "reading": "あ",
+    "romaji": "a",
+    "meaning_en": "Ah; oh (interjection)",
+    "exampleSentence": "あ、忘れ物だ。 (Ah — I forgot something.)"
+  },
+  {
+    "word": "",
+    "reading": "ああ",
+    "romaji": "aa",
+    "meaning_en": "Ah; oh; expression of realization or agreement",
+    "exampleSentence": "ああ、そうだったね。 (Ah — that's right.)"
+  },
+  {
+    "word": "アフリカ",
+    "reading": "アフリカ",
+    "romaji": "afurika",
+    "meaning_en": "Africa",
+    "exampleSentence": "来年アフリカへ行きたいです。 (I want to go to Africa next year.)"
+  },
+  {
+    "word": "上がる",
+    "reading": "あがる",
+    "romaji": "agaru",
+    "meaning_en": "to rise; to go up (intransitive)",
+    "exampleSentence": "気温が上がってきた。 (The temperature has started to rise.)"
+  },
+  {
+    "word": "挨拶",
+    "reading": "あいさつ",
+    "romaji": "aisatsu",
+    "meaning_en": "greeting",
+    "exampleSentence": "朝は挨拶をしましょう。 (Let's greet each other in the morning.)"
+  },
+  {
+    "word": "味",
+    "reading": "あじ",
+    "romaji": "aji",
+    "meaning_en": "flavor; taste",
+    "exampleSentence": "このスープの味がいい。 (The taste of this soup is good.)"
+  },
+  {
+    "word": "アジア",
+    "reading": "アジア",
+    "romaji": "ajia",
+    "meaning_en": "Asia",
+    "exampleSentence": "アジア諸国について勉強しています。 (I am studying Asian countries.)"
+  },
+  {
+    "word": [
+      "赤ちゃん",
+      "赤ん坊"
+    ],
+    "reading": [
+      "あかちゃん",
+      "あかんぼう"
+    ],
+    "romaji": [
+      "akachan",
+      "akanbou"
+    ],
+    "meaning_en": "baby; infant",
+    "exampleSentence": "赤ちゃんが眠っています。 (The baby is sleeping.)"
+  },
+  {
+    "word": "アクセサリー",
+    "reading": "アクセサリー",
+    "romaji": "akusesarii",
+    "meaning_en": "accessory (jewelry, etc.)",
+    "exampleSentence": "彼女はきれいなアクセサリーをつけている。 (She is wearing pretty accessories.)"
+  },
+  {
+    "word": "アメリカ",
+    "reading": "アメリカ",
+    "romaji": "amerika",
+    "meaning_en": "America; the United States",
+    "exampleSentence": "来月アメリカへ出張します。 (I will go on a business trip to America next month.)"
+  },
+  {
+    "word": "アナウンサー",
+    "reading": "アナウンサー",
+    "romaji": "anaunsaa",
+    "meaning_en": "announcer; newscaster",
+    "exampleSentence": "彼は有名なアナウンサーです。 (He is a famous announcer.)"
+  },
+  {
+    "word": "",
+    "reading": "あんな",
+    "romaji": "anna",
+    "meaning_en": "such (as that); like that (pre-noun adjective)",
+    "exampleSentence": "あんな映画はもう見たくない。 (I don't want to watch a movie like that anymore.)"
+  },
+  {
+    "word": "案内",
+    "reading": "あんない",
+    "romaji": "annai",
+    "meaning_en": "guidance; information; guide",
+    "exampleSentence": "駅まで案内してください。 (Please guide me to the station.)"
+  },
+  {
+    "word": "安心",
+    "reading": "あんしん",
+    "romaji": "anshin",
+    "meaning_en": "peace of mind; relief",
+    "exampleSentence": "結果を聞いて安心しました。 (I felt relieved after hearing the result.)"
+  },
+  {
+    "word": "安全",
+    "reading": "あんぜん",
+    "romaji": "anzen",
+    "meaning_en": "safety; security",
+    "exampleSentence": "安全第一で作業してください。 (Work with safety first.)"
+  },
+  {
+    "word": "アルバイト",
+    "reading": "アルバイト",
+    "romaji": "arubaito",
+    "meaning_en": "part-time job",
+    "exampleSentence": "大学生はアルバイトをしています。 (University students work part-time.)"
+  },
+  {
+    "word": "アルコール",
+    "reading": "アルコール",
+    "romaji": "arukooru",
+    "meaning_en": "alcohol",
+    "exampleSentence": "アルコールは二十歳からです。 (Alcohol is from age 20.)"
+  },
+  {
+    "word": "浅い",
+    "reading": "あさい",
+    "romaji": "asai",
+    "meaning_en": "shallow; superficial",
+    "exampleSentence": "この川は浅いです。 (This river is shallow.)"
+  },
+  {
+    "word": "遊び",
+    "reading": "あそび",
+    "romaji": "asobi",
+    "meaning_en": "play; amusement",
+    "exampleSentence": "子供の遊びは大切です。 (Children's play is important.)"
+  },
+  {
+    "word": "集まる",
+    "reading": "あつまる",
+    "romaji": "atsumaru",
+    "meaning_en": "to gather; to assemble (intransitive)",
+    "exampleSentence": "みんなが公園に集まった。 (Everyone gathered in the park.)"
+  },
+  {
+    "word": "集める",
+    "reading": "あつめる",
+    "romaji": "atsumeru",
+    "meaning_en": "to collect; to assemble (transitive)",
+    "exampleSentence": "切手を集めています。 (I collect stamps.)"
+  },
+  {
+    "word": "謝る",
+    "reading": "あやまる",
+    "romaji": "ayamaru",
+    "meaning_en": "to apologize",
+    "exampleSentence": "間違えて謝りました。 (I apologized for the mistake.)"
+  },
+  {
+    "word": "倍",
+    "reading": "ばい",
+    "romaji": "bai",
+    "meaning_en": "double; times (multiplier)",
+    "exampleSentence": "去年より売上が倍になった。 (Sales doubled compared to last year.)"
+  },
+  {
+    "word": "番組",
+    "reading": "ばんぐみ",
+    "romaji": "bangumi",
+    "meaning_en": "TV program; show",
+    "exampleSentence": "好きな番組を録画しました。 (I recorded my favorite program.)"
+  },
+  {
+    "word": "場所",
+    "reading": "ばしょ",
+    "romaji": "basho",
+    "meaning_en": "place; location",
+    "exampleSentence": "会議の場所を教えてください。 (Please tell me the meeting place.)"
+  },
+  {
+    "word": "ベル",
+    "reading": "ベル",
+    "romaji": "beru",
+    "meaning_en": "bell",
+    "exampleSentence": "ベルが鳴ったら始めてください。 (Start when the bell rings.)"
+  },
+  {
+    "word": "美術館",
+    "reading": "びじゅつかん",
+    "romaji": "bijutsukan",
+    "meaning_en": "art museum; art gallery",
+    "exampleSentence": "美術館で展覧会を見ました。 (I saw an exhibition at the art museum.)"
+  },
+  {
+    "word": "びっくり",
+    "reading": "びっくり",
+    "romaji": "bikkuri",
+    "meaning_en": "surprise; to be surprised",
+    "exampleSentence": "彼の早さにびっくりした。 (I was surprised at his speed.)"
+  },
+  {
+    "word": "ビル",
+    "reading": "ビル",
+    "romaji": "biru",
+    "meaning_en": "building",
+    "exampleSentence": "あのビルの十階に事務所があります。 (The office is on the 10th floor of that building.)"
+  },
+  {
+    "word": "僕",
+    "reading": "ぼく",
+    "romaji": "boku",
+    "meaning_en": "I; me (used by males)",
+    "exampleSentence": "僕は学生です。 (I am a student.)"
+  },
+  {
+    "word": "貿易",
+    "reading": "ぼうえき",
+    "romaji": "boueki",
+    "meaning_en": "trade; foreign trade",
+    "exampleSentence": "貿易の仕事に興味があります。 (I am interested in trade work.)"
+  },
+  {
+    "word": "部長",
+    "reading": "ぶちょう",
+    "romaji": "buchou",
+    "meaning_en": "department manager; chief",
+    "exampleSentence": "部長に報告しました。 (I reported to the manager.)"
+  },
+  {
+    "word": "ぶどう",
+    "reading": "ぶどう",
+    "romaji": "budou",
+    "meaning_en": "grapes",
+    "exampleSentence": "ぶどうが甘くておいしい。 (The grapes are sweet and delicious.)"
+  },
+  {
+    "word": "文学",
+    "reading": "ぶんがく",
+    "romaji": "bungaku",
+    "meaning_en": "literature",
+    "exampleSentence": "日本文学を勉強しています。 (I am studying Japanese literature.)"
+  },
+  {
+    "word": "文化",
+    "reading": "ぶんか",
+    "romaji": "bunka",
+    "meaning_en": "culture",
+    "exampleSentence": "文化の違いを学びたい。 (I want to learn about cultural differences.)"
+  },
+  {
+    "word": "文法",
+    "reading": "ぶんぽう",
+    "romaji": "bunpou",
+    "meaning_en": "grammar",
+    "exampleSentence": "文法の問題を解きます。 (I solve grammar problems.)"
+  },
+  {
+    "word": "",
+    "reading": "ちゃん",
+    "romaji": "chan",
+    "meaning_en": "familiar suffix (often for girls/children)",
+    "exampleSentence": "みゆちゃんが来ました。 (Miyu-chan came.)"
+  },
+  {
+    "word": "チェック",
+    "reading": "チェック",
+    "romaji": "chekku",
+    "meaning_en": "check; to check",
+    "exampleSentence": "宿題をチェックしてください。 (Please check the homework.)"
+  },
+  {
+    "word": "血",
+    "reading": "ち",
+    "romaji": "chi",
+    "meaning_en": "blood",
+    "exampleSentence": "けがで血が出た。 (Blood came from the wound.)"
+  },
+  {
+    "word": "力",
+    "reading": "ちから",
+    "romaji": "chikara",
+    "meaning_en": "power; strength; force",
+    "exampleSentence": "力を入れて押してください。 (Please push with strength.)"
+  },
+  {
+    "word": "地理",
+    "reading": "ちり",
+    "romaji": "chiri",
+    "meaning_en": "geography",
+    "exampleSentence": "地理の授業は面白い。 (Geography class is interesting.)"
+  },
+  {
+    "word": "中学校",
+    "reading": "ちゅうがっこう",
+    "romaji": "chuugakkou",
+    "meaning_en": "junior high school; middle school",
+    "exampleSentence": "中学校の友達に会いました。 (I met my middle school friends.)"
+  },
+  {
+    "word": "注意",
+    "reading": "ちゅうい",
+    "romaji": "chuui",
+    "meaning_en": "caution; attention",
+    "exampleSentence": "車に注意してください。 (Please be careful of cars.)"
+  },
+  {
+    "word": "注射",
+    "reading": "ちゅうしゃ",
+    "romaji": "chuusha",
+    "meaning_en": "injection; shot",
+    "exampleSentence": "今日は注射を受けます。 (I will receive an injection today.)"
+  },
+  {
+    "word": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "romaji": "chuushajou",
+    "meaning_en": "parking lot",
+    "exampleSentence": "駐車場はどこですか？ (Where is the parking lot?)"
+  },
+  {
+    "word": "大分",
+    "reading": "だいぶ",
+    "romaji": "daibu",
+    "meaning_en": "considerably; greatly; much",
+    "exampleSentence": "風邪が大分よくなった。 (My cold has gotten much better.)"
+  },
+  {
+    "word": "大学生",
+    "reading": "だいがくせい",
+    "romaji": "daigakusei",
+    "meaning_en": "university student; college student",
+    "exampleSentence": "彼は大学生です。 (He is a university student.)"
+  },
+  {
+    "word": "大事",
+    "reading": "だいじ",
+    "romaji": "daiji",
+    "meaning_en": "important; serious",
+    "exampleSentence": "健康は大事です。 (Health is important.)"
+  },
+  {
+    "word": "大体",
+    "reading": "だいたい",
+    "romaji": "daitai",
+    "meaning_en": "roughly; generally",
+    "exampleSentence": "大体の計画はできた。 (The rough plan is ready.)"
+  },
+  {
+    "word": "暖房",
+    "reading": "だんぼう",
+    "romaji": "danbou",
+    "meaning_en": "heating; heater",
+    "exampleSentence": "暖房をつけてください。 (Please turn on the heating.)"
+  },
+  {
+    "word": "男性",
+    "reading": "だんせい",
+    "romaji": "dansei",
+    "meaning_en": "male; man",
+    "exampleSentence": "参加者はほとんど男性でした。 (Most participants were men.)"
+  },
+  {
+    "word": "",
+    "reading": "できるだけ",
+    "romaji": "dekiru dake",
+    "meaning_en": "as much as possible",
+    "exampleSentence": "できるだけ早く来てください。 (Please come as soon as possible.)"
+  },
+  {
+    "word": "電報",
+    "reading": "でんぽう",
+    "romaji": "denpou",
+    "meaning_en": "telegram",
+    "exampleSentence": "遠くの親戚に電報を送りました。 (I sent a telegram to relatives far away.)"
+  },
+  {
+    "word": "電灯",
+    "reading": "でんとう",
+    "romaji": "dentou",
+    "meaning_en": "electric light; lamp",
+    "exampleSentence": "電灯を消してください。 (Please turn off the light.)"
+  },
+  {
+    "word": "どんどん",
+    "reading": "どんどん",
+    "romaji": "dondon",
+    "meaning_en": "rapidly; more and more",
+    "exampleSentence": "仕事がどんどん進んでいる。 (Work is progressing rapidly.)"
+  },
+  {
+    "word": "泥棒",
+    "reading": "どろぼう",
+    "romaji": "dorobou",
+    "meaning_en": "thief; burglar",
+    "exampleSentence": "泥棒が入ったと警察に言った。 (I told the police that a thief entered.)"
+  },
+  {
+    "word": "動物園",
+    "reading": "どうぶつえん",
+    "romaji": "doubutsuen",
+    "meaning_en": "zoo",
+    "exampleSentence": "週末に動物園へ行きます。 (I will go to the zoo on the weekend.)"
+  },
+  {
+    "word": "道具",
+    "reading": "どうぐ",
+    "romaji": "dougu",
+    "meaning_en": "tool; implement",
+    "exampleSentence": "道具をちゃんとしまってください。 (Please put away the tools properly.)"
+  },
+  {
+    "word": "枝",
+    "reading": "えだ",
+    "romaji": "eda",
+    "meaning_en": "branch; twig",
+    "exampleSentence": "枝が鳥に折られた。 (The branch was broken by a bird.)"
+  },
+  {
+    "word": "遠慮",
+    "reading": "えんりょ",
+    "romaji": "enryo",
+    "meaning_en": "restraint; reserve; hesitation; to refrain",
+    "exampleSentence": "遠慮せずにどうぞ。 (Please don't hesitate.)"
+  },
+  {
+    "word": "選ぶ",
+    "reading": "えらぶ",
+    "romaji": "erabu",
+    "meaning_en": "to choose; to select",
+    "exampleSentence": "好きな色を選んでください。 (Please choose your favorite color.)"
+  },
+  {
+    "word": "エスカレーター",
+    "reading": "エスカレーター",
+    "romaji": "esukareetaa",
+    "meaning_en": "escalator",
+    "exampleSentence": "エスカレーターで上がってください。 (Please go up by escalator.)"
+  },
+  {
+    "word": "ファックス",
+    "reading": "ファックス",
+    "romaji": "fakkusu",
+    "meaning_en": "fax; to fax",
+    "exampleSentence": "書類をファックスで送りました。 (I sent the document by fax.)"
+  },
+  {
+    "word": "不便",
+    "reading": "ふべん",
+    "romaji": "fuben",
+    "meaning_en": "inconvenient; inconvenience",
+    "exampleSentence": "この場所は不便だ。 (This place is inconvenient.)"
+  },
+  {
+    "word": "増える",
+    "reading": "ふえる",
+    "romaji": "fueru",
+    "meaning_en": "to increase; to multiply (intransitive)",
+    "exampleSentence": "参加者が増えている。 (Participants are increasing.)"
+  },
+  {
+    "word": "深い",
+    "reading": "ふかい",
+    "romaji": "fukai",
+    "meaning_en": "deep; profound",
+    "exampleSentence": "海はとても深い。 (The sea is very deep.)"
+  },
+  {
+    "word": "復習",
+    "reading": "ふくしゅう",
+    "romaji": "fukushuu",
+    "meaning_en": "review; revision",
+    "exampleSentence": "授業の復習をしてください。 (Please review the lesson.)"
+  },
+  {
+    "word": "複雑",
+    "reading": "ふくざつ",
+    "romaji": "fukuzatsu",
+    "meaning_en": "complex; complicated",
+    "exampleSentence": "手続きが複雑だ。 (The procedure is complicated.)"
+  },
+  {
+    "word": "踏む",
+    "reading": "ふむ",
+    "romaji": "fumu",
+    "meaning_en": "to step on; to tread on",
+    "exampleSentence": "ゴムを踏んで滑った。 (I stepped on gum and slipped.)"
+  },
+  {
+    "word": "船",
+    "reading": "ふね",
+    "romaji": "fune",
+    "meaning_en": "ship; boat",
+    "exampleSentence": "船で島へ行きました。 (I went to the island by boat.)"
+  },
+  {
+    "word": "降り出す",
+    "reading": "ふりだす",
+    "romaji": "furidasu",
+    "meaning_en": "to start to rain; to begin to fall",
+    "exampleSentence": "急に雨が降り出した。 (It suddenly started to rain.)"
+  },
+  {
+    "word": "布団",
+    "reading": "ふとん",
+    "romaji": "futon",
+    "meaning_en": "Japanese bedding; futon",
+    "exampleSentence": "夜は布団で寝ます。 (I sleep on a futon at night.)"
+  },
+  {
+    "word": "太る",
+    "reading": "ふとる",
+    "romaji": "futoru",
+    "meaning_en": "to gain weight; to become fat",
+    "exampleSentence": "最近太ってきた。 (I've been gaining weight recently.)"
+  },
+  {
+    "word": "普通",
+    "reading": "ふつう",
+    "romaji": "futsuu",
+    "meaning_en": "ordinary; normal; usually",
+    "exampleSentence": "普通は九時に始まります。 (Usually it starts at nine.)"
+  },
+  {
+    "word": "ガラス",
+    "reading": "ガラス",
+    "romaji": "garasu",
+    "meaning_en": "glass",
+    "exampleSentence": "窓のガラスが割れた。 (The window glass broke.)"
+  },
+  {
+    "word": "ガソリン",
+    "reading": "ガソリン",
+    "romaji": "gasorin",
+    "meaning_en": "gasoline; petrol",
+    "exampleSentence": "ガソリンを入れてください。 (Please fill up with gasoline.)"
+  },
+  {
+    "word": "ガソリンスタンド",
+    "reading": "ガソリンスタンド",
+    "romaji": "gasorin sutando",
+    "meaning_en": "gas station; petrol station",
+    "exampleSentence": "近くのガソリンスタンドはどこですか？ (Where is the nearest gas station?)"
+  },
+  {
+    "word": "ガス",
+    "reading": "ガス",
+    "romaji": "gasu",
+    "meaning_en": "gas",
+    "exampleSentence": "ガスの点検をお願いします。 (Please inspect the gas.)"
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "romaji": "genin",
+    "meaning_en": "cause; origin",
+    "exampleSentence": "事故の原因を調べます。 (We will investigate the cause of the accident.)"
+  },
+  {
+    "word": "下宿",
+    "reading": "げしゅく",
+    "romaji": "geshuku",
+    "meaning_en": "boarding; lodging; boarding house",
+    "exampleSentence": "大学近くに下宿しています。 (I board near the university.)"
+  },
+  {
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "romaji": "gijutsu",
+    "meaning_en": "technology; technique; skill",
+    "exampleSentence": "新しい技術を学びたい。 (I want to learn new technology.)"
+  },
+  {
+    "word": "ごちそう",
+    "reading": "ごちそう",
+    "romaji": "gochisou",
+    "meaning_en": "a feast; treat",
+    "exampleSentence": "今日はごちそうをありがとう。 (Thank you for the feast today.)"
+  },
+  {
+    "word": "ごみ",
+    "reading": "ごみ",
+    "romaji": "gomi",
+    "meaning_en": "trash; garbage",
+    "exampleSentence": "ごみはここに捨ててください。 (Please throw garbage here.)"
+  },
+  {
+    "word": "ご覧になる",
+    "reading": "ごらんになる",
+    "romaji": "goran ni naru",
+    "meaning_en": "(respectful) to see; to look",
+    "exampleSentence": "どうぞご覧になってください。 (Please take a look — polite.)"
+  },
+  {
+    "word": "ご主人",
+    "reading": "ごしゅじん",
+    "romaji": "goshujin",
+    "meaning_en": "your husband; his husband",
+    "exampleSentence": "ご主人はお元気ですか？ (Is your husband well?)"
+  },
+  {
+    "word": "ご存じ",
+    "reading": "ごぞんじ",
+    "romaji": "gozonji",
+    "meaning_en": "knowledge; knowing (honorific)",
+    "exampleSentence": "ご存じでしたか？ (Did you know? — polite)"
+  },
+  {
+    "word": "具合",
+    "reading": "ぐあい",
+    "romaji": "guai",
+    "meaning_en": "condition; state; health",
+    "exampleSentence": "具合が悪いので休みます。 (I'm not feeling well, so I will rest.)"
+  },
+  {
+    "word": "葉",
+    "reading": "は",
+    "romaji": "ha",
+    "meaning_en": "leaf; foliage",
+    "exampleSentence": "木の葉がきれいに色づいた。 (The tree leaves colored beautifully.)"
+  },
+  {
+    "word": "拝見",
+    "reading": "はいけん",
+    "romaji": "haiken",
+    "meaning_en": "(humble) seeing; looking (humble form of 見る)",
+    "exampleSentence": "拝見させていただきます。 (I will humbly take a look.)"
+  },
+  {
+    "word": "歯医者",
+    "reading": "はいしゃ",
+    "romaji": "haisha",
+    "meaning_en": "dentist",
+    "exampleSentence": "明日歯医者に行きます。 (I will go to the dentist tomorrow.)"
+  },
+  {
+    "word": "はっきり",
+    "reading": "はっきり",
+    "romaji": "hakkiri",
+    "meaning_en": "clearly; distinctly",
+    "exampleSentence": "はっきり言ってください。 (Please say it clearly.)"
+  },
+  {
+    "word": "運ぶ",
+    "reading": "はこぶ",
+    "romaji": "hakobu",
+    "meaning_en": "to carry; to transport",
+    "exampleSentence": "重い箱を運んでください。 (Please carry the heavy box.)"
+  },
+  {
+    "word": "花見",
+    "reading": "はなみ",
+    "romaji": "hanami",
+    "meaning_en": "cherry-blossom viewing",
+    "exampleSentence": "春に花見を楽しみます。 (I enjoy cherry-blossom viewing in spring.)"
+  },
+  {
+    "word": "ハンドバッグ",
+    "reading": "ハンドバッグ",
+    "romaji": "handobaggu",
+    "meaning_en": "handbag; purse",
+    "exampleSentence": "新しいハンドバッグを買いました。 (I bought a new handbag.)"
+  },
+  {
+    "word": "反対",
+    "reading": "はんたい",
+    "romaji": "hantai",
+    "meaning_en": "opposition; opposite; against",
+    "exampleSentence": "多くの人がその計画に反対した。 (Many people opposed that plan.)"
+  },
+  {
+    "word": "払う",
+    "reading": "はらう",
+    "romaji": "harau",
+    "meaning_en": "to pay; to brush off",
+    "exampleSentence": "レジでお金を払いました。 (I paid at the register.)"
+  },
+  {
+    "word": "発音",
+    "reading": "はつおん",
+    "romaji": "hatsuon",
+    "meaning_en": "pronunciation",
+    "exampleSentence": "発音を練習しましょう。 (Let's practice pronunciation.)"
+  },
+  {
+    "word": "林",
+    "reading": "はやし",
+    "romaji": "hayashi",
+    "meaning_en": "woods; grove; small forest",
+    "exampleSentence": "林を散歩しました。 (I took a walk in the woods.)"
+  },
+  {
+    "word": "恥ずかしい",
+    "reading": "はずかしい",
+    "romaji": "hazukashii",
+    "meaning_en": "embarrassed; shy",
+    "exampleSentence": "間違えて恥ずかしかった。 (I was embarrassed to make a mistake.)"
+  },
+  
+  {
+    "word": "変",
+    "reading": "へん",
+    "romaji": "hen",
+    "meaning_en": "strange; peculiar; weird",
+    "exampleSentence": "あの人の行動はちょっと変だ。 (That person's behavior is a bit strange.)"
+  },
+  {
+    "word": "返事",
+    "reading": "へんじ",
+    "romaji": "henji",
+    "meaning_en": "reply; answer; response",
+    "exampleSentence": "メールに返事をください。 (Please reply to my email.)"
+  },
+  {
+    "word": "火",
+    "reading": "ひ",
+    "romaji": "hi",
+    "meaning_en": "fire",
+    "exampleSentence": "火を消してください。 (Please extinguish the fire.)"
+  },
+  {
+    "word": "酷い",
+    "reading": "ひどい",
+    "romaji": "hidoi",
+    "meaning_en": "terrible; awful",
+    "exampleSentence": "彼の言い方は酷かった。 (His way of speaking was terrible.)"
+  },
+  {
+    "word": "冷える",
+    "reading": "ひえる",
+    "romaji": "hieru",
+    "meaning_en": "to grow cold; to get chilly",
+    "exampleSentence": "夜になると急に冷えてきた。 (It suddenly got cold as night fell.)"
+  },
+  {
+    "word": "髭",
+    "reading": "ひげ",
+    "romaji": "hige",
+    "meaning_en": "beard; moustache",
+    "exampleSentence": "彼は髭を生やしています。 (He has a beard.)"
+  },
+  {
+    "word": "",
+    "reading": "ひじょうに",
+    "romaji": "hijou ni",
+    "meaning_en": "extremely; exceedingly",
+    "exampleSentence": "この問題は非常に重要です。 (This issue is extremely important.)"
+  },
+  {
+    "word": "光",
+    "reading": "ひかり",
+    "romaji": "hikari",
+    "meaning_en": "light; beam; radiance",
+    "exampleSentence": "窓から光が差し込む。 (Light streams in through the window.)"
+  },
+  {
+    "word": "光る",
+    "reading": "ひかる",
+    "romaji": "hikaru",
+    "meaning_en": "to shine; to glitter",
+    "exampleSentence": "星が夜空に光っている。 (The stars are shining in the night sky.)"
+  },
+  {
+    "word": "引き出し",
+    "reading": "ひきだし",
+    "romaji": "hikidashi",
+    "meaning_en": "drawer (in a desk); withdrawal (bank)",
+    "exampleSentence": "引き出しに書類を入れてください。 (Put the documents in the drawer.)"
+  },
+  {
+    "word": "引き出す",
+    "reading": "ひきだす",
+    "romaji": "hikidasu",
+    "meaning_en": "to withdraw; to pull out; to elicit",
+    "exampleSentence": "財布からお金を引き出した。 (I withdrew money from my wallet.)"
+  },
+  {
+    "word": "引っ越す",
+    "reading": "ひっこす",
+    "romaji": "hikkosu",
+    "meaning_en": "to move house; to relocate",
+    "exampleSentence": "来月、隣の町に引っ越します。 (I will move to the neighboring town next month.)"
+  },
+  {
+    "word": "飛行場",
+    "reading": "ひこうじょう",
+    "romaji": "hikoujou",
+    "meaning_en": "airfield; airport (small)",
+    "exampleSentence": "飛行場まで車で行きます。 (I will go to the airfield by car.)"
+  },
+  {
+    "word": "開く",
+    "reading": "ひらく",
+    "romaji": "hiraku",
+    "meaning_en": "to open; to hold (an event); to unwrap",
+    "exampleSentence": "会議は九時に開かれます。 (The meeting will be held at nine.)"
+  },
+  {
+    "word": "拾う",
+    "reading": "ひろう",
+    "romaji": "hirou",
+    "meaning_en": "to pick up; to find; to gather",
+    "exampleSentence": "道で財布を拾いました。 (I picked up a wallet on the street.)"
+  },
+  {
+    "word": "昼間",
+    "reading": "ひるま",
+    "romaji": "hiruma",
+    "meaning_en": "daytime; during the day",
+    "exampleSentence": "昼間はとても忙しかった。 (I was very busy during the day.)"
+  },
+  {
+    "word": "昼休み",
+    "reading": "ひるやすみ",
+    "romaji": "hiruyasumi",
+    "meaning_en": "lunch break; noon recess",
+    "exampleSentence": "昼休みに友達と昼ご飯を食べた。 (I ate lunch with friends during the lunch break.)"
+  },
+  {
+    "word": "",
+    "reading": "ひさしぶり",
+    "romaji": "hisashiburi",
+    "meaning_en": "after a long time; it's been a while",
+    "exampleSentence": "久しぶりに会ったね。 (Long time no see.)"
+  },
+  {
+    "word": "褒める",
+    "reading": "ほめる",
+    "romaji": "homeru",
+    "meaning_en": "to praise; to compliment",
+    "exampleSentence": "先生が作文を褒めてくれた。 (The teacher praised my essay.)"
+  },
+  {
+    "word": "翻訳",
+    "reading": "ほんやく",
+    "romaji": "honyaku",
+    "meaning_en": "translation; to translate",
+    "exampleSentence": "本を英語に翻訳しました。 (I translated the book into English.)"
+  },
+  {
+    "word": "星",
+    "reading": "ほし",
+    "romaji": "hoshi",
+    "meaning_en": "star",
+    "exampleSentence": "夜空に星がいっぱい見える。 (I can see many stars in the night sky.)"
+  },
+  {
+    "word": "ほとんど",
+    "reading": "ほとんど",
+    "romaji": "hotondo",
+    "meaning_en": "mostly; almost; nearly all",
+    "exampleSentence": "宿題はほとんど終わった。 (Most of the homework is finished.)"
+  },
+  {
+    "word": "法律",
+    "reading": "ほうりつ",
+    "romaji": "houritsu",
+    "meaning_en": "law; statute",
+    "exampleSentence": "法律を守ることは大切だ。 (It is important to follow the law.)"
+  },
+  {
+    "word": "放送",
+    "reading": "ほうそう",
+    "romaji": "housou",
+    "meaning_en": "broadcast; broadcasting",
+    "exampleSentence": "ニュースが今放送されています。 (The news is being broadcast now.)"
+  },
+  {
+    "word": "一度",
+    "reading": "いちど",
+    "romaji": "ichido",
+    "meaning_en": "once; one time; on one occasion",
+    "exampleSentence": "もう一度お願いします。 (Please do it once more.)"
+  },
+  {
+    "word": "以外",
+    "reading": "いがい",
+    "romaji": "igai",
+    "meaning_en": "except; other than; with the exception of",
+    "exampleSentence": "日曜日以外は毎日働きます。 (I work every day except Sunday.)"
+  },
+  {
+    "word": "医学",
+    "reading": "いがく",
+    "romaji": "igaku",
+    "meaning_en": "medical science; medicine",
+    "exampleSentence": "彼は医学を学んでいます。 (He is studying medicine.)"
+  },
+  {
+    "word": "いじめる",
+    "reading": "いじめる",
+    "romaji": "ijimeru",
+    "meaning_en": "to bully; to tease; to mistreat",
+    "exampleSentence": "人をいじめてはいけません。 (You must not bully others.)"
+  },
+  {
+    "word": "以上",
+    "reading": "いじょう",
+    "romaji": "ijou",
+    "meaning_en": "more than; above; the above-mentioned",
+    "exampleSentence": "説明は以上です。 (That is all for the explanation.)"
+  },
+  {
+    "word": "以下",
+    "reading": "いか",
+    "romaji": "ika",
+    "meaning_en": "below; not exceeding; the following",
+    "exampleSentence": "以下の質問に答えてください。 (Please answer the following questions.)"
+  },
+  {
+    "word": "意見",
+    "reading": "いけん",
+    "romaji": "iken",
+    "meaning_en": "opinion; view; comment",
+    "exampleSentence": "あなたの意見を聞かせてください。 (Please tell me your opinion.)"
+  },
+  {
+    "word": "生き物",
+    "reading": "いきもの",
+    "romaji": "ikimono",
+    "meaning_en": "living thing; creature; animal",
+    "exampleSentence": "この島には珍しい生き物がいます。 (There are rare creatures on this island.)"
+  },
+  {
+    "word": "生きる",
+    "reading": "いきる",
+    "romaji": "ikiru",
+    "meaning_en": "to live; to exist",
+    "exampleSentence": "健康で生きることが大切だ。 (It is important to live healthily.)"
+  },
+  {
+    "word": "以内",
+    "reading": "いない",
+    "romaji": "inai",
+    "meaning_en": "within; inside of (a range or limit)",
+    "exampleSentence": "五分以内に戻ります。 (I'll be back within five minutes.)"
+  },
+  {
+    "word": "田舎",
+    "reading": "いなか",
+    "romaji": "inaka",
+    "meaning_en": "countryside; rural area; hometown",
+    "exampleSentence": "田舎での生活は静かだ。 (Life in the countryside is quiet.)"
+  },
+  {
+    "word": "祈る",
+    "reading": "いのる",
+    "romaji": "inoru",
+    "meaning_en": "to pray; to wish; to hope",
+    "exampleSentence": "合格を祈っています。 (I'm praying/wishing for your success.)"
+  },
+  {
+    "word": "いっぱい",
+    "reading": "いっぱい",
+    "romaji": "ippai",
+    "meaning_en": "full; a lot; many; one cupful",
+    "exampleSentence": "お腹がいっぱいです。 (I'm full.)"
+  },
+  {
+    "word": "色んな",
+    "reading": "いろんな",
+    "romaji": "ironna",
+    "meaning_en": "various; many kinds of",
+    "exampleSentence": "色んな国の料理を食べたい。 (I want to try food from various countries.)"
+  },
+  {
+    "word": "石",
+    "reading": "いし",
+    "romaji": "ishi",
+    "meaning_en": "stone; rock",
+    "exampleSentence": "川に大きな石がある。 (There is a big rock in the river.)"
+  },
+  {
+    "word": "急ぐ",
+    "reading": "いそぐ",
+    "romaji": "isogu",
+    "meaning_en": "to hurry; to rush; to haste",
+    "exampleSentence": "電車に間に合うよう急いだ。 (I hurried to catch the train.)"
+  },
+  {
+    "word": "一生懸命",
+    "reading": "いっしょうけんめい",
+    "romaji": "isshoukenmei",
+    "meaning_en": "with utmost effort; very hard; desperately",
+    "exampleSentence": "試験に向けて一生懸命勉強した。 (I studied very hard for the exam.)"
+  },
+  {
+    "word": "頂く",
+    "reading": "いただく",
+    "romaji": "itadaku",
+    "meaning_en": "(humble) to receive; to accept; to eat/drink (humble)",
+    "exampleSentence": "お土産を頂きました。 (I received a souvenir.)"
+  },
+  {
+    "word": "致す",
+    "reading": "いたす",
+    "romaji": "itasu",
+    "meaning_en": "(humble) to do",
+    "exampleSentence": "すぐに対応致します。 (I will handle it immediately — humble.)"
+  },
+  {
+    "word": "糸",
+    "reading": "いと",
+    "romaji": "ito",
+    "meaning_en": "thread; string; yarn",
+    "exampleSentence": "洋服の糸が切れた。 (The thread of my clothes snapped.)"
+  },
+  {
+    "word": "ジャム",
+    "reading": "ジャム",
+    "romaji": "jamu",
+    "meaning_en": "jam (fruit spread)",
+    "exampleSentence": "パンにジャムを塗った。 (I spread jam on the bread.)"
+  },
+  {
+    "word": "字",
+    "reading": "じ",
+    "romaji": "ji",
+    "meaning_en": "character; letter; kanji",
+    "exampleSentence": "この字の読み方が分かりません。 (I don't know how to read this character.)"
+  },
+  {
+    "word": "時代",
+    "reading": "じだい",
+    "romaji": "jidai",
+    "meaning_en": "era; period; age",
+    "exampleSentence": "その時代の音楽は人気だった。 (The music of that era was popular.)"
+  },
+  {
+    "word": "事故",
+    "reading": "じこ",
+    "romaji": "jiko",
+    "meaning_en": "accident; incident",
+    "exampleSentence": "駅前で事故がありました。 (There was an accident in front of the station.)"
+  },
+  {
+    "word": "事務所",
+    "reading": "じむしょ",
+    "romaji": "jimusho",
+    "meaning_en": "office; agency",
+    "exampleSentence": "事務所で働いています。 (I work at an office.)"
+  },
+  {
+    "word": "神社",
+    "reading": "じんじゃ",
+    "romaji": "jinja",
+    "meaning_en": "Shinto shrine",
+    "exampleSentence": "初詣に神社へ行きます。 (I go to a shrine for New Year's visit.)"
+  },
+  {
+    "word": "人口",
+    "reading": "じんこう",
+    "romaji": "jinkou",
+    "meaning_en": "population",
+    "exampleSentence": "この町の人口は減っている。 (The population of this town is decreasing.)"
+  },
+  {
+    "word": "人生",
+    "reading": "じんせい",
+    "romaji": "jinsei",
+    "meaning_en": "human life; lifetime",
+    "exampleSentence": "人生は一度きりだ。 (You only live once.)"
+  },
+  {
+    "word": "地震",
+    "reading": "じしん",
+    "romaji": "jishin",
+    "meaning_en": "earthquake",
+    "exampleSentence": "昨夜小さな地震がありました。 (There was a small earthquake last night.)"
+  },
+  {
+    "word": "辞典",
+    "reading": "じてん",
+    "romaji": "jiten",
+    "meaning_en": "dictionary; lexicon",
+    "exampleSentence": "辞典で単語の意味を調べた。 (I looked up the word's meaning in the dictionary.)"
+  },
+  {
+    "word": "自由",
+    "reading": "じゆう",
+    "romaji": "jiyuu",
+    "meaning_en": "freedom; liberty; free",
+    "exampleSentence": "自由に意見を言ってください。 (Please feel free to express your opinion.)"
+  },
+  {
+    "word": "女性",
+    "reading": "じょせい",
+    "romaji": "josei",
+    "meaning_en": "woman; female",
+    "exampleSentence": "会議には多くの女性が参加した。 (Many women participated in the meeting.)"
+  },
+  {
+    "word": "準備",
+    "reading": "じゅんび",
+    "romaji": "junbi",
+    "meaning_en": "preparation; arrangements",
+    "exampleSentence": "旅行の準備を始めた。 (I started preparing for the trip.)"
+  },
+  {
+    "word": "十分",
+    "reading": "じゅうぶん",
+    "romaji": "juubun",
+    "meaning_en": "enough; sufficient; plenty",
+    "exampleSentence": "休憩は十分にとってください。 (Please take enough breaks.)"
+  },
+  {
+    "word": "柔道",
+    "reading": "じゅうどう",
+    "romaji": "juudou",
+    "meaning_en": "judo (martial art)",
+    "exampleSentence": "中学で柔道を習った。 (I learned judo in junior high.)"
+  },
+  {
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "romaji": "juusho",
+    "meaning_en": "address (residence)",
+    "exampleSentence": "住所を教えてください。 (Please tell me your address.)"
+  },
+  {
+    "word": "カーテン",
+    "reading": "カーテン",
+    "romaji": "kaaten",
+    "meaning_en": "curtain",
+    "exampleSentence": "朝はカーテンを開けます。 (I open the curtains in the morning.)"
+  },
+  {
+    "word": "壁",
+    "reading": "かべ",
+    "romaji": "kabe",
+    "meaning_en": "wall",
+    "exampleSentence": "壁に絵を掛けた。 (I hung a picture on the wall.)"
+  },
+  {
+    "word": "課長",
+    "reading": "かちょう",
+    "romaji": "kachou",
+    "meaning_en": "section manager; section chief",
+    "exampleSentence": "課長に相談しましょう。 (Let's consult the section manager.)"
+  },
+  {
+    "word": "帰り",
+    "reading": "かえり",
+    "romaji": "kaeri",
+    "meaning_en": "return; coming back; homeward",
+    "exampleSentence": "帰りにスーパーに寄ります。 (I'll stop by the supermarket on the way home.)"
+  },
+  {
+    "word": "変える",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "meaning_en": "to change; to alter; to transform (transitive)",
+    "exampleSentence": "スケジュールを変えました。 (I changed the schedule.)"
+  },
+  {
+    "word": "科学",
+    "reading": "かがく",
+    "romaji": "kagaku",
+    "meaning_en": "science",
+    "exampleSentence": "科学の実験をしました。 (We did a science experiment.)"
+  },
+  {
+    "word": "鏡",
+    "reading": "かがみ",
+    "romaji": "kagami",
+    "meaning_en": "mirror",
+    "exampleSentence": "鏡で髪を直した。 (I fixed my hair using the mirror.)"
+  },
+  {
+    "word": "海岸",
+    "reading": "かいがん",
+    "romaji": "kaigan",
+    "meaning_en": "coast; shore; seaside",
+    "exampleSentence": "海岸で散歩をした。 (I took a walk along the coast.)"
+  },
+  {
+    "word": "会議",
+    "reading": "かいぎ",
+    "romaji": "kaigi",
+    "meaning_en": "meeting; conference; session",
+    "exampleSentence": "会議は午後二時からです。 (The meeting starts at 2 PM.)"
+  },
+  {
+    "word": "会議室",
+    "reading": "かいぎしつ",
+    "romaji": "kaigishitsu",
+    "meaning_en": "conference room; meeting room",
+    "exampleSentence": "会議室を予約しました。 (I reserved the conference room.)"
+  },
+  {
+    "word": "会場",
+    "reading": "かいじょう",
+    "romaji": "kaijou",
+    "meaning_en": "venue; event site; assembly hall",
+    "exampleSentence": "会場は駅から近いです。 (The venue is near the station.)"
+  },
+  {
+    "word": "会話",
+    "reading": "かいわ",
+    "romaji": "kaiwa",
+    "meaning_en": "conversation; dialog; talk",
+    "exampleSentence": "日本語で会話の練習をします。 (I practice conversation in Japanese.)"
+  },
+  {
+    "word": "火事",
+    "reading": "かじ",
+    "romaji": "kaji",
+    "meaning_en": "fire; conflagration (accidental)",
+    "exampleSentence": "近くで火事があった。 (There was a fire nearby.)"
+  },
+  {
+    "word": "格好",
+    "reading": "かっこう",
+    "romaji": "kakkou",
+    "meaning_en": "appearance; shape; style",
+    "exampleSentence": "今日はいい格好をしているね。 (You look nice today.)"
+  },
+  {
+    "word": "構う",
+    "reading": "かまう",
+    "romaji": "kamau",
+    "meaning_en": "to mind; to care about; to be concerned",
+    "exampleSentence": "気にしないで構いません。 (You don't need to worry about it.)"
+  },
+  {
+    "word": "髪",
+    "reading": "かみ",
+    "romaji": "kami",
+    "meaning_en": "hair (on the head)",
+    "exampleSentence": "髪を短く切りました。 (I cut my hair short.)"
+  },
+  {
+    "word": "噛む",
+    "reading": "かむ",
+    "romaji": "kamu",
+    "meaning_en": "to bite; to chew",
+    "exampleSentence": "よく噛んで食べてください。 (Please chew well.)"
+  },
+  {
+    "word": "家内",
+    "reading": "かない",
+    "romaji": "kanai",
+    "meaning_en": "(one's) wife; inside the home; one's family",
+    "exampleSentence": "家内は料理が上手です。 (My wife is good at cooking.)"
+  },
+  {
+    "word": "必ず",
+    "reading": "かならず",
+    "romaji": "kanarazu",
+    "meaning_en": "without fail; surely; certainly",
+    "exampleSentence": "約束は必ず守ってください。 (Please be sure to keep your promise.)"
+  },
+  {
+    "word": "悲しい",
+    "reading": "かなしい",
+    "romaji": "kanashii",
+    "meaning_en": "sad",
+    "exampleSentence": "映画の結末が悲しかった。 (The ending of the movie was sad.)"
+  },
+  {
+    "word": "考える",
+    "reading": "かんがえる",
+    "romaji": "kangaeru",
+    "meaning_en": "to think; to consider",
+    "exampleSentence": "次のステップをよく考えよう。 (Let's think carefully about the next step.)"
+  },
+  {
+    "word": "看護婦",
+    "reading": "かんごふ",
+    "romaji": "kangofu",
+    "meaning_en": "female nurse (term now often 看護師)",
+    "exampleSentence": "看護婦さんが親切にしてくれた。 (The nurse was kind.)"
+  },
+  {
+    "word": "関係",
+    "reading": "かんけい",
+    "romaji": "kankei",
+    "meaning_en": "relation; relationship; connection",
+    "exampleSentence": "彼とは仕事の関係だけだ。 (I only have a work relationship with him.)"
+  },
+  {
+    "word": "彼女",
+    "reading": "かのじょ",
+    "romaji": "kanojo",
+    "meaning_en": "she; her; girlfriend",
+    "exampleSentence": "彼女は明日来ます。 (She will come tomorrow.)"
+  },
+  {
+    "word": "簡単",
+    "reading": "かんたん",
+    "romaji": "kantan",
+    "meaning_en": "simple; easy",
+    "exampleSentence": "この問題は簡単です。 (This problem is easy.)"
+  },
+  {
+    "word": "彼",
+    "reading": "かれ",
+    "romaji": "kare",
+    "meaning_en": "he; him; his",
+    "exampleSentence": "彼は来週出張します。 (He will go on a business trip next week.)"
+  },
+  {
+    "word": "彼ら",
+    "reading": "かれら",
+    "romaji": "karera",
+    "meaning_en": "they; them (for people)",
+    "exampleSentence": "彼らは先に行きました。 (They went ahead.)"
+  },
+  {
+    "word": "形",
+    "reading": "かたち",
+    "romaji": "katachi",
+    "meaning_en": "shape; form; figure",
+    "exampleSentence": "箱の形が少し変だ。 (The shape of the box is a bit odd.)"
+  },
+  {
+    "word": "片付ける",
+    "reading": "かたづける",
+    "romaji": "katadzukeru",
+    "meaning_en": "to tidy up; to put in order",
+    "exampleSentence": "部屋を片付けてください。 (Please tidy up the room.)"
+  },
+  {
+    "word": "硬い",
+    "reading": "かたい",
+    "romaji": "katai",
+    "meaning_en": "hard; solid; rigid",
+    "exampleSentence": "この肉は硬くて噛めない。 (This meat is so tough I can't chew it.)"
+  },
+  {
+    "word": "勝つ",
+    "reading": "かつ",
+    "romaji": "katsu",
+    "meaning_en": "to win; to be victorious",
+    "exampleSentence": "試合に勝って嬉しい。 (I'm happy we won the match.)"
+  },
+  {
+    "word": "乾く",
+    "reading": "かわく",
+    "romaji": "kawaku",
+    "meaning_en": "to get dry; to become dry",
+    "exampleSentence": "洗濯物が乾いた。 (The laundry has dried.)"
+  },
+  {
+    "word": "代わり",
+    "reading": "かわり",
+    "romaji": "kawari",
+    "meaning_en": "instead; substitute; replacement",
+    "exampleSentence": "私の代わりに行ってください。 (Please go in my place.)"
+  },
+  {
+    "word": "変わる",
+    "reading": "かわる",
+    "romaji": "kawaru",
+    "meaning_en": "to change; to vary; to be transformed (intransitive)",
+    "exampleSentence": "季節が変わる。 (The season changes.)"
+  },
+  {
+    "word": "通う",
+    "reading": "かよう",
+    "romaji": "kayou",
+    "meaning_en": "to commute; to go to and from; to attend regularly",
+    "exampleSentence": "大学に電車で通っています。 (I commute to the university by train.)"
+  },
+  {
+    "word": "飾る",
+    "reading": "かざる",
+    "romaji": "kazaru",
+    "meaning_en": "to decorate; to display",
+    "exampleSentence": "部屋に花を飾った。 (I decorated the room with flowers.)"
+  },
+  {
+    "word": "毛",
+    "reading": "け",
+    "romaji": "ke",
+    "meaning_en": "hair; fur; wool",
+    "exampleSentence": "犬の毛が服に付いた。 (Dog hair stuck to my clothes.)"
+  },
+  {
+    "word": "ケーキ",
+    "reading": "ケーキ",
+    "romaji": "keeki",
+    "meaning_en": "cake",
+    "exampleSentence": "誕生日にケーキを食べました。 (I ate cake on my birthday.)"
+  },
+  {
+    "word": "怪我",
+    "reading": "けが",
+    "romaji": "kega",
+    "meaning_en": "injury; wound",
+    "exampleSentence": "転んで怪我をした。 (I fell and got injured.)"
+  },
+  {
+    "word": "計画",
+    "reading": "けいかく",
+    "romaji": "keikaku",
+    "meaning_en": "plan; project; schedule",
+    "exampleSentence": "旅行の計画を立てましょう。 (Let's make travel plans.)"
+  },
+  
+  {
+    "word": "経験",
+    "reading": "けいけん",
+    "romaji": "keiken",
+    "meaning_en": "experience; to experience (suru verb)",
+    "exampleSentence": "海外での経験は大切です。 (Experience abroad is important.)"
+  },
+  {
+    "word": "警察",
+    "reading": "けいさつ",
+    "romaji": "keisatsu",
+    "meaning_en": "police",
+    "exampleSentence": "警察に通報しました。 (I reported it to the police.)"
+  },
+  {
+    "word": "経済",
+    "reading": "けいざい",
+    "romaji": "keizai",
+    "meaning_en": "economy; economics",
+    "exampleSentence": "経済のニュースを読んだ。 (I read the economic news.)"
+  },
+  {
+    "word": "見物",
+    "reading": "けんぶつ",
+    "romaji": "kenbutsu",
+    "meaning_en": "sightseeing; viewing; to see (suru verb)",
+    "exampleSentence": "京都で見物を楽しんだ。 (I enjoyed sightseeing in Kyoto.)"
+  },
+  {
+    "word": "喧嘩",
+    "reading": "けんか",
+    "romaji": "kenka",
+    "meaning_en": "quarrel; fight; to quarrel (suru verb)",
+    "exampleSentence": "兄と喧嘩してしまった。 (I ended up fighting with my brother.)"
+  },
+  {
+    "word": "研究",
+    "reading": "けんきゅう",
+    "romaji": "kenkyuu",
+    "meaning_en": "research; study; to research (suru verb)",
+    "exampleSentence": "教授の研究室で働いています。 (I work in the professor's research lab.)"
+  },
+  {
+    "word": "研究室",
+    "reading": "けんきゅうしつ",
+    "romaji": "kenkyuushitsu",
+    "meaning_en": "laboratory; research room",
+    "exampleSentence": "研究室で実験を行いました。 (I conducted an experiment in the lab.)"
+  },
+  {
+    "word": "消しゴム",
+    "reading": "けしゴム",
+    "romaji": "keshigomu",
+    "meaning_en": "eraser",
+    "exampleSentence": "消しゴムで字を消してください。 (Please erase the letters with an eraser.)"
+  },
+  {
+    "word": "景色",
+    "reading": "けしき",
+    "romaji": "keshiki",
+    "meaning_en": "scenery; landscape",
+    "exampleSentence": "山の景色がとても綺麗だった。 (The mountain scenery was very beautiful.)"
+  },
+  {
+    "word": "気",
+    "reading": "き",
+    "romaji": "ki",
+    "meaning_en": "spirit; mood; energy; feeling",
+    "exampleSentence": "やる気が出ない。 (I don't feel motivated.)"
+  },
+  {
+    "word": "厳しい",
+    "reading": "きびしい",
+    "romaji": "kibishii",
+    "meaning_en": "strict; severe; harsh",
+    "exampleSentence": "先生は厳しいけれど優しいです。 (The teacher is strict but kind.)"
+  },
+  {
+    "word": "気分",
+    "reading": "きぶん",
+    "romaji": "kibun",
+    "meaning_en": "feeling; mood",
+    "exampleSentence": "今日は気分がいい。 (I feel good today.)"
+  },
+  {
+    "word": "機会",
+    "reading": "きかい",
+    "romaji": "kikai",
+    "meaning_en": "opportunity; chance",
+    "exampleSentence": "その仕事に応募する良い機会だ。 (It's a good opportunity to apply for that job.)"
+  },
+  {
+    "word": "危険",
+    "reading": "きけん",
+    "romaji": "kiken",
+    "meaning_en": "danger; hazardous; dangerous",
+    "exampleSentence": "立ち入り禁止、危険です。 (No entry — it's dangerous.)"
+  },
+  {
+    "word": "聞こえる",
+    "reading": "きこえる",
+    "romaji": "kikoeru",
+    "meaning_en": "to be heard; to be audible; to seem",
+    "exampleSentence": "外で音楽が聞こえる。 (I can hear music outside.)"
+  },
+  {
+    "word": "決まる",
+    "reading": "きまる",
+    "romaji": "kimaru",
+    "meaning_en": "to be decided; to be settled (intransitive)",
+    "exampleSentence": "会議で日程が決まった。 (The schedule was decided at the meeting.)"
+  },
+  {
+    "word": "決める",
+    "reading": "きめる",
+    "romaji": "kimeru",
+    "meaning_en": "to decide; to choose (transitive)",
+    "exampleSentence": "旅行の行き先を決めました。 (I decided the travel destination.)"
+  },
+  {
+    "word": "君",
+    "reading": "きみ",
+    "romaji": "kimi",
+    "meaning_en": "you (familiar, used toward equal/younger people)",
+    "exampleSentence": "君は何歳ですか？ (How old are you?)"
+  },
+  {
+    "word": "気持ち",
+    "reading": "きもち",
+    "romaji": "kimochi",
+    "meaning_en": "feeling; sensation; mood",
+    "exampleSentence": "その言葉は気持ちがよくなる。 (Those words make me feel good.)"
+  },
+  {
+    "word": "着物",
+    "reading": "きもの",
+    "romaji": "kimono",
+    "meaning_en": "kimono; traditional Japanese clothing",
+    "exampleSentence": "お祭りで着物を着ました。 (I wore a kimono at the festival.)"
+  },
+  {
+    "word": "近所",
+    "reading": "きんじょ",
+    "romaji": "kinjo",
+    "meaning_en": "neighborhood; vicinity",
+    "exampleSentence": "近所に新しい店ができた。 (A new shop opened in the neighborhood.)"
+  },
+  {
+    "word": "絹",
+    "reading": "きぬ",
+    "romaji": "kinu",
+    "meaning_en": "silk",
+    "exampleSentence": "この服は絹でできています。 (This garment is made of silk.)"
+  },
+  {
+    "word": "季節",
+    "reading": "きせつ",
+    "romaji": "kisetsu",
+    "meaning_en": "season",
+    "exampleSentence": "季節の変わり目に風邪をひきやすい。 (You easily catch a cold at the change of seasons.)"
+  },
+  {
+    "word": "汽車",
+    "reading": "きしゃ",
+    "romaji": "kisha",
+    "meaning_en": "train (steam train / older term)",
+    "exampleSentence": "昔の汽車が展示されている。 (An old steam train is on display.)"
+  },
+  {
+    "word": "規則",
+    "reading": "きそく",
+    "romaji": "kisoku",
+    "meaning_en": "rules; regulations",
+    "exampleSentence": "規則を守ってください。 (Please follow the rules.)"
+  },
+  {
+    "word": "子",
+    "reading": "こ",
+    "romaji": "ko",
+    "meaning_en": "child",
+    "exampleSentence": "子が公園で遊んでいる。 (The child is playing in the park.)"
+  },
+  {
+    "word": "心",
+    "reading": "こころ",
+    "romaji": "kokoro",
+    "meaning_en": "heart; mind; spirit",
+    "exampleSentence": "心を込めて書きました。 (I wrote it with all my heart.)"
+  },
+  {
+    "word": "国際",
+    "reading": "こくさい",
+    "romaji": "kokusai",
+    "meaning_en": "international",
+    "exampleSentence": "国際会議に参加します。 (I will attend an international conference.)"
+  },
+  {
+    "word": "細かい",
+    "reading": "こまかい",
+    "romaji": "komakai",
+    "meaning_en": "detailed; fine; small (amount)",
+    "exampleSentence": "細かいお金を持っていますか？ (Do you have small change?)"
+  },
+  {
+    "word": "米",
+    "reading": "こめ",
+    "romaji": "kome",
+    "meaning_en": "rice (uncooked; grain)",
+    "exampleSentence": "毎日米を食べます。 (I eat rice every day.)"
+  },
+  {
+    "word": "込む",
+    "reading": "こむ",
+    "romaji": "komu",
+    "meaning_en": "to be crowded; to be packed",
+    "exampleSentence": "電車がとても込んでいる。 (The train is very crowded.)"
+  },
+  {
+    "word": "今度",
+    "reading": "こんど",
+    "romaji": "kondo",
+    "meaning_en": "this time; next time; near future",
+    "exampleSentence": "今度の休みに旅行します。 (I'll travel on the next holiday.)"
+  },
+  {
+    "word": "",
+    "reading": "このあいだ",
+    "romaji": "kono aida",
+    "meaning_en": "the other day; recently",
+    "exampleSentence": "この間、映画を見ました。 (I saw a movie the other day.)"
+  },
+  {
+    "word": "",
+    "reading": "このごろ",
+    "romaji": "kono goro",
+    "meaning_en": "these days; lately; recently",
+    "exampleSentence": "このごろ忙しいです。 (I've been busy these days.)"
+  },
+  {
+    "word": "コンピュータ",
+    "reading": "コンピュータ",
+    "romaji": "konpyuuta",
+    "meaning_en": "computer",
+    "exampleSentence": "コンピュータでレポートを書いた。 (I wrote the report on the computer.)"
+  },
+  {
+    "word": "コンサート",
+    "reading": "コンサート",
+    "romaji": "konsaato",
+    "meaning_en": "concert",
+    "exampleSentence": "来週コンサートに行きます。 (I will go to a concert next week.)"
+  },
+  {
+    "word": "今夜",
+    "reading": "こんや",
+    "romaji": "konya",
+    "meaning_en": "this evening; tonight",
+    "exampleSentence": "今夜は星が見えますか？ (Can you see the stars tonight?)"
+  },
+  {
+    "word": "",
+    "reading": "これから",
+    "romaji": "korekara",
+    "meaning_en": "from now on; after this; hereafter",
+    "exampleSentence": "これから本気で勉強します。 (From now on I'll study seriously.)"
+  },
+  {
+    "word": "故障",
+    "reading": "こしょう",
+    "romaji": "koshou",
+    "meaning_en": "breakdown; failure; malfunction; to break down (suru)",
+    "exampleSentence": "エアコンが故障した。 (The air conditioner broke down.)"
+  },
+  {
+    "word": "答え",
+    "reading": "こたえ",
+    "romaji": "kotae",
+    "meaning_en": "answer; solution; response",
+    "exampleSentence": "問題の答えを教えてください。 (Please tell me the answer to the question.)"
+  },
+  {
+    "word": "小鳥",
+    "reading": "ことり",
+    "romaji": "kotori",
+    "meaning_en": "small bird",
+    "exampleSentence": "庭に小鳥が来た。 (A small bird came to the garden.)"
+  },
+  {
+    "word": "こう",
+    "reading": "こう",
+    "romaji": "kou",
+    "meaning_en": "like this; this way (adverb)",
+    "exampleSentence": "こうすると簡単です。 (It's easy if you do it this way.)"
+  },
+  {
+    "word": "校長",
+    "reading": "こうちょう",
+    "romaji": "kouchou",
+    "meaning_en": "principal; headmaster",
+    "exampleSentence": "校長先生が挨拶をした。 (The principal gave a greeting.)"
+  },
+  {
+    "word": "講堂",
+    "reading": "こうどう",
+    "romaji": "koudou",
+    "meaning_en": "auditorium; lecture hall",
+    "exampleSentence": "講堂で式典が行われた。 (A ceremony was held in the auditorium.)"
+  },
+  {
+    "word": "郊外",
+    "reading": "こうがい",
+    "romaji": "kougai",
+    "meaning_en": "suburb; outskirts",
+    "exampleSentence": "郊外に新しい住宅地ができた。 (A new residential area was built in the suburbs.)"
+  },
+  {
+    "word": "講義",
+    "reading": "こうぎ",
+    "romaji": "kougi",
+    "meaning_en": "lecture; lecture course",
+    "exampleSentence": "明日の講義は面白そうだ。 (Tomorrow's lecture seems interesting.)"
+  },
+  {
+    "word": "工業",
+    "reading": "こうぎょう",
+    "romaji": "kougyou",
+    "meaning_en": "industry; manufacturing",
+    "exampleSentence": "この地域は工業が盛んだ。 (This area has thriving industry.)"
+  },
+  {
+    "word": "工場",
+    "reading": "こうじょう",
+    "romaji": "koujou",
+    "meaning_en": "factory; plant",
+    "exampleSentence": "工場で働く人が多い。 (Many people work in factories.)"
+  },
+  {
+    "word": "高校",
+    "reading": "こうこう",
+    "romaji": "koukou",
+    "meaning_en": "senior high school; high school",
+    "exampleSentence": "高校の友達に会った。 (I met high school friends.)"
+  },
+  {
+    "word": "高校生",
+    "reading": "こうこうせい",
+    "romaji": "koukousei",
+    "meaning_en": "high school student",
+    "exampleSentence": "彼は高校生です。 (He is a high school student.)"
+  },
+  {
+    "word": "公務員",
+    "reading": "こうむいん",
+    "romaji": "koumuin",
+    "meaning_en": "public servant; government official",
+    "exampleSentence": "友人は公務員として働いている。 (My friend works as a civil servant.)"
+  },
+  {
+    "word": "高等学校",
+    "reading": "こうとうがっこう",
+    "romaji": "koutougakkou",
+    "meaning_en": "high school (formal)",
+    "exampleSentence": "高等学校で英語を教えています。 (I teach English at a high school.)"
+  },
+  {
+    "word": "交通",
+    "reading": "こうつう",
+    "romaji": "koutsuu",
+    "meaning_en": "traffic; transportation",
+    "exampleSentence": "交通情報を確認してください。 (Please check the traffic information.)"
+  },
+  {
+    "word": "怖い",
+    "reading": "こわい",
+    "romaji": "kowai",
+    "meaning_en": "scary; frightening",
+    "exampleSentence": "ホラー映画は怖い。 (Horror movies are scary.)"
+  },
+  {
+    "word": "壊れる",
+    "reading": "こわれる",
+    "romaji": "kowareru",
+    "meaning_en": "to be broken; to break (intransitive)",
+    "exampleSentence": "テレビが壊れてしまった。 (The TV broke.)"
+  },
+  {
+    "word": "壊す",
+    "reading": "こわす",
+    "romaji": "kowasu",
+    "meaning_en": "to break; to destroy (transitive)",
+    "exampleSentence": "子供が玩具を壊した。 (The child broke the toy.)"
+  },
+  {
+    "word": "首",
+    "reading": "くび",
+    "romaji": "kubi",
+    "meaning_en": "neck; head; dismissal (job)",
+    "exampleSentence": "コートで首が暖かい。 (My neck is warm with the coat on.)"
+  },
+  {
+    "word": "下さる",
+    "reading": "くださる",
+    "romaji": "kudasaru",
+    "meaning_en": "(respectful) to give (to me or in-group)",
+    "exampleSentence": "先生が本を下さった。 (The teacher gave me a book.)"
+  },
+  {
+    "word": "雲",
+    "reading": "くも",
+    "romaji": "kumo",
+    "meaning_en": "cloud",
+    "exampleSentence": "空に雲が多い。 (There are many clouds in the sky.)"
+  },
+  {
+    "word": "",
+    "reading": "くん",
+    "romaji": "kun",
+    "meaning_en": "suffix for familiar young males (e.g., -kun)",
+    "exampleSentence": "田中くんは元気です。 (Tanaka-kun is fine.)"
+  },
+  {
+    "word": "比べる",
+    "reading": "くらべる",
+    "romaji": "kuraberu",
+    "meaning_en": "to compare",
+    "exampleSentence": "値段を比べてから買います。 (I will compare prices before buying.)"
+  },
+  {
+    "word": "暮れる",
+    "reading": "くれる",
+    "romaji": "kureru",
+    "meaning_en": "to get dark; to end (day); to grow late",
+    "exampleSentence": "日はすぐに暮れてしまった。 (The day quickly turned to dusk.)"
+  },
+  {
+    "word": "草",
+    "reading": "くさ",
+    "romaji": "kusa",
+    "meaning_en": "grass; weed",
+    "exampleSentence": "公園の草が伸びた。 (The grass in the park has grown.)"
+  },
+  {
+    "word": "空気",
+    "reading": "くうき",
+    "romaji": "kuuki",
+    "meaning_en": "air; atmosphere",
+    "exampleSentence": "部屋の空気を入れ替えましょう。 (Let's change the air in the room.)"
+  },
+  {
+    "word": "空港",
+    "reading": "くうこう",
+    "romaji": "kuukou",
+    "meaning_en": "airport",
+    "exampleSentence": "空港で友達を迎えた。 (I met my friend at the airport.)"
+  },
+  {
+    "word": "客",
+    "reading": "きゃく",
+    "romaji": "kyaku",
+    "meaning_en": "guest; customer; visitor",
+    "exampleSentence": "レストランに客が多い。 (There are many customers at the restaurant.)"
+  },
+  {
+    "word": "教育",
+    "reading": "きょういく",
+    "romaji": "kyouiku",
+    "meaning_en": "education; upbringing; to educate (suru)",
+    "exampleSentence": "教育は将来の基礎だ。 (Education is the foundation of the future.)"
+  },
+  {
+    "word": "教会",
+    "reading": "きょうかい",
+    "romaji": "kyoukai",
+    "meaning_en": "church; Christian church",
+    "exampleSentence": "週末に教会へ行きました。 (I went to church on the weekend.)"
+  },
+  {
+    "word": "興味",
+    "reading": "きょうみ",
+    "romaji": "kyoumi",
+    "meaning_en": "interest; curiosity",
+    "exampleSentence": "その仕事に興味があります。 (I am interested in that job.)"
+  },
+  {
+    "word": "競争",
+    "reading": "きょうそう",
+    "romaji": "kyousou",
+    "meaning_en": "competition; rivalry; to compete (suru)",
+    "exampleSentence": "良い成績のために競争した。 (We competed for good results.)"
+  },
+  {
+    "word": "急",
+    "reading": "きゅう",
+    "romaji": "kyuu",
+    "meaning_en": "sudden; urgent; abrupt",
+    "exampleSentence": "急に雨が降ってきた。 (It suddenly started to rain.)"
+  },
+  {
+    "word": "急行",
+    "reading": "きゅうこう",
+    "romaji": "kyuukou",
+    "meaning_en": "express (train); hurrying; rush",
+    "exampleSentence": "急行に乗れば時間が短くなる。 (If you take the express, the trip is shorter.)"
+  },
+  {
+    "word": "間違える",
+    "reading": "まちがえる",
+    "romaji": "machigaeru",
+    "meaning_en": "to make a mistake; to confuse (transitive)",
+    "exampleSentence": "答えを間違えてしまった。 (I made a mistake in the answer.)"
+  },
+  {
+    "word": "参る",
+    "reading": "まいる",
+    "romaji": "mairu",
+    "meaning_en": "(humble) to go; to come; to be defeated",
+    "exampleSentence": "明日は神社に参ります。 (I will go to the shrine tomorrow — humble.)"
+  },
+  {
+    "word": "負ける",
+    "reading": "まける",
+    "romaji": "makeru",
+    "meaning_en": "to lose; to be defeated",
+    "exampleSentence": "試合に負けて悔しい。 (I'm frustrated to have lost the match.)"
+  },
+  {
+    "word": "漫画",
+    "reading": "まんが",
+    "romaji": "manga",
+    "meaning_en": "comic; manga",
+    "exampleSentence": "週末に漫画を読んだ。 (I read manga over the weekend.)"
+  },
+  {
+    "word": "間に合う",
+    "reading": "まにあう",
+    "romaji": "maniau",
+    "meaning_en": "to be in time; to meet a deadline",
+    "exampleSentence": "ギリギリで試合に間に合った。 (I barely made it to the match on time.)"
+  },
+  {
+    "word": "真ん中",
+    "reading": "まんなか",
+    "romaji": "mannaka",
+    "meaning_en": "middle; center",
+    "exampleSentence": "テーブルの真ん中に花がある。 (There is a flower in the center of the table.)"
+  },
+  {
+    "word": "周り",
+    "reading": "まわり",
+    "romaji": "mawari",
+    "meaning_en": "surroundings; around; vicinity",
+    "exampleSentence": "公園の周りを散歩した。 (I walked around the park.)"
+  },
+  {
+    "word": "回る",
+    "reading": "まわる",
+    "romaji": "mawaru",
+    "meaning_en": "to go around; to circulate; to rotate",
+    "exampleSentence": "地球は太陽の周りを回る。 (The Earth revolves around the Sun.)"
+  },
+  {
+    "word": "まず",
+    "reading": "まず",
+    "romaji": "mazu",
+    "meaning_en": "first of all; to start with",
+    "exampleSentence": "まず宿題を終わらせよう。 (First, let's finish the homework.)"
+  },
+  {
+    "word": "召し上がる",
+    "reading": "めしあがる",
+    "romaji": "meshiagaru",
+    "meaning_en": "(honorific) to eat; to drink",
+    "exampleSentence": "どうぞ召し上がってください。 (Please help yourself — polite.)"
+  },
+  {
+    "word": "珍しい",
+    "reading": "めずらしい",
+    "romaji": "mezurashii",
+    "meaning_en": "unusual; rare; uncommon",
+    "exampleSentence": "これは珍しい種類の花です。 (This is a rare type of flower.)"
+  },
+  {
+    "word": "見える",
+    "reading": "みえる",
+    "romaji": "mieru",
+    "meaning_en": "to be visible; to be seen; to appear",
+    "exampleSentence": "あの山は遠くからでも見える。 (You can see that mountain even from far away.)"
+  },
+  {
+    "word": "港",
+    "reading": "みなと",
+    "romaji": "minato",
+    "meaning_en": "port; harbor",
+    "exampleSentence": "港で船を見た。 (I saw a ship at the harbor.)"
+  },
+  {
+    "word": "味噌",
+    "reading": "みそ",
+    "romaji": "miso",
+    "meaning_en": "miso; fermented soybean paste",
+    "exampleSentence": "味噌汁は毎朝飲みます。 (I drink miso soup every morning.)"
+  },
+  {
+    "word": "見つかる",
+    "reading": "みつかる",
+    "romaji": "mitsukaru",
+    "meaning_en": "to be found; to be discovered (intransitive)",
+    "exampleSentence": "探していた本が見つかった。 (The book I was looking for was found.)"
+  },
+  {
+    "word": "見つける",
+    "reading": "みつける",
+    "romaji": "mitsukeru",
+    "meaning_en": "to find; to discover (transitive)",
+    "exampleSentence": "良い店を見つけました。 (I found a nice shop.)"
+  },
+  {
+    "word": "都",
+    "reading": "みやこ",
+    "romaji": "miyako",
+    "meaning_en": "capital (city); metropolis",
+    "exampleSentence": "古い都の跡を訪れた。 (I visited the ruins of the old capital.)"
+  },
+  {
+    "word": "湖",
+    "reading": "みずうみ",
+    "romaji": "mizuumi",
+    "meaning_en": "lake",
+    "exampleSentence": "湖でボートに乗った。 (I rode a boat on the lake.)"
+  },
+  {
+    "word": "戻る",
+    "reading": "もどる",
+    "romaji": "modoru",
+    "meaning_en": "to return; to go back; to come back",
+    "exampleSentence": "忘れ物に気づいて家に戻った。 (I noticed I forgot something and went back home.)"
+  },
+  {
+    "word": "木綿",
+    "reading": "もめん",
+    "romaji": "momen",
+    "meaning_en": "cotton (fabric)",
+    "exampleSentence": "このシャツは木綿で作られている。 (This shirt is made of cotton.)"
+  },
+  {
+    "word": "森",
+    "reading": "もり",
+    "romaji": "mori",
+    "meaning_en": "forest; woods",
+    "exampleSentence": "森でピクニックをした。 (I had a picnic in the forest.)"
+  },
+  {
+    "word": "",
+    "reading": "もし",
+    "romaji": "moshi",
+    "meaning_en": "if; in case; supposing",
+    "exampleSentence": "もし雨が降ったら、中止します。 (If it rains, we'll cancel.)"
+  },
+  {
+    "word": "申し上げる",
+    "reading": "もうしあげる",
+    "romaji": "moushiageru",
+    "meaning_en": "(humble) to say; to express (humble form)",
+    "exampleSentence": "心からお礼を申し上げます。 (I humbly express my gratitude.)"
+  },
+  {
+    "word": "申す",
+    "reading": "もうす",
+    "romaji": "mousu",
+    "meaning_en": "(humble) to be called; to say (humble)",
+    "exampleSentence": "私は田中と申します。 (My name is Tanaka — humble.)"
+  },
+  {
+    "word": "",
+    "reading": "もうすぐ",
+    "romaji": "mousugu",
+    "meaning_en": "soon; before long",
+    "exampleSentence": "もうすぐ桜が咲きます。 (The cherry blossoms will bloom soon.)"
+  },
+  {
+    "word": "迎える",
+    "reading": "むかえる",
+    "romaji": "mukaeru",
+    "meaning_en": "to go out to meet; to welcome; to greet",
+    "exampleSentence": "駅まで友人を迎えに行った。 (I went to the station to meet my friend.)"
+  },
+  {
+    "word": "昔",
+    "reading": "むかし",
+    "romaji": "mukashi",
+    "meaning_en": "long ago; once upon a time; old times",
+    "exampleSentence": "昔の写真を見た。 (I looked at old photos.)"
+  },
+  {
+    "word": "向かう",
+    "reading": "むかう",
+    "romaji": "mukau",
+    "meaning_en": "to head toward; to face; to go toward",
+    "exampleSentence": "駅に向かって歩いている。 (I am walking toward the station.)"
+  },
+  {
+    "word": "無理",
+    "reading": "むり",
+    "romaji": "muri",
+    "meaning_en": "impossible; unreasonable; forced",
+    "exampleSentence": "無理をすると体を壊します。 (If you push yourself too hard it will harm your health.)"
+  },
+  {
+    "word": "虫",
+    "reading": "むし",
+    "romaji": "mushi",
+    "meaning_en": "insect; bug",
+    "exampleSentence": "夏は虫が多い。 (There are many insects in summer.)"
+  },
+  {
+    "word": "息子",
+    "reading": "むすこ",
+    "romaji": "musuko",
+    "meaning_en": "son",
+    "exampleSentence": "息子は大学生です。 (My son is a university student.)"
+  },
+  {
+    "word": "娘",
+    "reading": "むすめ",
+    "romaji": "musume",
+    "meaning_en": "daughter",
+    "exampleSentence": "娘が来週入学します。 (My daughter will enter school next week.)"
+  },
+  {
+    "word": "投げる",
+    "reading": "なげる",
+    "romaji": "nageru",
+    "meaning_en": "to throw; to cast away",
+    "exampleSentence": "ボールを遠くに投げた。 (I threw the ball far.)"
+  },
+  {
+    "word": "泣く",
+    "reading": "なく",
+    "romaji": "naku",
+    "meaning_en": "to cry; to weep",
+    "exampleSentence": "赤ちゃんが夜中に泣いた。 (The baby cried during the night.)"
+  },
+  {
+    "word": "無くなる",
+    "reading": "なくなる",
+    "romaji": "naku naru",
+    "meaning_en": "to disappear; to be lost; to be used up",
+    "exampleSentence": "財布が無くなって困っています。 (My wallet has disappeared and I'm in trouble.)"
+  },
+  {
+    "word": "亡くなる",
+    "reading": "なくなる",
+    "romaji": "nakunaru",
+    "meaning_en": "to die; to pass away (euphemism)",
+    "exampleSentence": "彼のお祖父さんが亡くなりました。 (His grandfather passed away.)"
+  },
+  {
+    "word": "生",
+    "reading": "なま",
+    "romaji": "nama",
+    "meaning_en": "raw; uncooked; fresh; live",
+    "exampleSentence": "この寿司は生の魚を使っています。 (This sushi uses raw fish.)"
+  },
+  {
+    "word": "直る",
+    "reading": "なおる",
+    "romaji": "naoru",
+    "meaning_en": "to be fixed; to be repaired (intransitive)",
+    "exampleSentence": "時計が直って嬉しい。 (I'm glad the watch was fixed.)"
+  },
+  {
+    "word": "治る",
+    "reading": "なおる",
+    "romaji": "naoru",
+    "meaning_en": "to be cured; to heal (intransitive)",
+    "exampleSentence": "風邪がようやく治った。 (My cold finally got better.)"
+  },
+  {
+    "word": "慣れる",
+    "reading": "なれる",
+    "romaji": "nareru",
+    "meaning_en": "to get used to; to become accustomed to",
+    "exampleSentence": "新しい仕事に慣れてきた。 (I have gotten used to the new job.)"
+  },
+  {
+    "word": "鳴る",
+    "reading": "なる",
+    "romaji": "naru",
+    "meaning_en": "to sound; to ring; to resound",
+    "exampleSentence": "夜中に携帯が鳴った。 (My phone rang in the middle of the night.)"
+  },
+  {
+    "word": "",
+    "reading": "なるほど",
+    "romaji": "naruhodo",
+    "meaning_en": "I see; indeed; now I understand",
+    "exampleSentence": "なるほど、それで彼は来なかったのか。 (I see — that's why he didn't come.)"
+  },
+  {
+    "word": "寝坊",
+    "reading": "ねぼう",
+    "romaji": "nebou",
+    "meaning_en": "oversleeping; sleeping in",
+    "exampleSentence": "寝坊して授業に遅れた。 (I overslept and was late for class.)"
+  },
+  {
+    "word": "値段",
+    "reading": "ねだん",
+    "romaji": "nedan",
+    "meaning_en": "price; cost",
+    "exampleSentence": "この商品の値段はいくらですか？ (How much is the price of this product?)"
+  },
+  {
+    "word": "眠い",
+    "reading": "ねむい",
+    "romaji": "nemui",
+    "meaning_en": "sleepy; drowsy",
+    "exampleSentence": "授業中にとても眠かった。 (I was very sleepy during class.)"
+  },
+  {
+    "word": "眠る",
+    "reading": "ねむる",
+    "romaji": "nemuru",
+    "meaning_en": "to sleep; to slumber",
+    "exampleSentence": "子供はすぐに眠った。 (The child fell asleep quickly.)"
+  },
+  {
+    "word": "熱",
+    "reading": "ねつ",
+    "romaji": "netsu",
+    "meaning_en": "fever; heat",
+    "exampleSentence": "昨夜から熱がある。 (I've had a fever since last night.)"
+  },
+  {
+    "word": "苦い",
+    "reading": "にがい",
+    "romaji": "nigai",
+    "meaning_en": "bitter (taste)",
+    "exampleSentence": "この薬は苦くて飲みにくい。 (This medicine is bitter and hard to take.)"
+  },
+  {
+    "word": "逃げる",
+    "reading": "にげる",
+    "romaji": "nigeru",
+    "meaning_en": "to escape; to run away; to flee",
+    "exampleSentence": "危険になったのでその場から逃げた。 (It became dangerous, so I ran away from there.)"
+  },
+  {
+    "word": "二階建て",
+    "reading": "にかいだて",
+    "romaji": "nikaidate",
+    "meaning_en": "two-storied building",
+    "exampleSentence": "この家は二階建てです。 (This house is two-storied.)"
+  },
+  {
+    "word": "人形",
+    "reading": "にんぎょう",
+    "romaji": "ningyou",
+    "meaning_en": "doll",
+    "exampleSentence": "子供は人形で遊んでいる。 (The child is playing with a doll.)"
+  },
+  {
+    "word": "匂い",
+    "reading": "におい",
+    "romaji": "nioi",
+    "meaning_en": "smell; odor; scent",
+    "exampleSentence": "部屋に良い匂いがする。 (There's a nice smell in the room.)"
+  },
+  {
+    "word": "似る",
+    "reading": "にる",
+    "romaji": "niru",
+    "meaning_en": "to resemble; to be similar",
+    "exampleSentence": "その二人は兄弟のように似ている。 (Those two look alike like brothers.)"
+  },
+  {
+    "word": "喉",
+    "reading": "のど",
+    "romaji": "nodo",
+    "meaning_en": "throat",
+    "exampleSentence": "喉が痛くて声が出ない。 (My throat hurts and I can't speak.)"
+  },
+  {
+    "word": "残る",
+    "reading": "のこる",
+    "romaji": "nokoru",
+    "meaning_en": "to remain; to be left over",
+    "exampleSentence": "仕事がまだ残っている。 (Work still remains.)"
+  },
+  {
+    "word": "乗り換える",
+    "reading": "のりかえる",
+    "romaji": "norikaeru",
+    "meaning_en": "to transfer (trains, buses); to change vehicles",
+    "exampleSentence": "この駅で山手線に乗り換えてください。 (Please transfer to the Yamanote line at this station.)"
+  },
+  {
+    "word": "乗り物",
+    "reading": "のりもの",
+    "romaji": "norimono",
+    "meaning_en": "vehicle; transport; ride",
+    "exampleSentence": "子供は乗り物に興味がある。 (Children are interested in vehicles.)"
+  },
+  {
+    "word": "濡れる",
+    "reading": "ぬれる",
+    "romaji": "nureru",
+    "meaning_en": "to get wet; to become wet",
+    "exampleSentence": "雨で靴が濡れてしまった。 (My shoes got wet in the rain.)"
+  },
+  {
+    "word": "塗る",
+    "reading": "ぬる",
+    "romaji": "nuru",
+    "meaning_en": "to paint; to spread; to plaster",
+    "exampleSentence": "壁に白いペンキを塗った。 (I painted the wall white.)"
+  },
+  {
+    "word": "盗む",
+    "reading": "ぬすむ",
+    "romaji": "nusumu",
+    "meaning_en": "to steal; to rob",
+    "exampleSentence": "店から財布を盗んだ人がいる。 (Someone stole a wallet from the store.)"
+  },
+  {
+    "word": "入学",
+    "reading": "にゅうがく",
+    "romaji": "nyuugaku",
+    "meaning_en": "school admission; entrance to school; enrollment",
+    "exampleSentence": "来月大学に入学します。 (I will enroll in university next month.)"
+  },
+  {
+    "word": "入院",
+    "reading": "にゅういん",
+    "romaji": "nyuuin",
+    "meaning_en": "hospitalization; being admitted to hospital",
+    "exampleSentence": "彼は入院して手術を受けた。 (He was hospitalized and had surgery.)"
+  },
+  {
+    "word": "落ちる",
+    "reading": "おちる",
+    "romaji": "ochiru",
+    "meaning_en": "to fall; to drop; to fail (an exam)",
+    "exampleSentence": "棚から本が落ちた。 (A book fell from the shelf.)"
+  },
+  {
+    "word": "踊り",
+    "reading": "おどり",
+    "romaji": "odori",
+    "meaning_en": "dance; dancing",
+    "exampleSentence": "祭りで踊りを見た。 (I saw a dance at the festival.)"
+  },
+  {
+    "word": "驚く",
+    "reading": "おどろく",
+    "romaji": "odoroku",
+    "meaning_en": "to be surprised; to be amazed",
+    "exampleSentence": "彼の早さに驚いた。 (I was surprised at his speed.)"
+  },
+  {
+    "word": "踊る",
+    "reading": "おどる",
+    "romaji": "odoru",
+    "meaning_en": "to dance",
+    "exampleSentence": "音楽に合わせて踊った。 (I danced to the music.)"
+  },
+  {
+    "word": "お出でになる",
+    "reading": "おいでになる",
+    "romaji": "oide ni naru",
+    "meaning_en": "(respectful) to be; to come; to go (honorific)",
+    "exampleSentence": "先生がお出でになりました。 (The teacher has arrived — honorific.)"
+  },
+  {
+    "word": "お祝い",
+    "reading": "おいわい",
+    "romaji": "oiwai",
+    "meaning_en": "celebration; congratulations; to celebrate",
+    "exampleSentence": "結婚のお祝いをしました。 (We celebrated the wedding.)"
+  },
+  {
+    "word": "お嬢さん",
+    "reading": "おじょうさん",
+    "romaji": "ojousan",
+    "meaning_en": "(someone else's) daughter; young lady",
+    "exampleSentence": "お嬢さんはどこにいますか？ (Where is your daughter?)"
+  },
+  {
+    "word": "可笑しい",
+    "reading": "おかしい",
+    "romaji": "okashii",
+    "meaning_en": "funny; strange; odd",
+    "exampleSentence": "その話は可笑しくて笑ってしまった。 (The story was funny and I laughed.)"
+  },
+  {
+    "word": "行う",
+    "reading": "おこなう",
+    "romaji": "okonau",
+    "meaning_en": "to perform; to carry out; to conduct",
+    "exampleSentence": "式典を行う準備をしています。 (We are preparing to hold the ceremony.)"
+  },
+  {
+    "word": "怒る",
+    "reading": "おこる",
+    "romaji": "okoru",
+    "meaning_en": "to get angry; to be angry",
+    "exampleSentence": "先生は子供たちに怒った。 (The teacher got angry at the children.)"
+  },
+  {
+    "word": "起こす",
+    "reading": "おこす",
+    "romaji": "okosu",
+    "meaning_en": "to wake someone up; to raise; to cause",
+    "exampleSentence": "朝七時に息子を起こした。 (I woke my son at seven in the morning.)"
+  },
+  {
+    "word": "億",
+    "reading": "おく",
+    "romaji": "oku",
+    "meaning_en": "one hundred million (100,000,000)",
+    "exampleSentence": "彼の会社の価値は億を超える。 (His company's value exceeds hundreds of millions.)"
+  },
+  {
+    "word": "屋上",
+    "reading": "おくじょう",
+    "romaji": "okujou",
+    "meaning_en": "rooftop; rooftop garden",
+    "exampleSentence": "ビルの屋上で花火を見た。 (I watched fireworks from the building rooftop.)"
+  },
+  {
+    "word": "遅れる",
+    "reading": "おくれる",
+    "romaji": "okureru",
+    "meaning_en": "to be late; to be delayed",
+    "exampleSentence": "電車が遅れて会議に遅刻した。 (The train was delayed and I was late for the meeting.)"
+  },
+  {
+    "word": "贈り物",
+    "reading": "おくりもの",
+    "romaji": "okurimono",
+    "meaning_en": "present; gift",
+    "exampleSentence": "誕生日に贈り物をもらった。 (I received a gift for my birthday.)"
+  },
+  {
+    "word": "送る",
+    "reading": "おくる",
+    "romaji": "okuru",
+    "meaning_en": "to send; to escort; to see off",
+    "exampleSentence": "荷物を友達に送った。 (I sent the package to my friend.)"
+  },
+  {
+    "word": "お祭り",
+    "reading": "おまつり",
+    "romaji": "omatsuri",
+    "meaning_en": "festival; matsuri",
+    "exampleSentence": "夏に町のお祭りがある。 (There is a town festival in summer.)"
+  },
+  {
+    "word": "お見舞い",
+    "reading": "おみまい",
+    "romaji": "omimai",
+    "meaning_en": "visit to someone ill; get-well visit",
+    "exampleSentence": "病院へお見舞いに行きました。 (I went to visit someone at the hospital.)"
+  },
+  {
+    "word": "お土産",
+    "reading": "おみやげ",
+    "romaji": "omiyage",
+    "meaning_en": "souvenir; gift (brought back from a trip)",
+    "exampleSentence": "旅行からお土産を買ってきた。 (I bought souvenirs from the trip.)"
+  },
+  {
+    "word": "おもちゃ",
+    "reading": "おもちゃ",
+    "romaji": "omocha",
+    "meaning_en": "toy",
+    "exampleSentence": "子供たちはおもちゃで遊んでいる。 (The children are playing with toys.)"
+  },
+  {
+    "word": "思い出す",
+    "reading": "おもいだす",
+    "romaji": "omoidasu",
+    "meaning_en": "to recall; to remember; to recollect",
+    "exampleSentence": "昔のことを思い出した。 (I remembered things from long ago.)"
+  },
+  {
+    "word": "表",
+    "reading": "おもて",
+    "romaji": "omote",
+    "meaning_en": "front; surface; obverse",
+    "exampleSentence": "表に名前を書いてください。 (Please write your name on the front.)"
+  },
+  {
+    "word": "オートバイ",
+    "reading": "オートバイ",
+    "romaji": "ootobai",
+    "meaning_en": "motorcycle; motorbike",
+    "exampleSentence": "週末にオートバイでツーリングした。 (I went touring by motorcycle on the weekend.)"
+  },
+  {
+    "word": "お礼",
+    "reading": "おれい",
+    "romaji": "orei",
+    "meaning_en": "thanks; gratitude; appreciation",
+    "exampleSentence": "手伝ってくれてお礼を言いたい。 (I want to thank you for helping me.)"
+  },
+  {
+    "word": "折れる",
+    "reading": "おれる",
+    "romaji": "oreru",
+    "meaning_en": "to break; to snap; to fold (intransitive)",
+    "exampleSentence": "枝が強い風で折れた。 (A branch was broken by the strong wind.)"
+  },
+  {
+    "word": "下りる",
+    "reading": "おりる",
+    "romaji": "oriru",
+    "meaning_en": "to get off; to descend; to drop (intransitive)",
+    "exampleSentence": "次の駅で下りてください。 (Please get off at the next station.)"
+  },
+  {
+    "word": "折る",
+    "reading": "おる",
+    "romaji": "oru",
+    "meaning_en": "to fold; to break (transitive)",
+    "exampleSentence": "紙を半分に折ってください。 (Please fold the paper in half.)"
+  },
+  {
+    "word": "押し入れ",
+    "reading": "おしいれ",
+    "romaji": "oshiire",
+    "meaning_en": "closet; built-in wardrobe",
+    "exampleSentence": "押し入れに布団を入れておいた。 (I put the futon in the closet.)"
+  },
+  {
+    "word": "仰る",
+    "reading": "おっしゃる",
+    "romaji": "ossharu",
+    "meaning_en": "(respectful) to say; to tell (honorific)",
+    "exampleSentence": "先生はそうおっしゃいました。 (The teacher said so — honorific.)"
+  },
+  {
+    "word": "お宅",
+    "reading": "おたく",
+    "romaji": "otaku",
+    "meaning_en": "your home; your house (polite); otaku (fan) depending on context",
+    "exampleSentence": "お宅はどちらですか？ (Where is your home?)"
+  },
+  {
+    "word": "音",
+    "reading": "おと",
+    "romaji": "oto",
+    "meaning_en": "sound; noise; note",
+    "exampleSentence": "外から大きな音が聞こえる。 (I hear a loud sound from outside.)"
+  },
+  {
+    "word": "落とす",
+    "reading": "おとす",
+    "romaji": "otosu",
+    "meaning_en": "to drop; to let fall; to lose (transitive)",
+    "exampleSentence": "テーブルからコップを落とした。 (I dropped a glass from the table.)"
+  },
+  {
+    "word": "お釣り",
+    "reading": "おつり",
+    "romaji": "otsuri",
+    "meaning_en": "change (money returned after payment)",
+    "exampleSentence": "お釣りはいくらですか？ (How much is the change?)"
+  },
+  {
+    "word": "夫",
+    "reading": "おっと",
+    "romaji": "otto",
+    "meaning_en": "husband",
+    "exampleSentence": "夫は毎朝散歩をします。 (My husband takes a walk every morning.)"
+  },
+  {
+    "word": "終わり",
+    "reading": "おわり",
+    "romaji": "owari",
+    "meaning_en": "end; conclusion; finish",
+    "exampleSentence": "授業の終わりに質問がある。 (I have a question at the end of class.)"
+  },
+  {
+    "word": "親",
+    "reading": "おや",
+    "romaji": "oya",
+    "meaning_en": "parent(s)",
+    "exampleSentence": "親と一緒に住んでいます。 (I live with my parents.)"
+  },
+  {
+    "word": "泳ぎ方",
+    "reading": "およぎかた",
+    "romaji": "oyogikata",
+    "meaning_en": "way of swimming; swimming technique",
+    "exampleSentence": "泳ぎ方を習いたい。 (I want to learn how to swim.)"
+  },
+  {
+    "word": "パート",
+    "reading": "パート",
+    "romaji": "paato",
+    "meaning_en": "part-time job; part",
+    "exampleSentence": "彼女はスーパーでパートをしている。 (She works part-time at a supermarket.)"
+  },
+  {
+    "word": "パソコン",
+    "reading": "パソコン",
+    "romaji": "pasokon",
+    "meaning_en": "personal computer; PC",
+    "exampleSentence": "毎日パソコンで仕事をする。 (I work on a computer every day.)"
+  },
+  {
+    "word": "ピアノ",
+    "reading": "ピアノ",
+    "romaji": "piano",
+    "meaning_en": "piano",
+    "exampleSentence": "子供はピアノを習っています。 (The child takes piano lessons.)"
+  },
+  {
+    "word": "プレゼント",
+    "reading": "プレゼント",
+    "romaji": "purezento",
+    "meaning_en": "present; gift",
+    "exampleSentence": "友達にプレゼントをあげた。 (I gave a gift to my friend.)"
+  },
+  {
+    "word": "冷房",
+    "reading": "れいぼう",
+    "romaji": "reibou",
+    "meaning_en": "air conditioning; cooling",
+    "exampleSentence": "暑いので冷房をつけました。 (It was hot so I turned on the air conditioning.)"
+  },
+  {
+    "word": "レジ",
+    "reading": "レジ",
+    "romaji": "reji",
+    "meaning_en": "cash register; cashier",
+    "exampleSentence": "レジで並んでください。 (Please line up at the cashier.)"
+  },
+  {
+    "word": "歴史",
+    "reading": "れきし",
+    "romaji": "rekishi",
+    "meaning_en": "history",
+    "exampleSentence": "日本の歴史を学ぶのは面白い。 (Learning Japanese history is interesting.)"
+  },
+  {
+    "word": "連絡",
+    "reading": "れんらく",
+    "romaji": "renraku",
+    "meaning_en": "contact; communication; to contact (suru)",
+    "exampleSentence": "到着したら連絡してください。 (Please contact me when you arrive.)"
+  },
+  {
+    "word": "レポート",
+    "reading": "レポート",
+    "romaji": "repooto",
+    "meaning_en": "report (written); paper",
+    "exampleSentence": "レポートを明日までに提出してください。 (Please submit the report by tomorrow.)"
+  },
+  {
+    "word": "利用",
+    "reading": "りよう",
+    "romaji": "riyou",
+    "meaning_en": "use; utilization; to make use of (suru)",
+    "exampleSentence": "図書館の資料を利用しました。 (I used the library materials.)"
+  },
+  {
+    "word": "理由",
+    "reading": "りゆう",
+    "romaji": "riyuu",
+    "meaning_en": "reason; cause",
+    "exampleSentence": "来られなかった理由を教えてください。 (Please tell me the reason you couldn't come.)"
+  },
+  {
+    "word": "留守",
+    "reading": "るす",
+    "romaji": "rusu",
+    "meaning_en": "absence; being away from home; leaving home unattended",
+    "exampleSentence": "留守の間に郵便が届いた。 (Mail arrived while I was away.)"
+  },
+  {
+    "word": "旅館",
+    "reading": "りょかん",
+    "romaji": "ryokan",
+    "meaning_en": "traditional Japanese inn; ryokan",
+    "exampleSentence": "温泉付きの旅館に泊まった。 (I stayed at a ryokan with hot springs.)"
+  },
+  {
+    "word": "両方",
+    "reading": "りょうほう",
+    "romaji": "ryouhou",
+    "meaning_en": "both; both sides",
+    "exampleSentence": "両方とも好きです。 (I like both.)"
+  },
+  {
+    "word": "寂しい",
+    "reading": "さびしい",
+    "romaji": "sabishii",
+    "meaning_en": "lonely; lonesome; solitary",
+    "exampleSentence": "一人暮らしで寂しい時がある。 (There are times when I feel lonely living alone.)"
+  },
+  {
+    "word": "下がる",
+    "reading": "さがる",
+    "romaji": "sagaru",
+    "meaning_en": "to drop; to fall; to go down",
+    "exampleSentence": "気温が下がってきた。 (The temperature has started to drop.)"
+  },
+  {
+    "word": "探す",
+    "reading": "さがす",
+    "romaji": "sagasu",
+    "meaning_en": "to search for; to look for; to seek",
+    "exampleSentence": "鍵を探している。 (I am looking for my keys.)"
+  },
+  {
+    "word": "下げる",
+    "reading": "さげる",
+    "romaji": "sageru",
+    "meaning_en": "to lower; to hang; to reduce (transitive)",
+    "exampleSentence": "温度を少し下げてください。 (Please lower the temperature a little.)"
+  },
+  {
+    "word": "最後",
+    "reading": "さいご",
+    "romaji": "saigo",
+    "meaning_en": "last; end; finally",
+    "exampleSentence": "最後まで諦めないでください。 (Please don't give up until the end.)"
+  },
+  {
+    "word": "最近",
+    "reading": "さいきん",
+    "romaji": "saikin",
+    "meaning_en": "recently; these days",
+    "exampleSentence": "最近忙しくて会えません。 (I've been busy recently and couldn't meet.)"
+  },
+  {
+    "word": "最初",
+    "reading": "さいしょ",
+    "romaji": "saisho",
+    "meaning_en": "beginning; outset; first",
+    "exampleSentence": "最初からやり直しましょう。 (Let's start over from the beginning.)"
+  },
+  {
+    "word": "坂",
+    "reading": "さか",
+    "romaji": "saka",
+    "meaning_en": "slope; hill",
+    "exampleSentence": "この坂を上るのは大変だ。 (It's hard to climb this hill.)"
+  },
+  {
+    "word": "盛ん",
+    "reading": "さかん",
+    "romaji": "sakan",
+    "meaning_en": "popular; prosperous; thriving",
+    "exampleSentence": "この地域は観光が盛んだ。 (Tourism is thriving in this area.)"
+  },
+  {
+    "word": "昨夜",
+    "reading": "さくや",
+    "romaji": "sakuya",
+    "meaning_en": "last night",
+    "exampleSentence": "昨夜はよく眠れなかった。 (I couldn't sleep well last night.)"
+  },
+  {
+    "word": "サンダル",
+    "reading": "サンダル",
+    "romaji": "sandaru",
+    "meaning_en": "sandal(s)",
+    "exampleSentence": "夏はサンダルが便利だ。 (Sandals are convenient in summer.)"
+  },
+  {
+    "word": "サンドイッチ",
+    "reading": "サンドイッチ",
+    "romaji": "sandoicchi",
+    "meaning_en": "sandwich",
+    "exampleSentence": "昼ご飯にサンドイッチを食べた。 (I ate a sandwich for lunch.)"
+  },
+  {
+    "word": "産業",
+    "reading": "さんぎょう",
+    "romaji": "sangyou",
+    "meaning_en": "industry; manufacturing; sector",
+    "exampleSentence": "この国の主要な産業は農業だ。 (The main industry of this country is agriculture.)"
+  },
+  {
+    "word": "サラダ",
+    "reading": "サラダ",
+    "romaji": "sarada",
+    "meaning_en": "salad",
+    "exampleSentence": "昼食にサラダを注文した。 (I ordered a salad for lunch.)"
+  },
+  {
+    "word": "再来月",
+    "reading": "さらいげつ",
+    "romaji": "saraigetsu",
+    "meaning_en": "the month after next",
+    "exampleSentence": "再来月に旅行を計画しています。 (I am planning a trip for the month after next.)"
+  },
+  
+  {"word":"再来週","reading":"さらいしゅう","romaji":"saraishuu","meaning_en":"week after next","exampleSentence":"再来週、旅行に行きます。 (I will travel the week after next.)"},
+  {"word":"差し上げる","reading":"さしあげる","romaji":"sashiageru","meaning_en":"to give (honorific)","exampleSentence":"プレゼントを差し上げました。 (I gave a present.)"},
+  {"word":"騒ぐ","reading":"さわぐ","romaji":"sawagu","meaning_en":"to make noise; to be excited","exampleSentence":"図書館で騒いではいけません。 (You must not make noise in the library.)"},
+  {"word":"触る","reading":"さわる","romaji":"sawaru","meaning_en":"to touch","exampleSentence":"その花に触らないでください。 (Please do not touch that flower.)"},
+  {"word":"生物","reading":"せいぶつ","romaji":"seibutsu","meaning_en":"living things; biology","exampleSentence":"生物の授業は面白いです。 (Biology class is interesting.)"},
+  {"word":"政治","reading":"せいじ","romaji":"seiji","meaning_en":"politics","exampleSentence":"政治について勉強しています。 (I am studying politics.)"},
+  {"word":"生活","reading":"せいかつ","romaji":"seikatsu","meaning_en":"life; living; livelihood","exampleSentence":"一人暮らしの生活に慣れた。 (I've gotten used to living alone.)"},
+  {"word":"生命","reading":"せいめい","romaji":"seimei","meaning_en":"life (existence)","exampleSentence":"生命の起源はまだ解明されていない。 (The origin of life has not yet been clarified.)"},
+  {"word":"生産","reading":"せいさん","romaji":"seisan","meaning_en":"production; manufacture","exampleSentence":"工場で生産が始まった。 (Production has started at the factory.)"},
+  {"word":"西洋","reading":"せいよう","romaji":"seiyou","meaning_en":"the West; western countries","exampleSentence":"西洋の文化に興味があります。 (I am interested in Western culture.)"},
+  {"word":"世界","reading":"せかい","romaji":"sekai","meaning_en":"world","exampleSentence":"世界を旅したいです。 (I want to travel the world.)"},
+  {"word":"席","reading":"せき","romaji":"seki","meaning_en":"seat","exampleSentence":"席に着いてください。 (Please take your seat.)"},
+  {"word":"線","reading":"せん","romaji":"sen","meaning_en":"line (e.g., train line, drawing)","exampleSentence":"この線は地下鉄の路線です。 (This line is a subway route.)"},
+  {"word":"背中","reading":"せなか","romaji":"senaka","meaning_en":"back (of the body)","exampleSentence":"背中が痛くて困っています。 (My back hurts and I'm troubled.)"},
+  {"word":"先輩","reading":"せんぱい","romaji":"senpai","meaning_en":"senior (at work/school)","exampleSentence":"先輩に相談しました。 (I consulted my senior.)"},
+  {"word":"戦争","reading":"せんそう","romaji":"sensou","meaning_en":"war","exampleSentence":"戦争は多くの悲劇を生む。 (War creates many tragedies.)"},
+  {"word":"説明","reading":"せつめい","romaji":"setsumei","meaning_en":"explanation; to explain (suru)","exampleSentence":"もう一度説明してください。 (Please explain once more.)"},
+  {"word":"社長","reading":"しゃちょう","romaji":"shachou","meaning_en":"company president; CEO","exampleSentence":"社長が発表をした。 (The company president made an announcement.)"},
+  {"word":"社会","reading":"しゃかい","romaji":"shakai","meaning_en":"society; community","exampleSentence":"社会の問題について考える。 (I think about social problems.)"},
+  {"word":"市","reading":"し","romaji":"shi","meaning_en":"city","exampleSentence":"この市は人口が多い。 (This city has a large population.)"},
+  {"word":"試合","reading":"しあい","romaji":"shiai","meaning_en":"match; game","exampleSentence":"明日、試合があります。 (There is a match tomorrow.)"},
+  {"word":"叱る","reading":"しかる","romaji":"shikaru","meaning_en":"to scold","exampleSentence":"親に叱られた。 (I was scolded by my parents.)"},
+  {"word":"仕方","reading":"しかた","romaji":"shikata","meaning_en":"way; method; means","exampleSentence":"仕方がないですね。 (It can't be helped.)"},
+  {"word":"試験","reading":"しけん","romaji":"shiken","meaning_en":"examination; test","exampleSentence":"来週試験があります。 (There is an exam next week.)"},
+  {"word":"しっかり","reading":"しっかり","romaji":"shikkari","meaning_en":"firmly; steadily; properly","exampleSentence":"しっかり勉強してください。 (Please study properly.)"},
+  {"word":"島","reading":"しま","romaji":"shima","meaning_en":"island","exampleSentence":"夏に小さな島へ行きました。 (I went to a small island in summer.)"},
+  {"word":"市民","reading":"しみん","romaji":"shimin","meaning_en":"citizen","exampleSentence":"市民の意見を聞きます。 (We listen to the citizens' opinions.)"},
+  {"word":"品物","reading":"しなもの","romaji":"shinamono","meaning_en":"goods; article; merchandise","exampleSentence":"店に新しい品物が並んでいる。 (New goods are displayed in the store.)"},
+  {"word":"新聞社","reading":"しんぶんしゃ","romaji":"shinbunsha","meaning_en":"newspaper company","exampleSentence":"新聞社で働きたい。 (I want to work at a newspaper company.)"},
+  {"word":"親切","reading":"しんせつ","romaji":"shinsetsu","meaning_en":"kind; considerate","exampleSentence":"彼はとても親切な人です。 (He is a very kind person.)"},
+  {"word":"失敗","reading":"しっぱい","romaji":"shippai","meaning_en":"failure; mistake; to fail (suru)","exampleSentence":"失敗から学びます。 (I learn from failures.)"},
+  {"word":"調べる","reading":"しらべる","romaji":"shiraberu","meaning_en":"to investigate; to look into","exampleSentence":"インターネットで調べました。 (I looked it up on the Internet.)"},
+  {"word":"知らせる","reading":"しらせる","romaji":"shiraseru","meaning_en":"to notify; to inform","exampleSentence":"結果を知らせてください。 (Please inform me of the results.)"},
+  {"word":"下着","reading":"したぎ","romaji":"shitagi","meaning_en":"underwear","exampleSentence":"下着を洗濯しました。 (I washed the underwear.)"},
+  {"word":"食料品","reading":"しょくりょうひん","romaji":"shokuryouhin","meaning_en":"groceries; food items","exampleSentence":"スーパーで食料品を買った。 (I bought groceries at the supermarket.)"},
+  {"word":"小学校","reading":"しょうがっこう","romaji":"shougakkou","meaning_en":"elementary school","exampleSentence":"弟は小学校に通っています。 (My younger brother attends elementary school.)"},
+  {"word":"生じる","reading":"しょうじる","romaji":"shoujiru","meaning_en":"to arise; to occur; to produce","exampleSentence":"問題が生じた。 (A problem arose.)"},
+  {"word":"紹介","reading":"しょうかい","romaji":"shoukai","meaning_en":"introduction; to introduce (suru)","exampleSentence":"友達を紹介します。 (I will introduce my friend.)"},
+  {"word":"将来","reading":"しょうらい","romaji":"shourai","meaning_en":"future (long-term)","exampleSentence":"将来の夢は医者になることです。 (My dream for the future is to become a doctor.)"},
+  {"word":"小説","reading":"しょうせつ","romaji":"shousetsu","meaning_en":"novel","exampleSentence":"面白い小説を読みました。 (I read an interesting novel.)"},
+  {"word":"趣味","reading":"しゅみ","romaji":"shumi","meaning_en":"hobby; pastime","exampleSentence":"趣味は写真を撮ることです。 (My hobby is taking photos.)"},
+  {"word":"習慣","reading":"しゅうかん","romaji":"shuukan","meaning_en":"habit; custom; practice","exampleSentence":"毎朝の習慣は散歩です。 (My daily habit is taking a walk every morning.)"},
+  {"word":"祖母","reading":"そぼ","romaji":"sobo","meaning_en":"grandmother","exampleSentence":"祖母は料理が上手です。 (My grandmother is good at cooking.)"},
+  {"word":"育てる","reading":"そだてる","romaji":"sodateru","meaning_en":"to raise; to bring up; to rear","exampleSentence":"子供を優しく育てたい。 (I want to raise children kindly.)"},
+  {"word":"祖父","reading":"そふ","romaji":"sofu","meaning_en":"grandfather","exampleSentence":"祖父と釣りに行った。 (I went fishing with my grandfather.)"},
+  {"word":"ソフト","reading":"ソフト","romaji":"sofuto","meaning_en":"soft; software (depending on context)","exampleSentence":"このソフトは使いやすいです。 (This software is easy to use.)"},
+  {"word":"そんな","reading":"そんな","romaji":"sonna","meaning_en":"that sort of; such (near listener)","exampleSentence":"そんなことは知りません。 (I don't know such a thing.)"},
+  {"word":"それで","reading":"それで","romaji":"sore de","meaning_en":"because of that; therefore","exampleSentence":"道が混んでいた。それで遅れました。 (The road was crowded. Therefore I was late.)"},
+  {"word":"それほど","reading":"それほど","romaji":"sore hodo","meaning_en":"to that extent; so much","exampleSentence":"それほど難しくない。 (It's not that difficult.)"},
+  {"word":"そろそろ","reading":"そろそろ","romaji":"sorosoro","meaning_en":"gradually; soon; it's about time","exampleSentence":"そろそろ出発しましょう。 (Let's leave soon.)"},
+  {"word":"卒業","reading":"そつぎょう","romaji":"sotsugyou","meaning_en":"graduation","exampleSentence":"来年大学を卒業します。 (I will graduate from university next year.)"},
+  {"word":"相談","reading":"そうだん","romaji":"soudan","meaning_en":"consultation; discussion; to consult (suru)","exampleSentence":"進路について先生に相談した。 (I consulted the teacher about my career path.)"},
+  {"word":"素晴らしい","reading":"すばらしい","romaji":"subarashii","meaning_en":"wonderful; splendid; magnificent","exampleSentence":"その景色は素晴らしかった。 (The scenery was wonderful.)"},
+  {"word":"滑る","reading":"すべる","romaji":"suberu","meaning_en":"to slip; to slide","exampleSentence":"床が濡れていて滑った。 (The floor was wet and I slipped.)"},
+  {"word":"凄い","reading":"すごい","romaji":"sugoi","meaning_en":"amazing; terrific; awful (colloquial)","exampleSentence":"彼の演奏は本当に凄かった。 (His performance was really amazing.)"},
+  {"word":"水道","reading":"すいどう","romaji":"suidou","meaning_en":"water supply; waterworks","exampleSentence":"水道の工事で一時止水します。 (Water will be temporarily cut off due to waterworks.)"},
+  {"word":"水泳","reading":"すいえい","romaji":"suiei","meaning_en":"swimming (as sport)","exampleSentence":"夏は水泳がしたい。 (I want to swim in summer.)"},
+  {"word":"すっかり","reading":"すっかり","romaji":"sukkari","meaning_en":"completely; entirely; all the way","exampleSentence":"風邪がすっかり治った。 (My cold has completely recovered.)"},
+  {"word":"空く","reading":"すく","romaji":"suku","meaning_en":"to be empty; to be less crowded; to become hungry (context dependent)","exampleSentence":"お腹が空いた。 (I'm hungry.)"},
+  {"word":"スクリーン","reading":"スクリーン","romaji":"sukuriin","meaning_en":"screen (e.g., movie screen)","exampleSentence":"映画のスクリーンが大きい。 (The movie screen is large.)"},
+  {"word":"隅","reading":"すみ","romaji":"sumi","meaning_en":"corner; nook","exampleSentence":"部屋の隅に椅子がある。 (There is a chair in the corner of the room.)"},
+  {"word":"済む","reading":"すむ","romaji":"sumu","meaning_en":"to finish; to be completed; to settle (intransitive)","exampleSentence":"宿題が済んだら遊びに行こう。 (Let's go play after finishing homework.)"},
+  {"word":"砂","reading":"すな","romaji":"suna","meaning_en":"sand","exampleSentence":"砂浜で遊んだ。 (I played on the sandy beach.)"},
+  {"word":"すり","reading":"すり","romaji":"suri","meaning_en":"pickpocket","exampleSentence":"観光地ではすりに注意してください。 (Be careful of pickpockets in tourist areas.)"},
+  {"word":"スーツケース","reading":"スーツケース","romaji":"suutsukeesu","meaning_en":"suitcase","exampleSentence":"スーツケースを預けました。 (I checked my suitcase.)"},
+  {"word":"進む","reading":"すすむ","romaji":"susumu","meaning_en":"to advance; to make progress; to move forward","exampleSentence":"研究が順調に進んでいる。 (The research is progressing smoothly.)"},
+  {"word":"ステーキ","reading":"ステーキ","romaji":"suteeki","meaning_en":"steak","exampleSentence":"今夜はステーキを食べます。 (I'll eat steak tonight.)"},
+  {"word":"ステレオ","reading":"ステレオ","romaji":"sutereo","meaning_en":"stereo (system)","exampleSentence":"新しいステレオを買った。 (I bought a new stereo.)"},
+  {"word":"捨てる","reading":"すてる","romaji":"suteru","meaning_en":"to throw away; to discard","exampleSentence":"古い本を捨てた。 (I threw away old books.)"},
+  {"word":"数学","reading":"すうがく","romaji":"suugaku","meaning_en":"mathematics","exampleSentence":"数学のテストは難しかった。 (The math test was difficult.)"},
+  {"word":"スーツ","reading":"スーツ","romaji":"suutsu","meaning_en":"suit (clothing)","exampleSentence":"面接にスーツを着て行きます。 (I will wear a suit to the interview.)"},
+  {"word":"正しい","reading":"ただしい","romaji":"tadashii","meaning_en":"correct; right","exampleSentence":"答えが正しいか確認してください。 (Please check if the answer is correct.)"},
+  {"word":"退院","reading":"たいいん","romaji":"tai'in","meaning_en":"discharge from hospital; leaving hospital","exampleSentence":"昨日退院しました。 (I was discharged from the hospital yesterday.)"},
+  {"word":"台風","reading":"たいふう","romaji":"taifuu","meaning_en":"typhoon","exampleSentence":"台風のため授業は休校になった。 (Classes were canceled due to the typhoon.)"},
+  {"word":"タイプ","reading":"タイプ","romaji":"taipu","meaning_en":"type; style","exampleSentence":"彼は私のタイプです。 (He is my type.)"},
+  {"word":"たいてい","reading":"たいてい","romaji":"taitei","meaning_en":"usually; generally","exampleSentence":"たいてい朝ご飯を食べます。 (I usually eat breakfast.)"},
+  {"word":"たまに","reading":"たまに","romaji":"tamani","meaning_en":"occasionally; once in a while","exampleSentence":"たまに映画を見に行く。 (I occasionally go to see movies.)"},
+  {"word":"棚","reading":"たな","romaji":"tana","meaning_en":"shelf","exampleSentence":"本を棚に戻してください。 (Please put the book back on the shelf.)"},
+  {"word":"誕生","reading":"たんじょう","romaji":"tanjou","meaning_en":"birth","exampleSentence":"彼の誕生は家族にとって嬉しい出来事だった。 (His birth was a joyful event for the family.)"},
+  {"word":"楽しみ","reading":"たのしみ","romaji":"tanoshimi","meaning_en":"pleasure; looking forward to; enjoyment","exampleSentence":"旅行が楽しみです。 (I'm looking forward to the trip.)"},
+  {"word":"倒れる","reading":"たおれる","romaji":"taoreru","meaning_en":"to fall over; to collapse","exampleSentence":"強風で木が倒れた。 (A tree fell down due to the strong wind.)"},
+  {"word":"足りる","reading":"たりる","romaji":"tariru","meaning_en":"to be sufficient; to be enough","exampleSentence":"お金は足りていますか？ (Do you have enough money?)"},
+  {"word":"足す","reading":"たす","romaji":"tasu","meaning_en":"to add (numbers or something)","exampleSentence":"卵を二つ足してください。 (Please add two eggs.)"},
+  {"word":"畳","reading":"たたみ","romaji":"tatami","meaning_en":"tatami mat (Japanese straw mat)","exampleSentence":"この部屋は畳でできている。 (This room has tatami mats.)"},
+  {"word":"建てる","reading":"たてる","romaji":"tateru","meaning_en":"to build; to erect (transitive)","exampleSentence":"新しい家を建てる予定です。 (I plan to build a new house.)"},
+  {"word":"尋ねる","reading":"たずねる","romaji":"tazuneru","meaning_en":"to ask; to inquire (transitive)","exampleSentence":"道を尋ねました。 (I asked for directions.)"},
+  {"word":"訪ねる","reading":"たずねる","romaji":"tazuneru","meaning_en":"to visit (a person/place) (transitive)","exampleSentence":"友人の家を訪ねた。 (I visited a friend's house.)"},
+  {"word":"手袋","reading":"てぶくろ","romaji":"tebukuro","meaning_en":"gloves","exampleSentence":"寒いので手袋をします。 (I wear gloves because it's cold.)"},
+  {"word":"丁寧","reading":"ていねい","romaji":"teinei","meaning_en":"polite; courteous; careful","exampleSentence":"丁寧に説明してください。 (Please explain politely/clearly.)"},
+  {"word":"テキスト","reading":"テキスト","romaji":"tekisuto","meaning_en":"text; textbook; script","exampleSentence":"授業のテキストを配ります。 (I will distribute the class text.)"},
+  {"word":"適当","reading":"てきとう","romaji":"tekitou","meaning_en":"appropriate; suitable; random; careless (contextual)","exampleSentence":"適当な時間に集合してください。 (Please gather at an appropriate time.)"},
+  {"word":"点","reading":"てん","romaji":"ten","meaning_en":"point; dot; mark; score","exampleSentence":"テストで高い点を取った。 (I got a high score on the test.)"},
+  {"word":"店員","reading":"てんいん","romaji":"ten'in","meaning_en":"shop clerk; store employee","exampleSentence":"店員に聞いてください。 (Please ask the clerk.)"},
+  {"word":"テニス","reading":"テニス","romaji":"tenisu","meaning_en":"tennis","exampleSentence":"週末にテニスをします。 (I play tennis on weekends.)"},
+  {"word":"天気予報","reading":"てんきよほう","romaji":"tenkiyohou","meaning_en":"weather forecast","exampleSentence":"天気予報で雨と言っていた。 (The weather forecast said it would rain.)"},
+  {"word":"展覧会","reading":"てんらんかい","romaji":"tenrankai","meaning_en":"exhibition; art show","exampleSentence":"美術館の展覧会に行った。 (I went to the museum exhibition.)"},
+  {"word":"寺","reading":"てら","romaji":"tera","meaning_en":"temple (Buddhist)","exampleSentence":"お寺でお参りした。 (I visited the temple to pray.)"},
+  {"word":"手伝う","reading":"てつだう","romaji":"tetsudau","meaning_en":"to help; to assist","exampleSentence":"荷物を運ぶのを手伝った。 (I helped carry the luggage.)"},
+  {"word":"途中","reading":"とちゅう","romaji":"tochuu","meaning_en":"on the way; in the middle of; during","exampleSentence":"途中で雨が降り始めた。 (It started to rain on the way.)"},
+  {"word":"届ける","reading":"とどける","romaji":"todokeru","meaning_en":"to deliver; to send; to report (transitive)","exampleSentence":"荷物を明日届けます。 (I will deliver the package tomorrow.)"},
+  {"word":"特急","reading":"とっきゅう","romaji":"tokkyuu","meaning_en":"limited express (train)","exampleSentence":"特急で東京へ行きます。 (I will go to Tokyo by limited express.)"},
+  {"word":"床屋","reading":"とこや","romaji":"tokoya","meaning_en":"barber","exampleSentence":"床屋で髪を切ってもらった。 (I had my hair cut at the barber.)"},
+  {"word":"特別","reading":"とくべつ","romaji":"tokubetsu","meaning_en":"special; particular; exceptional","exampleSentence":"今日は特別な日です。 (Today is a special day.)"},
+  {"word":"特に","reading":"とくに","romaji":"tokuni","meaning_en":"particularly; especially","exampleSentence":"特に問題はありません。 (There are no particular problems.)"},
+  {"word":"泊まる","reading":"とまる","romaji":"tomaru","meaning_en":"to stay (at a place)","exampleSentence":"友達の家に泊まりました。 (I stayed at my friend's house.)"},
+  {"word":"止める","reading":"とめる","romaji":"tomeru","meaning_en":"to stop something (transitive)","exampleSentence":"ここに車を止めないでください。 (Please do not park the car here.)"},
+  {"word":"遠く","reading":"とおく","romaji":"tooku","meaning_en":"far; distant","exampleSentence":"遠くの山がよく見える。 (You can see the distant mountains clearly.)"},
+  {"word":"通る","reading":"とおる","romaji":"tooru","meaning_en":"to go through; to pass","exampleSentence":"この道は駅を通る。 (This road goes through the station.)"},
+  {"word":"取り替える","reading":"とりかえる","romaji":"torikaeru","meaning_en":"to exchange; to replace; to swap","exampleSentence":"壊れた電球を取り替えた。 (I replaced the broken light bulb.)"},
+  {"word":"到頭","reading":"とうとう","romaji":"toutou","meaning_en":"finally; at last; after all","exampleSentence":"努力の末に到頭成功した。 (After effort, I finally succeeded.)"},
+  {"word":"続ける","reading":"つづける","romaji":"tsudzukeru","meaning_en":"to continue (something) (transitive)","exampleSentence":"勉強を続けてください。 (Please continue studying.)"},
+  {"word":"続く","reading":"つづく","romaji":"tsudzuku","meaning_en":"to continue (intransitive)","exampleSentence":"雨が三日続いている。 (It has been raining for three days.)"},
+  {"word":"都合","reading":"つごう","romaji":"tsugou","meaning_en":"convenience; circumstances; availability","exampleSentence":"都合のいい日に会いましょう。 (Let's meet on a day that suits you.)"},
+  {"word":"捕まえる","reading":"つかまえる","romaji":"tsukamaeru","meaning_en":"to catch; to arrest; to seize","exampleSentence":"ボールを捕まえた。 (I caught the ball.)"},
+  {"word":"漬ける","reading":"つける","romaji":"tsukeru","meaning_en":"to soak; to pickle; to marinate","exampleSentence":"野菜を塩水に漬けた。 (I soaked the vegetables in salt water.)"},
+  {"word":"月","reading":"つき","romaji":"tsuki","meaning_en":"moon; month","exampleSentence":"月がとても明るい。 (The moon is very bright.)"},
+  {"word":"付く","reading":"つく","romaji":"tsuku","meaning_en":"to be attached; to stick to","exampleSentence":"名札がシャツに付いている。 (The name tag is attached to the shirt.)"},
+  {"word":"妻","reading":"つま","romaji":"tsuma","meaning_en":"(humble) wife","exampleSentence":"妻は優しい人です。 (My wife is a kind person.)"},
+  {"word":"連れる","reading":"つれる","romaji":"tsureru","meaning_en":"to take (someone) along; to lead","exampleSentence":"子供を公園に連れました。 (I took the child to the park.)"},
+  {"word":"釣る","reading":"つる","romaji":"tsuru","meaning_en":"to fish; to catch fish","exampleSentence":"川で魚を釣った。 (I caught fish in the river.)"},
+  {"word":"伝える","reading":"つたえる","romaji":"tsutaeru","meaning_en":"to convey; to tell; to report","exampleSentence":"先生によろしく伝えてください。 (Please tell my regards to the teacher.)"},
+  {"word":"包む","reading":"つつむ","romaji":"tsutsumu","meaning_en":"to wrap; to pack","exampleSentence":"プレゼントを紙で包んだ。 (I wrapped the present in paper.)"},
+  {"word":"腕","reading":"うで","romaji":"ude","meaning_en":"arm; skill; ability (in context)","exampleSentence":"彼は腕がいい料理人だ。 (He is a skilled chef.)"},
+  {"word":"植える","reading":"うえる","romaji":"ueru","meaning_en":"to plant; to grow (plants)","exampleSentence":"庭に花を植えた。 (I planted flowers in the garden.)"},
+  {"word":"動く","reading":"うごく","romaji":"ugoku","meaning_en":"to move; to work; to operate","exampleSentence":"時計が止まっていたが、また動き始めた。 (The clock had stopped, but it started moving again.)"},
+  {"word":"伺う","reading":"うかがう","romaji":"ukagau","meaning_en":"to ask; to visit; to humbly inquire (humble form)","exampleSentence":"後ほど伺います。 (I will visit you later — humble.)"},
+  {"word":"受ける","reading":"うける","romaji":"ukeru","meaning_en":"to receive; to take (a test, lesson)","exampleSentence":"来週試験を受けます。 (I will take an exam next week.)"},
+  {"word":"受付","reading":"うけつけ","romaji":"uketsuke","meaning_en":"reception desk; information desk","exampleSentence":"受付で名前を書いてください。 (Please write your name at the reception.)"},
+  {"word":"生まれ","reading":"うまれ","romaji":"umare","meaning_en":"birth; birthplace","exampleSentence":"彼の生まれは大阪です。 (He was born in Osaka.)"},
+  {"word":"運転手","reading":"うんてんしゅ","romaji":"untenshu","meaning_en":"driver; chauffeur","exampleSentence":"運転手が時間通りに来た。 (The driver arrived on time.)"},
+  {"word":"裏","reading":"うら","romaji":"ura","meaning_en":"reverse side; back; other side","exampleSentence":"カードの裏に住所を書いてください。 (Please write your address on the back of the card.)"},
+  {"word":"嬉しい","reading":"うれしい","romaji":"ureshii","meaning_en":"happy; glad; pleased","exampleSentence":"合格してとても嬉しい。 (I'm very happy to have passed.)"},
+  {"word":"売り場","reading":"うりば","romaji":"uriba","meaning_en":"sales floor; selling area; counter","exampleSentence":"売り場は2階にあります。 (The sales area is on the second floor.)"},
+  {"word":"嘘","reading":"うそ","romaji":"uso","meaning_en":"lie; falsehood","exampleSentence":"それは嘘ではない。 (That is not a lie.)"},
+  {"word":"打つ","reading":"うつ","romaji":"utsu","meaning_en":"to hit; to strike; to type","exampleSentence":"ボールを強く打った。 (I hit the ball hard.)"},
+  {"word":"美しい","reading":"うつくしい","romaji":"utsukushii","meaning_en":"beautiful","exampleSentence":"美しい景色に感動した。 (I was moved by the beautiful scenery.)"},
+  {"word":"移る","reading":"うつる","romaji":"utsuru","meaning_en":"to move (house); to transfer (job)","exampleSentence":"彼は隣の市に移った。 (He moved to the neighboring city.)"},
+  {"word":"写す","reading":"うつす","romaji":"utsusu","meaning_en":"to copy; to photograph; to transcribe","exampleSentence":"大事な書類を写しておいてください。 (Please make a copy of the important documents.)"},
+  {"word":"ワープロ","reading":"ワープロ","romaji":"waapuro","meaning_en":"word processor","exampleSentence":"ワープロでレポートを作成した。 (I wrote the report with a word processor.)"},
+  {"word":"別れる","reading":"わかれる","romaji":"wakareru","meaning_en":"to separate; to part; to break up","exampleSentence":"友達と駅で別れた。 (I parted from my friend at the station.)"},
+  {"word":"沸かす","reading":"わかす","romaji":"wakasu","meaning_en":"to boil (water); to heat","exampleSentence":"お湯を沸かしてお茶を作った。 (I boiled water and made tea.)"},
+  {"word":"沸く","reading":"わく","romaji":"waku","meaning_en":"to boil; to get excited; to be heated","exampleSentence":"お湯がすぐに沸いた。 (The water boiled quickly.)"},
+  {"word":"笑う","reading":"わらう","romaji":"warau","meaning_en":"to laugh; to smile","exampleSentence":"皆が笑って楽しかった。 (Everyone laughed and it was fun.)"},
+  {"word":"割れる","reading":"われる","romaji":"wareru","meaning_en":"to break; to split (intransitive)","exampleSentence":"コップが落ちて割れた。 (The glass fell and broke.)"},
+  {"word":"割合","reading":"わりあい","romaji":"wariai","meaning_en":"ratio; proportion; comparatively; relatively","exampleSentence":"割合に早く終わった。 (It finished relatively quickly.)"},
+  {"word":"忘れ物","reading":"わすれもの","romaji":"wasuremono","meaning_en":"lost article; something left behind","exampleSentence":"駅に忘れ物を取りに行った。 (I went to pick up something I left at the station.)"},
+  {"word":"焼ける","reading":"やける","romaji":"yakeru","meaning_en":"to burn; to be roasted; to get sunburned (intransitive)","exampleSentence":"パンが焼けた。 (The bread is baked.)"},
+  {"word":"焼く","reading":"やく","romaji":"yaku","meaning_en":"to grill; to bake; to roast (transitive)","exampleSentence":"肉を焼いて夕食にした。 (I grilled meat for dinner.)"},
+  {"word":"役に立つ","reading":"やくにたつ","romaji":"yakunitatsu","meaning_en":"to be useful; to be helpful","exampleSentence":"この本は勉強に役に立つ。 (This book is useful for study.)"},
+  {"word":"約束","reading":"やくそく","romaji":"yakusoku","meaning_en":"promise; appointment; agreement","exampleSentence":"約束を守ってください。 (Please keep your promise.)"},
+  {"word":"止む","reading":"やむ","romaji":"yamu","meaning_en":"to stop (rain, wind); to cease","exampleSentence":"雨がやんだので散歩に行った。 (The rain stopped so I went for a walk.)"},
+  {"word":"やっぱり","reading":"やっぱり","romaji":"yappari","meaning_en":"as expected; still; after all","exampleSentence":"やっぱり行きたくなかった。 (After all, I didn't want to go.)"},
+  {"word":"優しい","reading":"やさしい","romaji":"yasashii","meaning_en":"kind; gentle; easy (problem)","exampleSentence":"彼女はとても優しい人です。 (She is a very kind person.)"},
+  {"word":"痩せる","reading":"やせる","romaji":"yaseru","meaning_en":"to become thin; to lose weight","exampleSentence":"ダイエットして少し痩せた。 (I dieted and lost some weight.)"},
+  {"word":"柔らかい","reading":"やわらかい","romaji":"yawarakai","meaning_en":"soft; tender; gentle","exampleSentence":"このクッションは柔らかい。 (This cushion is soft.)"},
+  {"word":"汚れる","reading":"よごれる","romaji":"yogoreru","meaning_en":"to get dirty; to become soiled","exampleSentence":"服が汚れたので洗濯した。 (My clothes got dirty so I washed them.)"},
+  {"word":"喜ぶ","reading":"よろこぶ","romaji":"yorokobu","meaning_en":"to be pleased; to be delighted","exampleSentence":"プレゼントをもらって喜んだ。 (I was delighted to receive the present.)"},
+  {"word":"寄る","reading":"よる","romaji":"yoru","meaning_en":"to drop by; to stop by; to approach","exampleSentence":"帰りにスーパーに寄った。 (I stopped by the supermarket on the way home.)"},
+  {"word":"予習","reading":"よしゅう","romaji":"yoshuu","meaning_en":"preparation for a lesson; studying in advance","exampleSentence":"授業の前に予習をする。 (I prepare for class in advance.)"},
+  {"word":"予定","reading":"よてい","romaji":"yotei","meaning_en":"plan; schedule; arrangement","exampleSentence":"週末の予定を確認した。 (I checked my plans for the weekend.)"},
+  {"word":"用","reading":"よう","romaji":"you","meaning_en":"use; task; business; errand; purpose","exampleSentence":"用があるので出かけます。 (I have an errand, so I will go out.)"},
+  {"word":"用意","reading":"ようい","romaji":"youi","meaning_en":"preparation; arrangements; to prepare (suru)","exampleSentence":"旅行の用意を始めた。 (I started preparing for the trip.)"},
+  {"word":"用事","reading":"ようじ","romaji":"youji","meaning_en":"things to do; errands; business","exampleSentence":"今日は用事がたくさんある。 (I have many things to do today.)"},
+  {"word":"予約","reading":"よやく","romaji":"yoyaku","meaning_en":"reservation; booking; to reserve (suru)","exampleSentence":"レストランを予約した。 (I reserved a table at the restaurant.)"},
+  {"word":"湯","reading":"ゆ","romaji":"yu","meaning_en":"hot water; bath","exampleSentence":"お風呂の湯が熱すぎる。 (The bath water is too hot.)"},
+  {"word":"指","reading":"ゆび","romaji":"yubi","meaning_en":"finger; point (on a clock)","exampleSentence":"指を切ってしまった。 (I cut my finger.)"},
+  {"word":"指輪","reading":"ゆびわ","romaji":"yubiwa","meaning_en":"finger ring; ring","exampleSentence":"指輪をもらって嬉しい。 (I am happy to receive a ring.)"},
+  {"word":"夢","reading":"ゆめ","romaji":"yume","meaning_en":"dream; vision","exampleSentence":"将来の夢は医者になることだ。 (My dream for the future is to become a doctor.)"},
+  {"word":"揺れる","reading":"ゆれる","romaji":"yureru","meaning_en":"to shake; to sway; to tremble","exampleSentence":"地震で棚が揺れた。 (The shelf shook during the earthquake.)"},
+  {"word":"残念","reading":"ざんねん","romaji":"zannen","meaning_en":"regrettable; unfortunate; that's a pity","exampleSentence":"試合に負けて残念だった。 (It was unfortunate that we lost the match.)"},
+  {"word":"全然","reading":"ぜんぜん","romaji":"zenzen","meaning_en":"not at all; entirely (used with negative)","exampleSentence":"全然分かりません。 (I don't understand at all.)"}
+]

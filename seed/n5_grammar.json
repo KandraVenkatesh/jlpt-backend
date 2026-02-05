@@ -1,0 +1,758 @@
+[
+  {
+    "id": 1,
+    "grammar": "cha ikenai / ja ikenai",
+    "meaning_en": "must not do (spoken Japanese)",
+    "structure": "ちゃいけない・じゃいけない",
+    "explanation": "Casual spoken form of てはいけない meaning 'you must not do'. Used among friends.",
+    "example": "ここで遊んじゃいけないよ。 (You must not play here.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 2,
+    "grammar": "da / desu",
+    "meaning_en": "to be (am, is, are)",
+    "structure": "だ / です",
+    "explanation": "The basic copula in Japanese used to state something.",
+    "example": "これは本です。 (This is a book.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 3,
+    "grammar": "dake",
+    "meaning_en": "only; just; as much as",
+    "structure": "だけ",
+    "explanation": "Used to limit or restrict the amount of something.",
+    "example": "水だけ飲みます。 (I only drink water.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 4,
+    "grammar": "darou",
+    "meaning_en": "I think; probably",
+    "structure": "だろう",
+    "explanation": "Casual form of でしょう used to express guess or assumption.",
+    "example": "明日は雨だろう。 (It will probably rain tomorrow.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 5,
+    "grammar": "de",
+    "meaning_en": "in; at; on; by; with",
+    "structure": "で",
+    "explanation": "Particle indicating place of action or means of doing something.",
+    "example": "学校で勉強します。 (I study at school.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 6,
+    "grammar": "demo",
+    "meaning_en": "but; however",
+    "structure": "でも",
+    "explanation": "Used to show contrast between two ideas.",
+    "example": "行きたいです。でも、お金がありません。 (I want to go, but I have no money.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 7,
+    "grammar": "deshou",
+    "meaning_en": "I think; probably",
+    "structure": "でしょう",
+    "explanation": "Polite form expressing guess or assumption.",
+    "example": "今日は寒いでしょう。 (It’s probably cold today.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 8,
+    "grammar": "donna",
+    "meaning_en": "what kind of",
+    "structure": "どんな",
+    "explanation": "Used to ask about the type or characteristics of something.",
+    "example": "どんな映画が好きですか。 (What kind of movies do you like?)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 9,
+    "grammar": "doushite",
+    "meaning_en": "why",
+    "structure": "どうして",
+    "explanation": "Used to ask the reason for something.",
+    "example": "どうして来なかったの？ (Why didn’t you come?)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 10,
+    "grammar": "douyatte",
+    "meaning_en": "how; by what method",
+    "structure": "どうやって",
+    "explanation": "Used to ask how something is done.",
+    "example": "これはどうやって使いますか。 (How do you use this?)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 11,
+    "grammar": "ga",
+    "meaning_en": "subject marker; but",
+    "structure": "が",
+    "explanation": "Main subject marker. Also used as 'but' in sentences.",
+    "example": "雨が降っています。 (It is raining.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 12,
+    "grammar": "ga arimasu",
+    "meaning_en": "there is (non-living)",
+    "structure": "があります",
+    "explanation": "Used to express existence of non-living things.",
+    "example": "庭に木があります。 (There is a tree in the garden.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 13,
+    "grammar": "ga hoshii",
+    "meaning_en": "to want something",
+    "structure": "がほしい",
+    "explanation": "Used to express desire for a noun.",
+    "example": "新しいパソコンがほしいです。 (I want a new computer.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 14,
+    "grammar": "ga imasu",
+    "meaning_en": "there is (living things)",
+    "structure": "がいます",
+    "explanation": "Used to express existence of living things.",
+    "example": "家に犬がいます。 (There is a dog at home.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 15,
+    "grammar": "hou ga ii",
+    "meaning_en": "had better; should",
+    "structure": "ほうがいい",
+    "explanation": "Used to give advice or suggestions.",
+    "example": "早く寝たほうがいいよ。 (You should sleep early.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 16,
+    "grammar": "i-adjectives",
+    "meaning_en": "i-adjectives",
+    "structure": "い-adjectives",
+    "explanation": "Adjectives ending in い. They conjugate to show tense and negativity.",
+    "example": "この本はおもしろいです。 (This book is interesting.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 17,
+    "grammar": "ichiban",
+    "meaning_en": "the most; number one",
+    "structure": "一番（いちばん）",
+    "explanation": "Used to express superlatives.",
+    "example": "寿司が一番好きです。 (I like sushi the most.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 18,
+    "grammar": "issho ni",
+    "meaning_en": "together",
+    "structure": "一緒に（いっしょに）",
+    "explanation": "Used when doing something with someone else.",
+    "example": "一緒に行きましょう。 (Let's go together.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 19,
+    "grammar": "itsumo",
+    "meaning_en": "always; usually",
+    "structure": "いつも",
+    "explanation": "Adverb showing habitual actions.",
+    "example": "いつもコーヒーを飲みます。 (I always drink coffee.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 20,
+    "grammar": "janai / dewa nai",
+    "meaning_en": "to not be",
+    "structure": "じゃない・ではない",
+    "explanation": "Negative form of だ／です.",
+    "example": "これは私のじゃない。 (This is not mine.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 21,
+    "grammar": "ka",
+    "meaning_en": "question particle",
+    "structure": "か",
+    "explanation": "Placed at the end of a sentence to form a question.",
+    "example": "元気ですか。 (How are you?)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 22,
+    "grammar": "ka~ka",
+    "meaning_en": "or",
+    "structure": "か～か",
+    "explanation": "Used to list two or more choices.",
+    "example": "コーヒーかお茶か、どちらがいいですか。 (Coffee or tea — which do you prefer?)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 23,
+    "grammar": "kara",
+    "meaning_en": "because; since; from",
+    "structure": "から",
+    "explanation": "Used to give reasons or indicate starting point.",
+    "example": "雨だから行きません。 (I won't go because it's raining.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 24,
+    "grammar": "kata",
+    "meaning_en": "how to do; way of doing",
+    "structure": "方（かた）",
+    "explanation": "Used to express how to do something.",
+    "example": "日本語の勉強の仕方を教えてください。 (Please teach me how to study Japanese.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 25,
+    "grammar": "kedo",
+    "meaning_en": "but; although",
+    "structure": "けど",
+    "explanation": "Casual conjunction showing contrast.",
+    "example": "おいしいけど高いです。 (It's tasty, but expensive.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 26,
+    "grammar": "keredo mo",
+    "meaning_en": "but; although",
+    "structure": "けれども",
+    "explanation": "Polite/softened version of けど.",
+    "example": "行きたいけれども時間がありません。 (I want to go, but I have no time.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 27,
+    "grammar": "mada",
+    "meaning_en": "still; not yet",
+    "structure": "まだ",
+    "explanation": "Indicates something continues or has not happened yet.",
+    "example": "まだ食べていません。 (I haven’t eaten yet.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 28,
+    "grammar": "mada ~te imasen",
+    "meaning_en": "have not yet ~",
+    "structure": "まだ〜ていません",
+    "explanation": "Used to say something has not happened yet.",
+    "example": "宿題をまだしていません。 (I haven’t done the homework yet.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 29,
+    "grammar": "made",
+    "meaning_en": "until; as far as",
+    "structure": "まで",
+    "explanation": "Indicates end point of time or place.",
+    "example": "駅まで歩きます。 (I walk to the station.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 30,
+    "grammar": "mae ni",
+    "meaning_en": "before",
+    "structure": "前に（まえに）",
+    "explanation": "Used when an action happens before another action.",
+    "example": "寝る前に本を読みます。 (I read a book before sleeping.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 31,
+    "grammar": "masen ka",
+    "meaning_en": "would you like to; shall we",
+    "structure": "ませんか",
+    "explanation": "Polite invitation form.",
+    "example": "一緒に行きませんか。 (Would you like to go together?)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 32,
+    "grammar": "mashou",
+    "meaning_en": "let's; shall we",
+    "structure": "ましょう",
+    "explanation": "Used to propose doing something together.",
+    "example": "食べましょう。 (Let’s eat.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 33,
+    "grammar": "mashouka",
+    "meaning_en": "shall I~? (offering help)",
+    "structure": "ましょうか",
+    "explanation": "Used when offering assistance.",
+    "example": "荷物を持ちましょうか。 (Shall I carry your bag?)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 34,
+    "grammar": "mo",
+    "meaning_en": "too; also",
+    "structure": "も",
+    "explanation": "Used to express 'also' or 'too'.",
+    "example": "私も行きます。 (I will go too.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 35,
+    "grammar": "mou",
+    "meaning_en": "already; anymore",
+    "structure": "もう",
+    "explanation": "Shows completion or emphasis.",
+    "example": "もう終わりました。 (It’s already finished.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 36,
+    "grammar": "na-adjectives",
+    "meaning_en": "na-adjectives",
+    "structure": "な-adjectives",
+    "explanation": "Adjectives that require な before nouns.",
+    "example": "静かな町です。 (It’s a quiet town.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 37,
+    "grammar": "naa",
+    "meaning_en": "sentence ending particle (emotion)",
+    "structure": "なあ",
+    "explanation": "Used to show emotion, admiration, or thinking aloud.",
+    "example": "きれいだなあ。 (Wow, it’s beautiful.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 38,
+    "grammar": "naide",
+    "meaning_en": "without doing",
+    "structure": "ないで",
+    "explanation": "Used to express doing B without doing A.",
+    "example": "朝ごはんを食べないで学校へ行きます。 (I go to school without eating breakfast.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 39,
+    "grammar": "naide kudasai",
+    "meaning_en": "please don’t do",
+    "structure": "ないでください",
+    "explanation": "Polite request telling someone not to do something.",
+    "example": "ここで写真を撮らないでください。 (Please do not take photos here.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 40,
+    "grammar": "naito ikenai",
+    "meaning_en": "must do; have to do",
+    "structure": "ないといけない",
+    "explanation": "Used to express obligation or necessity.",
+    "example": "早く寝ないといけない。 (I must sleep early.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 41,
+    "grammar": "naku temo ii",
+    "meaning_en": "don't have to",
+    "structure": "なくてもいい",
+    "explanation": "Used to say that doing something is not necessary.",
+    "example": "全部食べなくてもいいです。 (You don't have to eat everything.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 42,
+    "grammar": "nakucha",
+    "meaning_en": "must do; need to; gotta do",
+    "structure": "なくちゃ",
+    "explanation": "Casual form of なくては; used when saying you must do something.",
+    "example": "早く起きなくちゃ。 (I gotta wake up early.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 43,
+    "grammar": "nakute wa ikenai",
+    "meaning_en": "must do; need to do",
+    "structure": "なくてはいけない",
+    "explanation": "Formal way to express obligation.",
+    "example": "薬を飲まなくてはいけません。 (I must take my medicine.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 44,
+    "grammar": "nakute wa naranai",
+    "meaning_en": "must do",
+    "structure": "なくてはならない",
+    "explanation": "Strong, more formal expression of obligation.",
+    "example": "彼は成功しなくてはならない。 (He must succeed.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 45,
+    "grammar": "naru",
+    "meaning_en": "to become",
+    "structure": "なる",
+    "explanation": "Used when something changes or becomes a state.",
+    "example": "先生になりたいです。 (I want to become a teacher.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 46,
+    "grammar": "ndesu",
+    "meaning_en": "to explain something; emphasize",
+    "structure": "んです",
+    "explanation": "Adds explanation, reason, or emotion to a sentence.",
+    "example": "お腹が痛いんです。 (It's because my stomach hurts.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 47,
+    "grammar": "ne",
+    "meaning_en": "isn't it? right?",
+    "structure": "ね",
+    "explanation": "Sentence-ending particle to seek agreement or soften tone.",
+    "example": "きれいですね。 (It's beautiful, isn't it?)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 48,
+    "grammar": "ni",
+    "meaning_en": "destination particle; in; at; on; to",
+    "structure": "に",
+    "explanation": "Marks time, location, or direction.",
+    "example": "学校に行きます。 (I go to school.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 49,
+    "grammar": "ni iku",
+    "meaning_en": "go to do ~",
+    "structure": "に行く",
+    "explanation": "Used when going somewhere for a purpose.",
+    "example": "日本へ勉強しに行きます。 (I will go to Japan to study.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 50,
+    "grammar": "ni suru",
+    "meaning_en": "to decide on",
+    "structure": "にする",
+    "explanation": "Used when choosing something.",
+    "example": "コーヒーにします。 (I'll have coffee.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 51,
+    "grammar": "ni/e",
+    "meaning_en": "to (destination)",
+    "structure": "に / へ",
+    "explanation": "Particles used to indicate direction.",
+    "example": "京都へ行きます。 (I’m going to Kyoto.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 52,
+    "grammar": "no",
+    "meaning_en": "possessive particle",
+       "structure": "の",
+    "explanation": "Shows ownership or connection between nouns.",
+    "example": "私の本です。 (It’s my book.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 53,
+    "grammar": "no desu",
+    "meaning_en": "to explain something; show emphasis",
+    "structure": "のです",
+    "explanation": "Polite explanatory form similar to んです.",
+    "example": "雨だったのです。 (It's because it was raining.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 54,
+    "grammar": "no ga heta",
+    "meaning_en": "to be bad at doing something",
+    "structure": "のが下手",
+    "explanation": "Used to express poor skill at an action.",
+    "example": "泳ぐのが下手です。 (I am bad at swimming.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 55,
+    "grammar": "no ga jouzu",
+    "meaning_en": "to be good at",
+    "structure": "のが上手",
+    "explanation": "Used to express good skill at an action.",
+    "example": "料理するのが上手です。 (I am good at cooking.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 56,
+    "grammar": "no ga suki",
+    "meaning_en": "to like doing something",
+    "structure": "のが好き",
+    "explanation": "Used when liking a specific action.",
+    "example": "本を読むのが好きです。 (I like reading books.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 57,
+    "grammar": "no naka de [A] ga ichiban",
+    "meaning_en": "out of this group, A is best",
+    "structure": "の中で[A]が一番",
+    "explanation": "Used for comparisons within a group.",
+    "example": "果物の中でりんごが一番好きです。 (Among fruits, I like apples the most.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 58,
+    "grammar": "node",
+    "meaning_en": "because; since",
+    "structure": "ので",
+    "explanation": "Polite/soft reason marker similar to から.",
+    "example": "雨なので家にいます。 (Because it’s raining, I’ll stay home.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 59,
+    "grammar": "o / go",
+    "meaning_en": "polite prefix",
+    "structure": "お / ご",
+    "explanation": "Makes words polite; お for native words, ご for Sino-Japanese.",
+    "example": "お水をください。 (Please give me water.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 60,
+    "grammar": "o / wo",
+    "meaning_en": "object marker",
+    "structure": "を",
+    "explanation": "Marks the direct object of the verb.",
+    "example": "りんごを食べます。 (I eat an apple.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 61,
+    "grammar": "o kudasai",
+    "meaning_en": "please give me",
+    "structure": "をください",
+    "explanation": "Used to request an item politely.",
+    "example": "水をください。 (Please give me water.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 62,
+    "grammar": "shikashi",
+    "meaning_en": "but; however",
+    "structure": "しかし",
+    "explanation": "Formal contrast word used mostly in writing.",
+    "example": "雨でした。しかし、行きました。 (It was raining. However, I still went.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 63,
+    "grammar": "sore kara",
+    "meaning_en": "and then; after that",
+    "structure": "それから",
+    "explanation": "Used to show sequence of events.",
+    "example": "勉強しました。それから散歩しました。 (I studied. After that, I took a walk.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 64,
+    "grammar": "soshite",
+    "meaning_en": "and; then",
+    "structure": "そして",
+    "explanation": "Connects two actions in order.",
+    "example": "ご飯を食べました。そして寝ました。 (I ate food, and then slept.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 65,
+    "grammar": "sugiru",
+    "meaning_en": "too much",
+    "structure": "すぎる",
+    "explanation": "Attached to verbs/adjectives to mean excessive.",
+    "example": "食べすぎました。 (I ate too much.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 66,
+    "grammar": "ta koto ga aru",
+    "meaning_en": "have done before",
+    "structure": "たことがある",
+    "explanation": "Used to express past experience.",
+    "example": "日本に行ったことがあります。 (I have been to Japan.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 67,
+    "grammar": "tai",
+    "meaning_en": "want to do",
+    "structure": "たい",
+    "explanation": "Used to express desire to perform an action.",
+    "example": "映画を見たいです。 (I want to watch a movie.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 68,
+    "grammar": "tari~tari",
+    "meaning_en": "do such things as A and B",
+    "structure": "たり〜たり",
+    "explanation": "Used to list multiple actions.",
+    "example": "休日は映画を見たり、本を読んだりします。 (On holidays I do things like watch movies and read books.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 69,
+    "grammar": "te aru",
+    "meaning_en": "has been done (resulting state)",
+    "structure": "てある",
+    "explanation": "Shows something was done intentionally and the result remains.",
+    "example": "窓が開けてあります。 (The window has been left open.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 70,
+    "grammar": "te iru",
+    "meaning_en": "ongoing action; current state",
+    "structure": "ている",
+    "explanation": "Used for continuous action or existing state.",
+    "example": "雨が降っています。 (It is raining.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 71,
+    "grammar": "te kara",
+    "meaning_en": "after doing",
+    "structure": "てから",
+    "explanation": "Used to show sequence — after A, do B.",
+    "example": "宿題をしてから寝ます。 (I sleep after doing homework.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 72,
+    "grammar": "te kudasai",
+    "meaning_en": "please do",
+    "structure": "てください",
+    "explanation": "Polite request to ask someone to do something.",
+    "example": "これを見てください。 (Please look at this.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 73,
+    "grammar": "te wa ikenai",
+    "meaning_en": "must not; cannot",
+    "structure": "てはいけない",
+    "explanation": "Strong prohibition.",
+    "example": "ここでタバコを吸ってはいけません。 (You must not smoke here.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 74,
+    "grammar": "temo ii desu",
+    "meaning_en": "may I; is it OK to",
+    "structure": "てもいいです",
+    "explanation": "Used for asking/giving permission.",
+    "example": "写真を撮ってもいいですか。 (May I take a picture?)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 75,
+    "grammar": "to",
+    "meaning_en": "and; with",
+    "structure": "と",
+    "explanation": "Used to connect nouns or indicate companions.",
+    "example": "友だちと話します。 (I talk with my friend.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 76,
+    "grammar": "toki",
+    "meaning_en": "when",
+    "structure": "とき",
+    "explanation": "Used to describe when something happens.",
+    "example": "暇なとき、ゲームをします。 (When I'm free, I play games.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 77,
+    "grammar": "totemo",
+    "meaning_en": "very; extremely",
+    "structure": "とても",
+    "explanation": "Used to emphasize adjectives.",
+    "example": "この本はとてもおもしろいです。 (This book is very interesting.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 78,
+    "grammar": "tsumori",
+    "meaning_en": "plan to; intend to",
+    "structure": "つもり",
+    "explanation": "Used to express intention.",
+    "example": "明日勉強するつもりです。 (I plan to study tomorrow.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 79,
+    "grammar": "wa - topic marker",
+    "meaning_en": "topic marker",
+    "structure": "は",
+    "explanation": "Indicates the topic of a sentence.",
+    "example": "私は学生です。 (As for me, I am a student.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 80,
+    "grammar": "wa ~yori... desu",
+    "meaning_en": "[A] is more ~ than [B]",
+    "structure": "は〜より・・・です",
+    "explanation": "Used for comparisons.",
+    "example": "犬は猫より大きいです。 (Dogs are bigger than cats.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 81,
+    "grammar": "wa dou desu ka",
+    "meaning_en": "how about; how is",
+    "structure": "はどうですか",
+    "explanation": "Used to ask someone's opinion or to suggest something (\"How about X?\" / \"What do you think of X?\").",
+    "example": "週末は映画はどうですか。 (How about a movie this weekend?)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 82,
+    "grammar": "ya",
+    "meaning_en": "and; or; connecting particle",
+    "structure": "や",
+    "explanation": "Particle used to list examples (non-exhaustive). Means 'A and B and so on' or can imply 'A or B' in casual lists.",
+    "example": "パンや牛乳を買いました。 (I bought things like bread and milk.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 83,
+    "grammar": "yo",
+    "meaning_en": "you know; emphasis (ending particle)",
+    "structure": "よ",
+    "explanation": "Sentence-ending particle used to give new information emphatically or to assure the listener.",
+    "example": "大丈夫ですよ。 (It's okay, you know.)",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": 84,
+    "grammar": "yori ~hou ga",
+    "meaning_en": "[B] is more ~ than [A]",
+    "structure": "より〜ほうが",
+    "explanation": "Used to compare two items. Structure: AよりBのほうが adjective. It states that B is more (adjective) than A.",
+    "example": "コーヒーよりお茶のほうが好きです。 (I prefer tea more than coffee.)",
+    "jlptLevel": "N5"
+  }
+]

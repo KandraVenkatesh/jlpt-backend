@@ -1,0 +1,4388 @@
+[
+  {
+    "word": "食べる",
+    "reading": "たべる",
+    "meaning_en": "to eat",
+    "exampleSentence": "すしを食べます。 (I eat sushi.)"
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "meaning_en": "to drink",
+    "exampleSentence": "水を飲みます。 (I drink water.)"
+  },
+  {
+    "word": "行く",
+    "reading": "いく",
+    "meaning_en": "to go",
+    "exampleSentence": "学校へ行きます。 (I go to school.)"
+  },
+  {
+    "word": "来る",
+    "reading": "くる",
+    "meaning_en": "to come",
+    "exampleSentence": "友だちが来ます。 (My friend comes.)"
+  },
+  {
+    "word": "見る",
+    "reading": "みる",
+    "meaning_en": "to see; to watch",
+    "exampleSentence": "映画を見ます。 (I watch a movie.)"
+  },
+  {
+    "word": "聞く",
+    "reading": "きく",
+    "meaning_en": "to listen; to ask",
+    "exampleSentence": "音楽を聞きます。 (I listen to music.)"
+  },
+  {
+    "word": "話す",
+    "reading": "はなす",
+    "meaning_en": "to speak; to talk",
+    "exampleSentence": "日本語を話します。 (I speak Japanese.)"
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "meaning_en": "to write",
+    "exampleSentence": "手紙を書きます。 (I write a letter.)"
+  },
+  {
+    "word": "読む",
+    "reading": "よむ",
+    "meaning_en": "to read",
+    "exampleSentence": "本を読みます。 (I read a book.)"
+  },
+  {
+    "word": "会う",
+    "reading": "あう",
+    "meaning_en": "to meet",
+    "exampleSentence": "友だちに会います。 (I meet a friend.)"
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "meaning_en": "to buy",
+    "exampleSentence": "りんごを買います。 (I buy apples.)"
+  },
+  {
+    "word": "使う",
+    "reading": "つかう",
+    "meaning_en": "to use",
+    "exampleSentence": "スマホを使います。 (I use my smartphone.)"
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "meaning_en": "to make",
+    "exampleSentence": "ケーキを作ります。 (I make a cake.)"
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning_en": "to walk",
+    "exampleSentence": "駅まで歩きます。 (I walk to the station.)"
+  },
+  {
+    "word": "走る",
+    "reading": "はしる",
+    "meaning_en": "to run",
+    "exampleSentence": "公園で走ります。 (I run in the park.)"
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "meaning_en": "to sleep",
+    "exampleSentence": "早く寝ます。 (I sleep early.)"
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "meaning_en": "to wake up",
+    "exampleSentence": "七時に起きます。 (I wake up at 7.)"
+  },
+  {
+    "word": "入る",
+    "reading": "はいる",
+    "meaning_en": "to enter",
+    "exampleSentence": "部屋に入ります。 (I enter the room.)"
+  },
+  {
+    "word": "出る",
+    "reading": "でる",
+    "meaning_en": "to leave; to exit",
+    "exampleSentence": "家を出ます。 (I leave the house.)"
+  },
+  {
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning_en": "to return home",
+    "exampleSentence": "家に帰ります。 (I return home.)"
+  },
+  {
+    "word": "開ける",
+    "reading": "あける",
+    "meaning_en": "to open",
+    "exampleSentence": "ドアを開けます。 (I open the door.)"
+  },
+  {
+    "word": "閉める",
+    "reading": "しめる",
+    "meaning_en": "to close",
+    "exampleSentence": "窓を閉めます。 (I close the window.)"
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "meaning_en": "to ride; to board",
+    "exampleSentence": "電車に乗ります。 (I ride the train.)"
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning_en": "to get off",
+    "exampleSentence": "バスを降ります。 (I get off the bus.)"
+  },
+  {
+    "word": "洗う",
+    "reading": "あらう",
+    "meaning_en": "to wash",
+    "exampleSentence": "手を洗います。 (I wash my hands.)"
+  },
+  {
+    "word": "死ぬ",
+    "reading": "しぬ",
+    "meaning_en": "to die",
+    "exampleSentence": "木が死にました。 (The tree died.)"
+  },
+  {
+    "word": "住む",
+    "reading": "すむ",
+    "meaning_en": "to live",
+    "exampleSentence": "東京に住んでいます。 (I live in Tokyo.)"
+  },
+  {
+    "word": "売る",
+    "reading": "うる",
+    "meaning_en": "to sell",
+    "exampleSentence": "車を売ります。 (I sell a car.)"
+  },
+  {
+    "word": "待つ",
+    "reading": "まつ",
+    "meaning_en": "to wait",
+    "exampleSentence": "友だちを待ちます。 (I wait for my friend.)"
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "meaning_en": "to stand",
+    "exampleSentence": "ここに立ってください。 (Please stand here.)"
+  },
+  {
+    "word": "座る",
+    "reading": "すわる",
+    "meaning_en": "to sit",
+    "exampleSentence": "いすに座ります。 (I sit on a chair.)"
+  },
+  {
+    "word": "教える",
+    "reading": "おしえる",
+    "meaning_en": "to teach",
+    "exampleSentence": "日本語を教えます。 (I teach Japanese.)"
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "meaning_en": "to learn",
+    "exampleSentence": "ピアノを習います。 (I learn piano.)"
+  },
+  {
+    "word": "始める",
+    "reading": "はじめる",
+    "meaning_en": "to start",
+    "exampleSentence": "仕事を始めます。 (I start work.)"
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning_en": "to finish",
+    "exampleSentence": "授業が終わります。 (Class ends.)"
+  },
+  {
+    "word": "開く",
+    "reading": "ひらく",
+    "meaning_en": "to open (book/event)",
+    "exampleSentence": "本を開きます。 (I open a book.)"
+  },
+  {
+    "word": "閉じる",
+    "reading": "とじる",
+    "meaning_en": "to close",
+    "exampleSentence": "本を閉じます。 (I close the book.)"
+  },
+  {
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning_en": "to play",
+    "exampleSentence": "公園で遊びます。 (I play at the park.)"
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning_en": "to swim",
+    "exampleSentence": "川で泳ぎます。 (I swim in the river.)"
+  },
+  {
+    "word": "切る",
+    "reading": "きる",
+    "meaning_en": "to cut",
+    "exampleSentence": "紙を切ります。 (I cut paper.)"
+  },
+  {
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning_en": "to put in",
+    "exampleSentence": "コーヒーを入れます。 (I make coffee.)"
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "meaning_en": "to turn off; erase",
+    "exampleSentence": "ライトを消します。 (I turn off the light.)"
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning_en": "to memorize",
+    "exampleSentence": "単語を覚えます。 (I memorize words.)"
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning_en": "to forget",
+    "exampleSentence": "名前を忘れました。 (I forgot the name.)"
+  },
+  {
+    "word": "押す",
+    "reading": "おす",
+    "meaning_en": "to push",
+    "exampleSentence": "ボタンを押します。 (I press a button.)"
+  },
+  {
+    "word": "引く",
+    "reading": "ひく",
+    "meaning_en": "to pull",
+    "exampleSentence": "ドアを引きます。 (I pull the door.)"
+  },
+  {
+    "word": "働く",
+    "reading": "はたらく",
+    "meaning_en": "to work",
+    "exampleSentence": "会社で働きます。 (I work at a company.)"
+  },
+  {
+    "word": "休む",
+    "reading": "やすむ",
+    "meaning_en": "to rest; to take a break",
+    "exampleSentence": "少し休みます。 (I rest a little.)"
+  },
+  {
+    "word": "赤い",
+    "reading": "あかい",
+    "meaning_en": "red",
+    "exampleSentence": "赤い服を着ます。 (I wear red clothes.)"
+  },
+  {
+    "word": "青い",
+    "reading": "あおい",
+    "meaning_en": "blue",
+    "exampleSentence": "青い空です。 (The sky is blue.)"
+  },
+  {
+    "word": "白い",
+    "reading": "しろい",
+    "meaning_en": "white",
+    "exampleSentence": "白い犬がいます。 (There is a white dog.)"
+  },
+  {
+    "word": "黒い",
+    "reading": "くろい",
+    "meaning_en": "black",
+    "exampleSentence": "黒い靴を買いました。 (I bought black shoes.)"
+  },
+  {
+    "word": "黄色い",
+    "reading": "きいろい",
+    "meaning_en": "yellow",
+    "exampleSentence": "黄色い花です。 (These are yellow flowers.)"
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaning_en": "big",
+    "exampleSentence": "大きい家に住みたいです。 (I want to live in a big house.)"
+  },
+  {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meaning_en": "small",
+    "exampleSentence": "小さいカバンです。 (It is a small bag.)"
+  },
+  {
+    "word": "安い",
+    "reading": "やすい",
+    "meaning_en": "cheap",
+    "exampleSentence": "このりんごは安いです。 (These apples are cheap.)"
+  },
+  {
+    "word": "暑い",
+    "reading": "あつい",
+    "meaning_en": "hot (weather)",
+    "exampleSentence": "今日は暑いです。 (Today is hot.)"
+  },
+  {
+    "word": "寒い",
+    "reading": "さむい",
+    "meaning_en": "cold (weather)",
+    "exampleSentence": "冬は寒いです。 (Winter is cold.)"
+  },
+  {
+    "word": "熱い",
+    "reading": "あつい",
+    "meaning_en": "hot (touch)",
+    "exampleSentence": "お湯は熱いです。 (The hot water is hot.)"
+  },
+  {
+    "word": "冷たい",
+    "reading": "つめたい",
+    "meaning_en": "cold (touch)",
+    "exampleSentence": "冷たい水を飲みます。 (I drink cold water.)"
+  },
+  {
+    "word": "短い",
+    "reading": "みじかい",
+    "meaning_en": "short",
+    "exampleSentence": "短い髪が好きです。 (I like short hair.)"
+  },
+  {
+    "word": "長い",
+    "reading": "ながい",
+    "meaning_en": "long",
+    "exampleSentence": "長い道ですね。 (It’s a long road.)"
+  },
+  {
+    "word": "近い",
+    "reading": "ちかい",
+    "meaning_en": "near",
+    "exampleSentence": "駅は近いです。 (The station is near.)"
+  },
+  {
+    "word": "遠い",
+    "reading": "とおい",
+    "meaning_en": "far",
+    "exampleSentence": "学校は遠いです。 (The school is far.)"
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaning_en": "new",
+    "exampleSentence": "新しいスマホです。 (It is a new phone.)"
+  },
+  {
+    "word": "古い",
+    "reading": "ふるい",
+    "meaning_en": "old",
+    "exampleSentence": "古い家に住んでいます。 (I live in an old house.)"
+  },
+  {
+    "word": "簡単",
+    "reading": "かんたん",
+    "meaning_en": "easy",
+    "exampleSentence": "この問題は簡単です。 (This question is easy.)"
+  },
+  {
+    "word": "難しい",
+    "reading": "むずかしい",
+    "meaning_en": "difficult",
+    "exampleSentence": "日本語は難しいです。 (Japanese is difficult.)"
+  },
+  {
+    "word": "有名",
+    "reading": "ゆうめい",
+    "meaning_en": "famous",
+    "exampleSentence": "有名なレストランです。 (It is a famous restaurant.)"
+  },
+  {
+    "word": "元気",
+    "reading": "げんき",
+    "meaning_en": "healthy; energetic",
+    "exampleSentence": "今日は元気です。 (I feel energetic today.)"
+  },
+  {
+    "word": "好き",
+    "reading": "すき",
+    "meaning_en": "liked; favorite",
+    "exampleSentence": "猫が好きです。 (I like cats.)"
+  },
+  {
+    "word": "嫌い",
+    "reading": "きらい",
+    "meaning_en": "disliked; hate",
+    "exampleSentence": "にんじんが嫌いです。 (I dislike carrots.)"
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning_en": "skilled",
+    "exampleSentence": "彼は料理が上手です。 (He is good at cooking.)"
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "meaning_en": "unskilled",
+    "exampleSentence": "私は歌が下手です。 (I am bad at singing.)"
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "meaning_en": "quiet",
+    "exampleSentence": "図書館は静かです。 (The library is quiet.)"
+  },
+  {
+    "word": "にぎやか",
+    "reading": "にぎやか",
+    "meaning_en": "lively; busy",
+    "exampleSentence": "この通りはにぎやかです。 (This street is lively.)"
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "meaning_en": "convenient",
+    "exampleSentence": "スマホは便利です。 (Smartphones are convenient.)"
+  },
+  {
+    "word": "大切",
+    "reading": "たいせつ",
+    "meaning_en": "important",
+    "exampleSentence": "家族は大切です。 (Family is important.)"
+  },
+  {
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "meaning_en": "busy",
+    "exampleSentence": "今日は忙しいです。 (I am busy today.)"
+  },
+  {
+    "word": "暇",
+    "reading": "ひま",
+    "meaning_en": "free (time)",
+    "exampleSentence": "暇なときゲームをします。 (I play games when I’m free.)"
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "meaning_en": "expensive; tall",
+    "exampleSentence": "このシャツは高いです。 (This shirt is expensive.)"
+  },
+  {
+    "word": "低い",
+    "reading": "ひくい",
+    "meaning_en": "low; short (height)",
+    "exampleSentence": "山が低いです。 (The mountain is low.)"
+  },
+  {
+    "word": "広い",
+    "reading": "ひろい",
+    "meaning_en": "wide; spacious",
+    "exampleSentence": "部屋は広いです。 (The room is spacious.)"
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning_en": "narrow; small",
+    "exampleSentence": "道が狭いです。 (The road is narrow.)"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaning_en": "strong",
+    "exampleSentence": "彼はとても強いです。 (He is very strong.)"
+  },
+  {
+    "word": "弱い",
+    "reading": "よわい",
+    "meaning_en": "weak",
+    "exampleSentence": "私は体が弱いです。 (I have a weak body.)"
+  },
+  {
+    "word": "面白い",
+    "reading": "おもしろい",
+    "meaning_en": "interesting",
+    "exampleSentence": "この本は面白いです。 (This book is interesting.)"
+  },
+  {
+    "word": "つまらない",
+    "reading": "つまらない",
+    "meaning_en": "boring",
+    "exampleSentence": "その映画はつまらないです。 (That movie is boring.)"
+  },
+  {
+    "word": "危ない",
+    "reading": "あぶない",
+    "meaning_en": "dangerous",
+    "exampleSentence": "ここは危ないです。 (This place is dangerous.)"
+  },
+  {
+    "word": "きれい",
+    "reading": "きれい",
+    "meaning_en": "clean; beautiful",
+    "exampleSentence": "海はきれいです。 (The sea is beautiful.)"
+  },
+  {
+    "word": "汚い",
+    "reading": "きたない",
+    "meaning_en": "dirty",
+    "exampleSentence": "部屋が汚いです。 (The room is dirty.)"
+  },
+  {
+    "word": "太い",
+    "reading": "ふとい",
+    "meaning_en": "fat; thick",
+    "exampleSentence": "太い線を引きます。 (I draw a thick line.)"
+  },
+  {
+    "word": "細い",
+    "reading": "ほそい",
+    "meaning_en": "thin; slender",
+    "exampleSentence": "細い道です。 (It is a narrow road.)"
+  },
+  {
+    "word": "甘い",
+    "reading": "あまい",
+    "meaning_en": "sweet",
+    "exampleSentence": "このケーキは甘いです。 (This cake is sweet.)"
+  },
+  {
+    "word": "苦い",
+    "reading": "にがい",
+    "meaning_en": "bitter",
+    "exampleSentence": "薬は苦いです。 (Medicine is bitter.)"
+  },
+  {
+    "word": "飛行機",
+    "reading": "ひこうき",
+    "meaning_en": "airplane",
+    "exampleSentence": "飛行機で東京へ行きます。 (I go to Tokyo by airplane.)"
+  },
+  {
+    "word": "船",
+    "reading": "ふね",
+    "meaning_en": "ship; boat",
+    "exampleSentence": "船に乗ります。 (I ride a boat.)"
+  },
+  {
+    "word": "道具",
+    "reading": "どうぐ",
+    "meaning_en": "tool",
+    "exampleSentence": "道具を使います。 (I use tools.)"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaning_en": "newspaper",
+    "exampleSentence": "新聞を読みます。 (I read the newspaper.)"
+  },
+  {
+    "word": "雑誌",
+    "reading": "ざっし",
+    "meaning_en": "magazine",
+    "exampleSentence": "雑誌を買います。 (I buy a magazine.)"
+  },
+  {
+    "word": "ノート",
+    "reading": "のーと",
+    "meaning_en": "notebook",
+    "exampleSentence": "ノートに書きます。 (I write in my notebook.)"
+  },
+  {
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "meaning_en": "pencil",
+    "exampleSentence": "鉛筆で書きます。 (I write with a pencil.)"
+  },
+  {
+    "word": "消しゴム",
+    "reading": "けしごむ",
+    "meaning_en": "eraser",
+    "exampleSentence": "消しゴムを使います。 (I use an eraser.)"
+  },
+  {
+    "word": "紙",
+    "reading": "かみ",
+    "meaning_en": "paper",
+    "exampleSentence": "紙を切ります。 (I cut paper.)"
+  },
+  {
+    "word": "時計",
+    "reading": "とけい",
+    "meaning_en": "clock; watch",
+    "exampleSentence": "時計を見ます。 (I look at the clock.)"
+  },
+  {
+    "word": "机",
+    "reading": "つくえ",
+    "meaning_en": "desk",
+    "exampleSentence": "机で勉強します。 (I study at the desk.)"
+  },
+  {
+    "word": "椅子",
+    "reading": "いす",
+    "meaning_en": "chair",
+    "exampleSentence": "椅子に座ります。 (I sit on a chair.)"
+  },
+  {
+    "word": "靴",
+    "reading": "くつ",
+    "meaning_en": "shoes",
+    "exampleSentence": "靴を買いました。 (I bought shoes.)"
+  },
+  {
+    "word": "服",
+    "reading": "ふく",
+    "meaning_en": "clothes",
+    "exampleSentence": "新しい服を着ます。 (I wear new clothes.)"
+  },
+  {
+    "word": "帽子",
+    "reading": "ぼうし",
+    "meaning_en": "hat",
+    "exampleSentence": "帽子をかぶります。 (I wear a hat.)"
+  },
+  {
+    "word": "眼鏡",
+    "reading": "めがね",
+    "meaning_en": "glasses",
+    "exampleSentence": "眼鏡をかけます。 (I wear glasses.)"
+  },
+  {
+    "word": "鞄",
+    "reading": "かばん",
+    "meaning_en": "bag",
+    "exampleSentence": "かばんを持っています。 (I am carrying a bag.)"
+  },
+  {
+    "word": "鍵",
+    "reading": "かぎ",
+    "meaning_en": "key",
+    "exampleSentence": "鍵をなくしました。 (I lost my key.)"
+  },
+  {
+    "word": "財布",
+    "reading": "さいふ",
+    "meaning_en": "wallet",
+    "exampleSentence": "財布を忘れました。 (I forgot my wallet.)"
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning_en": "telephone",
+    "exampleSentence": "電話をかけます。 (I make a phone call.)"
+  },
+  {
+    "word": "携帯電話",
+    "reading": "けいたいでんわ",
+    "meaning_en": "mobile phone",
+    "exampleSentence": "携帯電話を使います。 (I use my mobile phone.)"
+  },
+  {
+    "word": "部屋",
+    "reading": "へや",
+    "meaning_en": "room",
+    "exampleSentence": "部屋を掃除します。 (I clean the room.)"
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "meaning_en": "family",
+    "exampleSentence": "家族と住んでいます。 (I live with my family.)"
+  },
+  {
+    "word": "父",
+    "reading": "ちち",
+    "meaning_en": "father (my own)",
+    "exampleSentence": "父は会社にいます。 (My father is at work.)"
+  },
+  {
+    "word": "母",
+    "reading": "はは",
+    "meaning_en": "mother (my own)",
+    "exampleSentence": "母は料理が上手です。 (My mother is good at cooking.)"
+  },
+  {
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "meaning_en": "older brother",
+    "exampleSentence": "お兄さんは学生です。 (My older brother is a student.)"
+  },
+  {
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "meaning_en": "older sister",
+    "exampleSentence": "お姉さんは先生です。 (My older sister is a teacher.)"
+  },
+  {
+    "word": "弟",
+    "reading": "おとうと",
+    "meaning_en": "younger brother",
+    "exampleSentence": "弟は中学生です。 (My younger brother is a middle school student.)"
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "meaning_en": "younger sister",
+    "exampleSentence": "妹は元気です。 (My younger sister is cheerful.)"
+  },
+  {
+    "word": "友だち",
+    "reading": "ともだち",
+    "meaning_en": "friend",
+    "exampleSentence": "友だちと話します。 (I talk with my friend.)"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning_en": "teacher",
+    "exampleSentence": "先生に質問します。 (I ask the teacher a question.)"
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning_en": "student",
+    "exampleSentence": "私は学生です。 (I am a student.)"
+  },
+  {
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "meaning_en": "foreigner",
+    "exampleSentence": "彼は外国人です。 (He is a foreigner.)"
+  },
+  {
+    "word": "医者",
+    "reading": "いしゃ",
+    "meaning_en": "doctor",
+    "exampleSentence": "医者に見てもらいます。 (I will see a doctor.)"
+  },
+  {
+    "word": "店員",
+    "reading": "てんいん",
+    "meaning_en": "shop staff",
+    "exampleSentence": "店員に聞きます。 (I ask the shop staff.)"
+  },
+  {
+    "word": "仕事",
+    "reading": "しごと",
+    "meaning_en": "job; work",
+    "exampleSentence": "仕事を探しています。 (I am looking for a job.)"
+  },
+  {
+    "word": "趣味",
+    "reading": "しゅみ",
+    "meaning_en": "hobby",
+    "exampleSentence": "趣味は音楽です。 (My hobby is music.)"
+  },
+  {
+    "word": "旅行",
+    "reading": "りょこう",
+    "meaning_en": "trip; travel",
+    "exampleSentence": "旅行に行きたいです。 (I want to travel.)"
+  },
+  {
+    "word": "勉強",
+    "reading": "べんきょう",
+    "meaning_en": "study",
+    "exampleSentence": "日本語を勉強します。 (I study Japanese.)"
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning_en": "cooking; food",
+    "exampleSentence": "料理が好きです。 (I like cooking.)"
+  },
+  {
+    "word": "掃除",
+    "reading": "そうじ",
+    "meaning_en": "cleaning",
+    "exampleSentence": "部屋を掃除します。 (I clean the room.)"
+  },
+  {
+    "word": "洗濯",
+    "reading": "せんたく",
+    "meaning_en": "laundry",
+    "exampleSentence": "洗濯をします。 (I do the laundry.)"
+  },
+  {
+    "word": "買い物",
+    "reading": "かいもの",
+    "meaning_en": "shopping",
+    "exampleSentence": "買い物に行きます。 (I go shopping.)"
+  },
+  {
+    "word": "散歩",
+    "reading": "さんぽ",
+    "meaning_en": "walk (for leisure)",
+    "exampleSentence": "公園を散歩します。 (I take a walk in the park.)"
+  },
+  {
+    "word": "映画",
+    "reading": "えいが",
+    "meaning_en": "movie",
+    "exampleSentence": "映画を見ます。 (I watch a movie.)"
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning_en": "music",
+    "exampleSentence": "音楽を聞きます。 (I listen to music.)"
+  },
+  {
+    "word": "歌",
+    "reading": "うた",
+    "meaning_en": "song",
+    "exampleSentence": "この歌が好きです。 (I like this song.)"
+  },
+  {
+    "word": "写真",
+    "reading": "しゃしん",
+    "meaning_en": "photo",
+    "exampleSentence": "写真を撮ります。 (I take a photo.)"
+  },
+  {
+    "word": "映画館",
+    "reading": "えいがかん",
+    "meaning_en": "movie theater",
+    "exampleSentence": "映画館へ行きます。 (I go to the movie theater.)"
+  },
+  {
+    "word": "公園",
+    "reading": "こうえん",
+    "meaning_en": "park",
+    "exampleSentence": "公園で遊びます。 (I play in the park.)"
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaning_en": "library",
+    "exampleSentence": "図書館で勉強します。 (I study at the library.)"
+  },
+  {
+    "word": "学校",
+    "reading": "がっこう",
+    "meaning_en": "school",
+    "exampleSentence": "学校へ行きます。 (I go to school.)"
+  },
+  {
+    "word": "教室",
+    "reading": "きょうしつ",
+    "meaning_en": "classroom",
+    "exampleSentence": "教室に入ります。 (I enter the classroom.)"
+  },
+  {
+    "word": "試験",
+    "reading": "しけん",
+    "meaning_en": "exam",
+    "exampleSentence": "明日試験があります。 (There is an exam tomorrow.)"
+  },
+  {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "meaning_en": "homework",
+    "exampleSentence": "宿題をします。 (I do homework.)"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning_en": "teacher",
+    "exampleSentence": "先生に聞きます。 (I ask the teacher.)"
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning_en": "class; lesson",
+    "exampleSentence": "授業が始まります。 (Class begins.)"
+  },
+  {
+    "word": "英語",
+    "reading": "えいご",
+    "meaning_en": "English (language)",
+    "exampleSentence": "英語を勉強します。 (I study English.)"
+  },
+  {
+    "word": "日本語",
+    "reading": "にほんご",
+    "meaning_en": "Japanese (language)",
+    "exampleSentence": "日本語を話します。 (I speak Japanese.)"
+  },
+  {
+    "word": "数学",
+    "reading": "すうがく",
+    "meaning_en": "math",
+    "exampleSentence": "数学が好きです。 (I like math.)"
+  },
+  {
+    "word": "科学",
+    "reading": "かがく",
+    "meaning_en": "science",
+    "exampleSentence": "科学は面白いです。 (Science is interesting.)"
+  },
+  {
+    "word": "医者",
+    "reading": "いしゃ",
+    "meaning_en": "doctor",
+    "exampleSentence": "医者に会います。 (I see a doctor.)"
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaning_en": "medicine",
+    "exampleSentence": "薬を飲みます。 (I take medicine.)"
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning_en": "illness",
+    "exampleSentence": "病気になりました。 (I got sick.)"
+  },
+  {
+    "word": "熱",
+    "reading": "ねつ",
+    "meaning_en": "fever",
+    "exampleSentence": "熱があります。 (I have a fever.)"
+  },
+  {
+    "word": "頭",
+    "reading": "あたま",
+    "meaning_en": "head",
+    "exampleSentence": "頭が痛いです。 (My head hurts.)"
+  },
+  {
+    "word": "手",
+    "reading": "て",
+    "meaning_en": "hand",
+    "exampleSentence": "手を洗います。 (I wash my hands.)"
+  },
+  {
+    "word": "足",
+    "reading": "あし",
+    "meaning_en": "leg; foot",
+    "exampleSentence": "足が長いです。 (My legs are long.)"
+  },
+  {
+    "word": "目",
+    "reading": "め",
+    "meaning_en": "eye",
+    "exampleSentence": "目が悪いです。 (I have weak eyesight.)"
+  },
+  {
+    "word": "耳",
+    "reading": "みみ",
+    "meaning_en": "ear",
+    "exampleSentence": "耳で聞きます。 (I listen with my ears.)"
+  },
+  {
+    "word": "口",
+    "reading": "くち",
+    "meaning_en": "mouth",
+    "exampleSentence": "口を開けてください。 (Please open your mouth.)"
+  },
+  {
+    "word": "歯",
+    "reading": "は",
+    "meaning_en": "tooth",
+    "exampleSentence": "歯を磨きます。 (I brush my teeth.)"
+  },
+  {
+    "word": "顔",
+    "reading": "かお",
+    "meaning_en": "face",
+    "exampleSentence": "顔を洗います。 (I wash my face.)"
+  },
+  {
+    "word": "体",
+    "reading": "からだ",
+    "meaning_en": "body",
+    "exampleSentence": "体が元気です。 (My body feels healthy.)"
+  },
+  {
+    "word": "天気",
+    "reading": "てんき",
+    "meaning_en": "weather",
+    "exampleSentence": "今日の天気はいいです。 (The weather is good today.)"
+  },
+  {
+    "word": "晴れ",
+    "reading": "はれ",
+    "meaning_en": "sunny",
+    "exampleSentence": "今日は晴れです。 (It is sunny today.)"
+  },
+  {
+    "word": "曇り",
+    "reading": "くもり",
+    "meaning_en": "cloudy",
+    "exampleSentence": "空は曇りです。 (The sky is cloudy.)"
+  },
+  {
+    "word": "雨",
+    "reading": "あめ",
+    "meaning_en": "rain",
+    "exampleSentence": "雨が降っています。 (It is raining.)"
+  },
+  {
+    "word": "雪",
+    "reading": "ゆき",
+    "meaning_en": "snow",
+    "exampleSentence": "雪がたくさん降りました。 (It snowed a lot.)"
+  },
+  {
+    "word": "春",
+    "reading": "はる",
+    "meaning_en": "spring",
+    "exampleSentence": "春は花がきれいです。 (Flowers are beautiful in spring.)"
+  },
+  {
+    "word": "夏",
+    "reading": "なつ",
+    "meaning_en": "summer",
+    "exampleSentence": "夏は暑いです。 (Summer is hot.)"
+  },
+  {
+    "word": "秋",
+    "reading": "あき",
+    "meaning_en": "autumn",
+    "exampleSentence": "秋は涼しいです。 (Autumn is cool.)"
+  },
+  {
+    "word": "冬",
+    "reading": "ふゆ",
+    "meaning_en": "winter",
+    "exampleSentence": "冬は寒いです。 (Winter is cold.)"
+  },
+  {
+    "word": "色",
+    "reading": "いろ",
+    "meaning_en": "color",
+    "exampleSentence": "好きな色は青です。 (My favorite color is blue.)"
+  },
+  {
+    "word": "赤",
+    "reading": "あか",
+    "meaning_en": "red",
+    "exampleSentence": "赤が好きです。 (I like red.)"
+  },
+  {
+    "word": "青",
+    "reading": "あお",
+    "meaning_en": "blue",
+    "exampleSentence": "青い海です。 (The sea is blue.)"
+  },
+  {
+    "word": "白",
+    "reading": "しろ",
+    "meaning_en": "white",
+    "exampleSentence": "白い雪です。 (It is white snow.)"
+  },
+  {
+    "word": "黒",
+    "reading": "くろ",
+    "meaning_en": "black",
+    "exampleSentence": "黒のシャツです。 (It is a black shirt.)"
+  },
+  {
+    "word": "黄色",
+    "reading": "きいろ",
+    "meaning_en": "yellow",
+    "exampleSentence": "黄色が明るいです。 (Yellow is bright.)"
+  },
+  {
+    "word": "緑",
+    "reading": "みどり",
+    "meaning_en": "green",
+    "exampleSentence": "緑がきれいです。 (The green is beautiful.)"
+  },
+  {
+    "word": "茶色",
+    "reading": "ちゃいろ",
+    "meaning_en": "brown",
+    "exampleSentence": "茶色のかばんです。 (It is a brown bag.)"
+  },
+  {
+    "word": "灰色",
+    "reading": "はいいろ",
+    "meaning_en": "gray",
+    "exampleSentence": "灰色の雲です。 (The clouds are gray.)"
+  },
+  {
+    "word": "上",
+    "reading": "うえ",
+    "meaning_en": "up; above",
+    "exampleSentence": "棚の上にあります。 (It is on the shelf.)"
+  },
+  {
+    "word": "下",
+    "reading": "した",
+    "meaning_en": "down; below",
+    "exampleSentence": "机の下に犬がいます。 (There is a dog under the desk.)"
+  },
+  {
+    "word": "前",
+    "reading": "まえ",
+    "meaning_en": "front; before",
+    "exampleSentence": "家の前で待ちます。 (I wait in front of the house.)"
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "meaning_en": "back; behind",
+    "exampleSentence": "私の後ろに人がいます。 (There is a person behind me.)"
+  },
+  {
+    "word": "中",
+    "reading": "なか",
+    "meaning_en": "inside",
+    "exampleSentence": "箱の中にあります。 (It is inside the box.)"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "meaning_en": "outside",
+    "exampleSentence": "外は寒いです。 (It’s cold outside.)"
+  },
+  {
+    "word": "左",
+    "reading": "ひだり",
+    "meaning_en": "left",
+    "exampleSentence": "左に曲がってください. (Please turn left.)"
+  },
+  {
+    "word": "右",
+    "reading": "みぎ",
+    "meaning_en": "right",
+    "exampleSentence": "右に行きます。 (I go right.)"
+  },
+  {
+    "word": "横",
+    "reading": "よこ",
+    "meaning_en": "side",
+    "exampleSentence": "箱の横に猫がいます。 (There is a cat beside the box.)"
+  },
+  {
+    "word": "近く",
+    "reading": "ちかく",
+    "meaning_en": "nearby",
+    "exampleSentence": "近くにコンビニがあります。 (There is a convenience store nearby.)"
+  },
+  {
+    "word": "遠く",
+    "reading": "とおく",
+    "meaning_en": "far away",
+    "exampleSentence": "遠くに山が見えます。 (I can see mountains far away.)"
+  },
+  {
+    "word": "隣",
+    "reading": "となり",
+    "meaning_en": "next to",
+    "exampleSentence": "隣の部屋は静かです。 (The next room is quiet.)"
+  },
+  {
+    "word": "間",
+    "reading": "あいだ",
+    "meaning_en": "between",
+    "exampleSentence": "学校と家の間に公園があります。 (There is a park between school and home.)"
+  },
+  {
+    "word": "場所",
+    "reading": "ばしょ",
+    "meaning_en": "place",
+    "exampleSentence": "この場所が好きです。 (I like this place.)"
+  },
+  {
+    "word": "上がる",
+    "reading": "あがる",
+    "meaning_en": "to go up",
+    "exampleSentence": "階段を上がります。 (I go up the stairs.)"
+  },
+  {
+    "word": "下がる",
+    "reading": "さがる",
+    "meaning_en": "to go down",
+    "exampleSentence": "階段を下がります。 (I go down the stairs.)"
+  },
+  {
+    "word": "出す",
+    "reading": "だす",
+    "meaning_en": "to take out",
+    "exampleSentence": "紙を出してください。 (Please take out your paper.)"
+  },
+  {
+    "word": "入る",
+    "reading": "はいる",
+    "meaning_en": "to enter",
+    "exampleSentence": "教室に入ります。 (I enter the classroom.)"
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "meaning_en": "to begin",
+    "exampleSentence": "授業が始まります。 (Class begins.)"
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning_en": "to finish",
+    "exampleSentence": "映画が終わりました。 (The movie ended.)"
+  },
+  {
+    "word": "開く",
+    "reading": "あく",
+    "meaning_en": "to open (intransitive)",
+    "exampleSentence": "ドアが開きました。 (The door opened.)"
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "meaning_en": "to close (intransitive)",
+    "exampleSentence": "窓が閉まっています。 (The window is closed.)"
+  },
+  {
+    "word": "止まる",
+    "reading": "とまる",
+    "meaning_en": "to stop",
+    "exampleSentence": "バスが止まりました。 (The bus stopped.)"
+  },
+  {
+    "word": "止める",
+    "reading": "とめる",
+    "meaning_en": "to stop (something)",
+    "exampleSentence": "車を止めます。 (I stop the car.)"
+  },
+  {
+    "word": "切る",
+    "reading": "きる",
+    "meaning_en": "to cut",
+    "exampleSentence": "ケーキを切ります。 (I cut the cake.)"
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning_en": "skilled",
+    "exampleSentence": "彼はダンスが上手です。 (He is good at dancing.)"
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "meaning_en": "unskilled",
+    "exampleSentence": "私は絵が下手です。 (I am bad at drawing.)"
+  },
+  {
+    "word": "有名",
+    "reading": "ゆうめい",
+    "meaning_en": "famous",
+    "exampleSentence": "これは有名な映画です。 (This is a famous movie.)"
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "meaning_en": "convenient",
+    "exampleSentence": "このアプリは便利です。 (This app is convenient.)"
+  },
+  {
+    "word": "不便",
+    "reading": "ふべん",
+    "meaning_en": "inconvenient",
+    "exampleSentence": "ここは交通が不便です。 (Transportation here is inconvenient.)"
+  },
+  {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meaning_en": "okay; all right",
+    "exampleSentence": "大丈夫ですか。 (Are you okay?)"
+  },
+  {
+    "word": "大好き",
+    "reading": "だいすき",
+    "meaning_en": "love; very like",
+    "exampleSentence": "犬が大好きです。 (I love dogs.)"
+  },
+  {
+    "word": "大切",
+    "reading": "たいせつ",
+    "meaning_en": "important",
+    "exampleSentence": "時間は大切です。 (Time is important.)"
+  },
+  {
+    "word": "親切",
+    "reading": "しんせつ",
+    "meaning_en": "kind",
+    "exampleSentence": "先生は親切です。 (The teacher is kind.)"
+  },
+  {
+    "word": "賑やか",
+    "reading": "にぎやか",
+    "meaning_en": "lively",
+    "exampleSentence": "この街は賑やかです。 (This town is lively.)"
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "meaning_en": "quiet",
+    "exampleSentence": "図書館は静かです。 (The library is quiet.)"
+  },
+  {
+    "word": "いろいろ",
+    "reading": "いろいろ",
+    "meaning_en": "various",
+    "exampleSentence": "いろいろな本があります。 (There are various books.)"
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning_en": "all",
+    "exampleSentence": "全部食べました。 (I ate everything.)"
+  },
+  {
+    "word": "少し",
+    "reading": "すこし",
+    "meaning_en": "a little",
+    "exampleSentence": "少し待ってください。 (Please wait a little.)"
+  },
+  {
+    "word": "たくさん",
+    "reading": "たくさん",
+    "meaning_en": "many; a lot",
+    "exampleSentence": "たくさん人がいます。 (There are many people.)"
+  },
+  {
+    "word": "とても",
+    "reading": "とても",
+    "meaning_en": "very",
+    "exampleSentence": "今日はとても暑いです。 (It is very hot today.)"
+  },
+  {
+    "word": "よく",
+    "reading": "よく",
+    "meaning_en": "often; well",
+    "exampleSentence": "よく映画を見ます。 (I often watch movies.)"
+  },
+  {
+    "word": "まだ",
+    "reading": "まだ",
+    "meaning_en": "still; not yet",
+    "exampleSentence": "まだ食べていません。 (I haven’t eaten yet.)"
+  },
+  {
+    "word": "もう",
+    "reading": "もう",
+    "meaning_en": "already",
+    "exampleSentence": "もう終わりました。 (It already finished.)"
+  },
+  {
+    "word": "ときどき",
+    "reading": "ときどき",
+    "meaning_en": "sometimes",
+    "exampleSentence": "ときどき散歩します。 (I sometimes take a walk.)"
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "meaning_en": "always",
+    "exampleSentence": "いつも早く起きます。 (I always wake up early.)"
+  },
+  {
+    "word": "すぐ",
+    "reading": "すぐ",
+    "meaning_en": "immediately",
+    "exampleSentence": "すぐ行きます。 (I will go immediately.)"
+  },
+  {
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning_en": "slowly",
+    "exampleSentence": "ゆっくり話してください。 (Please speak slowly.)"
+  },
+  {
+    "word": "たぶん",
+    "reading": "たぶん",
+    "meaning_en": "maybe; probably",
+    "exampleSentence": "たぶん雨が降ります。 (It will probably rain.)"
+  },
+  {
+    "word": "もし",
+    "reading": "もし",
+    "meaning_en": "if",
+    "exampleSentence": "もし時間があれば行きます。 (If I have time, I will go.)"
+  },
+  {
+    "word": "どうして",
+    "reading": "どうして",
+    "meaning_en": "why",
+    "exampleSentence": "どうして来ないのですか。 (Why are you not coming?)"
+  },
+  {
+    "word": "どうやって",
+    "reading": "どうやって",
+    "meaning_en": "how (method)",
+    "exampleSentence": "どうやって作りますか。 (How do you make it?)"
+  },
+  {
+    "word": "どこ",
+    "reading": "どこ",
+    "meaning_en": "where",
+    "exampleSentence": "トイレはどこですか。 (Where is the restroom?)"
+  },
+  {
+    "word": "いつ",
+    "reading": "いつ",
+    "meaning_en": "when",
+    "exampleSentence": "いつ行きますか。 (When will you go?)"
+  },
+  {
+    "word": "どれ",
+    "reading": "どれ",
+    "meaning_en": "which",
+    "exampleSentence": "どれが好きですか。 (Which do you like?)"
+  },
+  {
+    "word": "どの",
+    "reading": "どの",
+    "meaning_en": "which (specific noun)",
+    "exampleSentence": "どの本があなたのですか。 (Which book is yours?)"
+  },
+  {
+    "word": "だれ",
+    "reading": "だれ",
+    "meaning_en": "who",
+    "exampleSentence": "あの人はだれですか。 (Who is that person?)"
+  },
+  {
+    "word": "なん",
+    "reading": "なん",
+    "meaning_en": "what",
+    "exampleSentence": "これはなんですか。 (What is this?)"
+  },
+  {
+    "word": "どう",
+    "reading": "どう",
+    "meaning_en": "how",
+    "exampleSentence": "今日はどうでしたか。 (How was your day?)"
+  },
+  {
+    "word": "どんな",
+    "reading": "どんな",
+    "meaning_en": "what kind of",
+    "exampleSentence": "どんな音楽が好きですか。 (What kind of music do you like?)"
+  },
+  {
+    "word": "それ",
+    "reading": "それ",
+    "meaning_en": "that (near listener)",
+    "exampleSentence": "それをください。 (Please give me that.)"
+  },
+  {
+    "word": "これ",
+    "reading": "これ",
+    "meaning_en": "this (near speaker)",
+    "exampleSentence": "これは安いです。 (This is cheap.)"
+  },
+  {
+    "word": "あれ",
+    "reading": "あれ",
+    "meaning_en": "that (far from both)",
+    "exampleSentence": "あれは山です。 (That over there is a mountain.)"
+  },
+  {
+    "word": "ここ",
+    "reading": "ここ",
+    "meaning_en": "here",
+    "exampleSentence": "ここに座ってください。 (Please sit here.)"
+  },
+  {
+    "word": "そこ",
+    "reading": "そこ",
+    "meaning_en": "there (near listener)",
+    "exampleSentence": "そこに置いてください。 (Put it there.)"
+  },
+  {
+    "word": "あそこ",
+    "reading": "あそこ",
+    "meaning_en": "over there",
+    "exampleSentence": "あそこに猫がいます。 (There's a cat over there.)"
+  },
+  {
+    "word": "みんな",
+    "reading": "みんな",
+    "meaning_en": "everyone",
+    "exampleSentence": "みんな来ています。 (Everyone is here.)"
+  },
+  {
+    "word": "自分",
+    "reading": "じぶん",
+    "meaning_en": "oneself",
+    "exampleSentence": "自分のことを大切にしてください。 (Take care of yourself.)"
+  },
+  {
+    "word": "誰か",
+    "reading": "だれか",
+    "meaning_en": "someone",
+    "exampleSentence": "誰かが呼んでいます。 (Someone is calling you.)"
+  },
+  {
+    "word": "何か",
+    "reading": "なにか",
+    "meaning_en": "something",
+    "exampleSentence": "何か食べたいです。 (I want to eat something.)"
+  },
+  {
+    "word": "どこか",
+    "reading": "どこか",
+    "meaning_en": "somewhere",
+    "exampleSentence": "どこかへ行きたいです。 (I want to go somewhere.)"
+  },
+  {
+    "word": "少ない",
+    "reading": "すくない",
+    "meaning_en": "few; little",
+    "exampleSentence": "人が少ないです。 (There are few people.)"
+  },
+  {
+    "word": "多い",
+    "reading": "おおい",
+    "meaning_en": "many",
+    "exampleSentence": "宿題が多いです。 (There is a lot of homework.)"
+  },
+  {
+    "word": "丸い",
+    "reading": "まるい",
+    "meaning_en": "round",
+    "exampleSentence": "丸いテーブルです。 (It is a round table.)"
+  },
+  {
+    "word": "若い",
+    "reading": "わかい",
+    "meaning_en": "young",
+    "exampleSentence": "彼はとても若いです。 (He is very young.)"
+  },
+  {
+    "word": "古い",
+    "reading": "ふるい",
+    "meaning_en": "old (thing)",
+    "exampleSentence": "古い本があります。 (There is an old book.)"
+  },
+  {
+    "word": "重い",
+    "reading": "おもい",
+    "meaning_en": "heavy",
+    "exampleSentence": "この箱は重いです。 (This box is heavy.)"
+  },
+  {
+    "word": "軽い",
+    "reading": "かるい",
+    "meaning_en": "light (weight)",
+    "exampleSentence": "このかばんは軽いです。 (This bag is light.)"
+  },
+  {
+    "word": "熱い",
+    "reading": "あつい",
+    "meaning_en": "hot (touch)",
+    "exampleSentence": "スープは熱いです。 (The soup is hot.)"
+  },
+  {
+    "word": "冷たい",
+    "reading": "つめたい",
+    "meaning_en": "cold (touch)",
+    "exampleSentence": "冷たい飲み物です。 (It is a cold drink.)"
+  },
+  {
+    "word": "太い",
+    "reading": "ふとい",
+    "meaning_en": "thick",
+    "exampleSentence": "太い木です。 (It is a thick tree.)"
+  },
+  {
+    "word": "細い",
+    "reading": "ほそい",
+    "meaning_en": "thin",
+    "exampleSentence": "細い道があります。 (There is a narrow road.)"
+  },
+  {
+    "word": "速い",
+    "reading": "はやい",
+    "meaning_en": "fast",
+    "exampleSentence": "彼は走るのが速いです。 (He runs fast.)"
+  },
+  {
+    "word": "遅い",
+    "reading": "おそい",
+    "meaning_en": "slow; late",
+    "exampleSentence": "バスが遅いです。 (The bus is late.)"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaning_en": "strong",
+    "exampleSentence": "風が強いです。 (The wind is strong.)"
+  },
+  {
+    "word": "弱い",
+    "reading": "よわい",
+    "meaning_en": "weak",
+    "exampleSentence": "彼は体が弱いです。 (He has a weak body.)"
+  },
+  {
+    "word": "暗い",
+    "reading": "くらい",
+    "meaning_en": "dark",
+    "exampleSentence": "部屋が暗いです。 (The room is dark.)"
+  },
+  {
+    "word": "明るい",
+    "reading": "あかるい",
+    "meaning_en": "bright; cheerful",
+    "exampleSentence": "彼女は明るい人です。 (She is a cheerful person.)"
+  },
+  {
+    "word": "近い",
+    "reading": "ちかい",
+    "meaning_en": "near",
+    "exampleSentence": "駅は近いです。 (The station is near.)"
+  },
+  {
+    "word": "遠い",
+    "reading": "とおい",
+    "meaning_en": "far",
+    "exampleSentence": "学校は遠いです。 (The school is far.)"
+  },
+  {
+    "word": "嬉しい",
+    "reading": "うれしい",
+    "meaning_en": "happy",
+    "exampleSentence": "嬉しい気持ちです。 (I feel happy.)"
+  },
+  {
+    "word": "悲しい",
+    "reading": "かなしい",
+    "meaning_en": "sad",
+    "exampleSentence": "悲しいニュースです。 (It is sad news.)"
+  },
+  {
+    "word": "痛い",
+    "reading": "いたい",
+    "meaning_en": "painful; hurts",
+    "exampleSentence": "頭が痛いです。 (My head hurts.)"
+  },
+  {
+    "word": "眠い",
+    "reading": "ねむい",
+    "meaning_en": "sleepy",
+    "exampleSentence": "今日はとても眠いです。 (I am very sleepy today.)"
+  },
+  {
+    "word": "怖い",
+    "reading": "こわい",
+    "meaning_en": "scary",
+    "exampleSentence": "怖い映画を見ました。 (I watched a scary movie.)"
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meaning_en": "fun",
+    "exampleSentence": "パーティーは楽しかったです。 (The party was fun.)"
+  },
+  {
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "meaning_en": "busy",
+    "exampleSentence": "明日は忙しいです。 (I will be busy tomorrow.)"
+  },
+  {
+    "word": "暇",
+    "reading": "ひま",
+    "meaning_en": "free (not busy)",
+    "exampleSentence": "今日は暇です。 (I am free today.)"
+  },
+  {
+    "word": "上る",
+    "reading": "のぼる",
+    "meaning_en": "to climb; go up",
+    "exampleSentence": "山に上ります。 (I climb the mountain.)"
+  },
+  {
+    "word": "降る",
+    "reading": "ふる",
+    "meaning_en": "to fall (rain/snow)",
+    "exampleSentence": "雨が降っています。 (It is raining.)"
+  },
+  {
+    "word": "飛ぶ",
+    "reading": "とぶ",
+    "meaning_en": "to fly",
+    "exampleSentence": "鳥が飛んでいます。 (A bird is flying.)"
+  },
+  {
+    "word": "笑う",
+    "reading": "わらう",
+    "meaning_en": "to laugh",
+    "exampleSentence": "みんなが笑っています。 (Everyone is laughing.)"
+  },
+  {
+    "word": "泣く",
+    "reading": "なく",
+    "meaning_en": "to cry",
+    "exampleSentence": "子どもが泣いています。 (A child is crying.)"
+  },
+  {
+    "word": "歌う",
+    "reading": "うたう",
+    "meaning_en": "to sing",
+    "exampleSentence": "彼は上手に歌います。 (He sings well.)"
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning_en": "to swim",
+    "exampleSentence": "プールで泳ぎます。 (I swim in the pool.)"
+  },
+  {
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning_en": "to play",
+    "exampleSentence": "友だちと遊びます。 (I play with my friend.)"
+  },
+  {
+    "word": "急ぐ",
+    "reading": "いそぐ",
+    "meaning_en": "to hurry",
+    "exampleSentence": "急いでください。 (Please hurry.)"
+  },
+  {
+    "word": "思う",
+    "reading": "おもう",
+    "meaning_en": "to think",
+    "exampleSentence": "いいと思います。 (I think it’s good.)"
+  },
+  {
+    "word": "分かる",
+    "reading": "わかる",
+    "meaning_en": "to understand",
+    "exampleSentence": "日本語が分かります。 (I understand Japanese.)"
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning_en": "to forget",
+    "exampleSentence": "名前を忘れました。 (I forgot the name.)"
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning_en": "to memorize; remember",
+    "exampleSentence": "漢字を覚えます。 (I memorize kanji.)"
+  },
+  {
+    "word": "答える",
+    "reading": "こたえる",
+    "meaning_en": "to answer",
+    "exampleSentence": "質問に答えます。 (I answer the question.)"
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning_en": "question",
+    "exampleSentence": "質問があります。 (I have a question.)"
+  },
+  {
+    "word": "返事",
+    "reading": "へんじ",
+    "meaning_en": "reply",
+    "exampleSentence": "返事をください。 (Please reply.)"
+  },
+  {
+    "word": "違う",
+    "reading": "ちがう",
+    "meaning_en": "to be different; wrong",
+    "exampleSentence": "それは違います。 (That is wrong.)"
+  },
+  {
+    "word": "同じ",
+    "reading": "おなじ",
+    "meaning_en": "same",
+    "exampleSentence": "私たちは同じ学校です。 (We are in the same school.)"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaning_en": "strong",
+    "exampleSentence": "彼は強いです。 (He is strong.)"
+  },
+  {
+    "word": "弱い",
+    "reading": "よわい",
+    "meaning_en": "weak",
+    "exampleSentence": "私は弱いです。 (I am weak.)"
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "meaning_en": "convenient",
+    "exampleSentence": "これは便利な道具です。 (This is a convenient tool.)"
+  },
+  {
+    "word": "大切",
+    "reading": "たいせつ",
+    "meaning_en": "important",
+    "exampleSentence": "健康は大切です。 (Health is important.)"
+  },
+  {
+    "word": "大変",
+    "reading": "たいへん",
+    "meaning_en": "hard; tough; difficult",
+    "exampleSentence": "今日は大変でした。 (Today was tough.)"
+  },
+  {
+    "word": "簡単",
+    "reading": "かんたん",
+    "meaning_en": "easy; simple",
+    "exampleSentence": "この問題は簡単です。 (This question is easy.)"
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning_en": "good at",
+    "exampleSentence": "彼は日本語が上手です。 (He is good at Japanese.)"
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "meaning_en": "bad at",
+    "exampleSentence": "私は歌が下手です。 (I am bad at singing.)"
+  },
+  {
+    "word": "きれい",
+    "reading": "きれい",
+    "meaning_en": "clean; beautiful",
+    "exampleSentence": "海はきれいです。 (The sea is beautiful.)"
+  },
+  {
+    "word": "元気",
+    "reading": "げんき",
+    "meaning_en": "energetic; healthy",
+    "exampleSentence": "今日は元気です。 (I am feeling good today.)"
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "meaning_en": "quiet",
+    "exampleSentence": "ここは静かです。 (It is quiet here.)"
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaning_en": "new",
+    "exampleSentence": "新しいスマホです。 (This is a new smartphone.)"
+  },
+  {
+    "word": "古い",
+    "reading": "ふるい",
+    "meaning_en": "old",
+    "exampleSentence": "古い家です。 (It is an old house.)"
+  },
+  {
+    "word": "危ない",
+    "reading": "あぶない",
+    "meaning_en": "dangerous",
+    "exampleSentence": "ここは危ないです。 (This place is dangerous.)"
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaning_en": "big",
+    "exampleSentence": "大きい犬です。 (It is a big dog.)"
+  },
+  {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meaning_en": "small",
+    "exampleSentence": "小さい猫です。 (It is a small cat.)"
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "meaning_en": "tall; expensive",
+    "exampleSentence": "このビルは高いです。 (This building is tall.)"
+  },
+  {
+    "word": "低い",
+    "reading": "ひくい",
+    "meaning_en": "low; short",
+    "exampleSentence": "低い山です。 (It is a low mountain.)"
+  },
+  {
+    "word": "広い",
+    "reading": "ひろい",
+    "meaning_en": "spacious",
+    "exampleSentence": "この部屋は広いです。 (This room is spacious.)"
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning_en": "narrow",
+    "exampleSentence": "この道は狭いです。 (This road is narrow.)"
+  },
+  {
+    "word": "遠い",
+    "reading": "とおい",
+    "meaning_en": "far",
+    "exampleSentence": "駅は遠いです。 (The station is far.)"
+  },
+  {
+    "word": "近い",
+    "reading": "ちかい",
+    "meaning_en": "near",
+    "exampleSentence": "学校は近いです。 (The school is near.)"
+  },
+  {
+    "word": "弱い",
+    "reading": "よわい",
+    "meaning_en": "weak",
+    "exampleSentence": "私は弱いです。 (I am weak.)"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaning_en": "strong",
+    "exampleSentence": "彼はとても強いです。 (He is very strong.)"
+  },
+  {
+    "word": "開ける",
+    "reading": "あける",
+    "meaning_en": "to open (something)",
+    "exampleSentence": "窓を開けます。 (I open the window.)"
+  },
+  {
+    "word": "閉める",
+    "reading": "しめる",
+    "meaning_en": "to close (something)",
+    "exampleSentence": "ドアを閉めます。 (I close the door.)"
+  },
+  {
+    "word": "切る",
+    "reading": "きる",
+    "meaning_en": "to cut",
+    "exampleSentence": "紙を切ります。 (I cut paper.)"
+  },
+  {
+    "word": "使う",
+    "reading": "つかう",
+    "meaning_en": "to use",
+    "exampleSentence": "辞書を使います。 (I use a dictionary.)"
+  },
+  {
+    "word": "洗う",
+    "reading": "あらう",
+    "meaning_en": "to wash",
+    "exampleSentence": "手を洗います。 (I wash my hands.)"
+  },
+  {
+    "word": "押す",
+    "reading": "おす",
+    "meaning_en": "to push",
+    "exampleSentence": "ボタンを押します。 (I press the button.)"
+  },
+  {
+    "word": "引く",
+    "reading": "ひく",
+    "meaning_en": "to pull",
+    "exampleSentence": "ドアを引きます。 (I pull the door.)"
+  },
+  {
+    "word": "取る",
+    "reading": "とる",
+    "meaning_en": "to take",
+    "exampleSentence": "写真を取ります。 (I take a photo.)"
+  },
+  {
+    "word": "持つ",
+    "reading": "もつ",
+    "meaning_en": "to hold; carry",
+    "exampleSentence": "かばんを持ちます。 (I carry a bag.)"
+  },
+  {
+    "word": "くれる",
+    "reading": "くれる",
+    "meaning_en": "to give (to me)",
+    "exampleSentence": "友だちが本をくれました。 (A friend gave me a book.)"
+  },
+  {
+    "word": "あげる",
+    "reading": "あげる",
+    "meaning_en": "to give (to someone)",
+    "exampleSentence": "友だちにプレゼントをあげます。 (I give a gift to a friend.)"
+  },
+  {
+    "word": "もらう",
+    "reading": "もらう",
+    "meaning_en": "to receive",
+    "exampleSentence": "プレゼントをもらいました。 (I received a gift.)"
+  },
+  {
+    "word": "開く",
+    "reading": "ひらく",
+    "meaning_en": "to open (book, event)",
+    "exampleSentence": "本を開きます。 (I open a book.)"
+  },
+  {
+    "word": "閉じる",
+    "reading": "とじる",
+    "meaning_en": "to close (book)",
+    "exampleSentence": "ノートを閉じます。 (I close my notebook.)"
+  },
+  {
+    "word": "上げる",
+    "reading": "あげる",
+    "meaning_en": "to raise",
+    "exampleSentence": "手を上げてください。 (Please raise your hand.)"
+  },
+  {
+    "word": "下げる",
+    "reading": "さげる",
+    "meaning_en": "to lower",
+    "exampleSentence": "音を下げます。 (I lower the volume.)"
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning_en": "to remember",
+    "exampleSentence": "言葉を覚えます。 (I memorize words.)"
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning_en": "to forget",
+    "exampleSentence": "カバンを忘れました。 (I forgot my bag.)"
+  },
+  {
+    "word": "違う",
+    "reading": "ちがう",
+    "meaning_en": "to differ; be wrong",
+    "exampleSentence": "それは違います。 (That is wrong.)"
+  },
+  {
+    "word": "似ている",
+    "reading": "にている",
+    "meaning_en": "to resemble",
+    "exampleSentence": "彼らはよく似ています。 (They look very similar.)"
+  },
+  {
+    "word": "疲れる",
+    "reading": "つかれる",
+    "meaning_en": "to get tired",
+    "exampleSentence": "今日は疲れました。 (I got tired today.)"
+  },
+  {
+    "word": "頑張る",
+    "reading": "がんばる",
+    "meaning_en": "to do your best",
+    "exampleSentence": "明日も頑張ります。 (I will do my best tomorrow.)"
+  },
+  {
+    "word": "心配する",
+    "reading": "しんぱいする",
+    "meaning_en": "to worry",
+    "exampleSentence": "心配しないでください。 (Please don't worry.)"
+  },
+  {
+    "word": "練習する",
+    "reading": "れんしゅうする",
+    "meaning_en": "to practice",
+    "exampleSentence": "毎日日本語を練習します。 (I practice Japanese every day.)"
+  },
+  {
+    "word": "勉強する",
+    "reading": "べんきょうする",
+    "meaning_en": "to study",
+    "exampleSentence": "図書館で勉強します。 (I study at the library.)"
+  },
+  {
+    "word": "結婚する",
+    "reading": "けっこんする",
+    "meaning_en": "to get married",
+    "exampleSentence": "来年結婚します。 (I will get married next year.)"
+  },
+  {
+    "word": "旅行する",
+    "reading": "りょこうする",
+    "meaning_en": "to travel",
+    "exampleSentence": "日本へ旅行します。 (I travel to Japan.)"
+  },
+  {
+    "word": "買い物する",
+    "reading": "かいものする",
+    "meaning_en": "to shop",
+    "exampleSentence": "町で買い物します。 (I shop in the town.)"
+  },
+  {
+    "word": "散歩する",
+    "reading": "さんぽする",
+    "meaning_en": "to take a walk",
+    "exampleSentence": "公園を散歩します。 (I take a walk in the park.)"
+  },
+  {
+    "word": "掃除する",
+    "reading": "そうじする",
+    "meaning_en": "to clean",
+    "exampleSentence": "部屋を掃除します。 (I clean the room.)"
+  },
+  {
+    "word": "洗濯する",
+    "reading": "せんたくする",
+    "meaning_en": "to do laundry",
+    "exampleSentence": "服を洗濯します。 (I wash clothes.)"
+  },
+  {
+    "word": "電話する",
+    "reading": "でんわする",
+    "meaning_en": "to call (phone)",
+    "exampleSentence": "友だちに電話します。 (I call my friend.)"
+  },
+  {
+    "word": "運動する",
+    "reading": "うんどうする",
+    "meaning_en": "to exercise",
+    "exampleSentence": "毎日運動します。 (I exercise every day.)"
+  },
+  {
+    "word": "料理する",
+    "reading": "りょうりする",
+    "meaning_en": "to cook",
+    "exampleSentence": "晩ごはんを料理します。 (I cook dinner.)"
+  },
+  {
+    "word": "安全",
+    "reading": "あんぜん",
+    "meaning_en": "safe",
+    "exampleSentence": "この場所は安全です。 (This place is safe.)"
+  },
+  {
+    "word": "危険",
+    "reading": "きけん",
+    "meaning_en": "dangerous",
+    "exampleSentence": "ここは危険です。 (It is dangerous here.)"
+  },
+  {
+    "word": "必要",
+    "reading": "ひつよう",
+    "meaning_en": "necessary",
+    "exampleSentence": "パスポートが必要です。 (A passport is necessary.)"
+  },
+  {
+    "word": "大事",
+    "reading": "だいじ",
+    "meaning_en": "important",
+    "exampleSentence": "これは大事な手紙です。 (This is an important letter.)"
+  },
+  {
+    "word": "元気",
+    "reading": "げんき",
+    "meaning_en": "healthy; energetic",
+    "exampleSentence": "彼は元気です。 (He is healthy.)"
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning_en": "skilled; good at",
+    "exampleSentence": "彼女は英語が上手です。 (She is good at English.)"
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "meaning_en": "unskilled; bad at",
+    "exampleSentence": "私は料理が下手です。 (I am bad at cooking.)"
+  },
+  {
+    "word": "簡単",
+    "reading": "かんたん",
+    "meaning_en": "easy; simple",
+    "exampleSentence": "この課題は簡単です。 (This task is easy.)"
+  },
+  {
+    "word": "大変",
+    "reading": "たいへん",
+    "meaning_en": "difficult; tough",
+    "exampleSentence": "仕事が大変です。 (Work is tough.)"
+  },
+  {
+    "word": "上",
+    "reading": "うえ",
+    "meaning_en": "up; above",
+    "exampleSentence": "本は机の上です。 (The book is on the desk.)"
+  },
+  {
+    "word": "下",
+    "reading": "した",
+    "meaning_en": "down; below",
+    "exampleSentence": "猫はベッドの下にいます。 (The cat is under the bed.)"
+  },
+  {
+    "word": "中",
+    "reading": "なか",
+    "meaning_en": "inside",
+    "exampleSentence": "箱の中にあります。 (It is inside the box.)"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "meaning_en": "outside",
+    "exampleSentence": "外は寒いです。 (It’s cold outside.)"
+  },
+  {
+    "word": "前",
+    "reading": "まえ",
+    "meaning_en": "in front",
+    "exampleSentence": "家の前にいます。 (I am in front of the house.)"
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "meaning_en": "behind",
+    "exampleSentence": "犬は私の後ろにいます。 (The dog is behind me.)"
+  },
+  {
+    "word": "隣",
+    "reading": "となり",
+    "meaning_en": "next to",
+    "exampleSentence": "隣の部屋は静かです。 (The room next door is quiet.)"
+  },
+  {
+    "word": "近く",
+    "reading": "ちかく",
+    "meaning_en": "nearby",
+    "exampleSentence": "近くに駅があります。 (There is a station nearby.)"
+  },
+  {
+    "word": "遠く",
+    "reading": "とおく",
+    "meaning_en": "far away",
+    "exampleSentence": "遠くに山が見えます。 (I see mountains far away.)"
+  },
+  {
+    "word": "間",
+    "reading": "あいだ",
+    "meaning_en": "between",
+    "exampleSentence": "学校と家の間です。 (It’s between the school and the house.)"
+  },
+  {
+    "word": "上る",
+    "reading": "のぼる",
+    "meaning_en": "to climb",
+    "exampleSentence": "山に上ります。 (I climb a mountain.)"
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning_en": "to get off",
+    "exampleSentence": "バスを降ります。 (I get off the bus.)"
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "meaning_en": "to ride",
+    "exampleSentence": "電車に乗ります。 (I ride the train.)"
+  },
+  {
+    "word": "渡る",
+    "reading": "わたる",
+    "meaning_en": "to cross",
+    "exampleSentence": "橋を渡ります。 (I cross the bridge.)"
+  },
+  {
+    "word": "曲がる",
+    "reading": "まがる",
+    "meaning_en": "to turn",
+    "exampleSentence": "右に曲がってください。 (Please turn right.)"
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning_en": "to walk",
+    "exampleSentence": "駅まで歩きます。 (I walk to the station.)"
+  },
+  {
+    "word": "走る",
+    "reading": "はしる",
+    "meaning_en": "to run",
+    "exampleSentence": "彼は速く走ります。 (He runs fast.)"
+  },
+  {
+    "word": "休む",
+    "reading": "やすむ",
+    "meaning_en": "to rest; to take a break",
+    "exampleSentence": "少し休みます。 (I rest a little.)"
+  },
+  {
+    "word": "働く",
+    "reading": "はたらく",
+    "meaning_en": "to work",
+    "exampleSentence": "会社で働きます。 (I work at a company.)"
+  },
+  {
+    "word": "住む",
+    "reading": "すむ",
+    "meaning_en": "to live",
+    "exampleSentence": "東京に住んでいます。 (I live in Tokyo.)"
+  },
+  {
+    "word": "知る",
+    "reading": "しる",
+    "meaning_en": "to know",
+    "exampleSentence": "その話を知っています。 (I know that story.)"
+  },
+  {
+    "word": "知らない",
+    "reading": "しらない",
+    "meaning_en": "to not know",
+    "exampleSentence": "私は知りません。 (I don’t know.)"
+  },
+  {
+    "word": "探す",
+    "reading": "さがす",
+    "meaning_en": "to search",
+    "exampleSentence": "鍵を探しています。 (I am looking for my key.)"
+  },
+  {
+    "word": "始める",
+    "reading": "はじめる",
+    "meaning_en": "to start (something)",
+    "exampleSentence": "仕事を始めます。 (I start work.)"
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning_en": "to end",
+    "exampleSentence": "授業が終わります。 (Class ends.)"
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "meaning_en": "to close (intransitive)",
+    "exampleSentence": "店はもう閉まっています。 (The store is already closed.)"
+  },
+  {
+    "word": "開く",
+    "reading": "あく",
+    "meaning_en": "to open (intransitive)",
+    "exampleSentence": "窓が開いています。 (The window is open.)"
+  },
+  {
+    "word": "止まる",
+    "reading": "とまる",
+    "meaning_en": "to stop",
+    "exampleSentence": "車が止まりました。 (The car stopped.)"
+  },
+  {
+    "word": "止める",
+    "reading": "とめる",
+    "meaning_en": "to stop (something)",
+    "exampleSentence": "音楽を止めます。 (I stop the music.)"
+  },
+  {
+    "word": "付ける",
+    "reading": "つける",
+    "meaning_en": "to turn on",
+    "exampleSentence": "電気を付けます。 (I turn on the light.)"
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "meaning_en": "to turn off",
+    "exampleSentence": "テレビを消します。 (I turn off the TV.)"
+  },
+  {
+    "word": "急に",
+    "reading": "きゅうに",
+    "meaning_en": "suddenly",
+    "exampleSentence": "急に雨が降りました。 (It suddenly rained.)"
+  },
+  {
+    "word": "すぐに",
+    "reading": "すぐに",
+    "meaning_en": "right away",
+    "exampleSentence": "すぐに来てください。 (Please come right away.)"
+  },
+  {
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning_en": "slowly",
+    "exampleSentence": "ゆっくり話してください。 (Please speak slowly.)"
+  },
+  {
+    "word": "もっと",
+    "reading": "もっと",
+    "meaning_en": "more",
+    "exampleSentence": "もっと勉強が必要です。 (I need to study more.)"
+  },
+  {
+    "word": "また",
+    "reading": "また",
+    "meaning_en": "again",
+    "exampleSentence": "また会いましょう。 (Let’s meet again.)"
+  },
+  {
+    "word": "もう一度",
+    "reading": "もういちど",
+    "meaning_en": "once more",
+    "exampleSentence": "もう一度言ってください。 (Please say it again.)"
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning_en": "all; everything",
+    "exampleSentence": "全部食べました。 (I ate everything.)"
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "meaning_en": "half",
+    "exampleSentence": "半分だけください。 (Give me only half.)"
+  },
+  {
+    "word": "多分",
+    "reading": "たぶん",
+    "meaning_en": "probably",
+    "exampleSentence": "多分行きます。 (I will probably go.)"
+  },
+  {
+    "word": "必ず",
+    "reading": "かならず",
+    "meaning_en": "surely; definitely",
+    "exampleSentence": "明日必ず来ます。 (I will definitely come tomorrow.)"
+  },
+  {
+    "word": "本当に",
+    "reading": "ほんとうに",
+    "meaning_en": "really",
+    "exampleSentence": "本当にありがとう。 (Thank you very much.)"
+  },
+  {
+    "word": "とても",
+    "reading": "とても",
+    "meaning_en": "very",
+    "exampleSentence": "今日はとても寒いです。 (It is very cold today.)"
+  },
+  {
+    "word": "すこし",
+    "reading": "すこし",
+    "meaning_en": "a little",
+    "exampleSentence": "すこし時間があります。 (I have a little time.)"
+  },
+  {
+    "word": "あまり",
+    "reading": "あまり",
+    "meaning_en": "not much",
+    "exampleSentence": "今日はあまり寒くないです。 (It is not very cold today.)"
+  },
+  {
+    "word": "全然",
+    "reading": "ぜんぜん",
+    "meaning_en": "not at all",
+    "exampleSentence": "全然分かりません。 (I don’t understand at all.)"
+  },
+  {
+    "word": "一緒に",
+    "reading": "いっしょに",
+    "meaning_en": "together",
+    "exampleSentence": "一緒に行きましょう。 (Let's go together.)"
+  },
+  {
+    "word": "別々に",
+    "reading": "べつべつに",
+    "meaning_en": "separately",
+    "exampleSentence": "会計は別々にお願いします。 (Please separate the bills.)"
+  },
+  {
+    "word": "中",
+    "reading": "なか",
+    "meaning_en": "inside",
+    "exampleSentence": "箱の中にあります。 (It is inside the box.)"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "meaning_en": "outside",
+    "exampleSentence": "外は寒いです。 (It’s cold outside.)"
+  },
+  {
+    "word": "前",
+    "reading": "まえ",
+    "meaning_en": "in front",
+    "exampleSentence": "家の前にいます。 (I am in front of the house.)"
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "meaning_en": "behind",
+    "exampleSentence": "犬は私の後ろにいます。 (The dog is behind me.)"
+  },
+  {
+    "word": "隣",
+    "reading": "となり",
+    "meaning_en": "next to",
+    "exampleSentence": "隣の部屋は静かです。 (The room next door is quiet.)"
+  },
+  {
+    "word": "近く",
+    "reading": "ちかく",
+    "meaning_en": "nearby",
+    "exampleSentence": "近くに駅があります。 (There is a station nearby.)"
+  },
+  {
+    "word": "遠く",
+    "reading": "とおく",
+    "meaning_en": "far away",
+    "exampleSentence": "遠くに山が見えます。 (I see mountains far away.)"
+  },
+  {
+    "word": "間",
+    "reading": "あいだ",
+    "meaning_en": "between",
+    "exampleSentence": "学校と家の間です。 (It’s between the school and the house.)"
+  },
+  {
+    "word": "上る",
+    "reading": "のぼる",
+    "meaning_en": "to climb",
+    "exampleSentence": "山に上ります。 (I climb a mountain.)"
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning_en": "to get off",
+    "exampleSentence": "バスを降ります。 (I get off the bus.)"
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "meaning_en": "to ride",
+    "exampleSentence": "電車に乗ります。 (I ride the train.)"
+  },
+  {
+    "word": "渡る",
+    "reading": "わたる",
+    "meaning_en": "to cross",
+    "exampleSentence": "橋を渡ります。 (I cross the bridge.)"
+  },
+  {
+    "word": "曲がる",
+    "reading": "まがる",
+    "meaning_en": "to turn",
+    "exampleSentence": "右に曲がってください。 (Please turn right.)"
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning_en": "to walk",
+    "exampleSentence": "駅まで歩きます。 (I walk to the station.)"
+  },
+  {
+    "word": "走る",
+    "reading": "はしる",
+    "meaning_en": "to run",
+    "exampleSentence": "彼は速く走ります。 (He runs fast.)"
+  },
+  {
+    "word": "休む",
+    "reading": "やすむ",
+    "meaning_en": "to rest; to take a break",
+    "exampleSentence": "少し休みます。 (I rest a little.)"
+  },
+  {
+    "word": "働く",
+    "reading": "はたらく",
+    "meaning_en": "to work",
+    "exampleSentence": "会社で働きます。 (I work at a company.)"
+  },
+  {
+    "word": "住む",
+    "reading": "すむ",
+    "meaning_en": "to live",
+    "exampleSentence": "東京に住んでいます。 (I live in Tokyo.)"
+  },
+  {
+    "word": "知る",
+    "reading": "しる",
+    "meaning_en": "to know",
+    "exampleSentence": "その話を知っています。 (I know that story.)"
+  },
+  {
+    "word": "知らない",
+    "reading": "しらない",
+    "meaning_en": "to not know",
+    "exampleSentence": "私は知りません。 (I don’t know.)"
+  },
+  {
+    "word": "探す",
+    "reading": "さがす",
+    "meaning_en": "to search",
+    "exampleSentence": "鍵を探しています。 (I am looking for my key.)"
+  },
+  {
+    "word": "始める",
+    "reading": "はじめる",
+    "meaning_en": "to start (something)",
+    "exampleSentence": "仕事を始めます。 (I start work.)"
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning_en": "to end",
+    "exampleSentence": "授業が終わります。 (Class ends.)"
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "meaning_en": "to close (intransitive)",
+    "exampleSentence": "店はもう閉まっています。 (The store is already closed.)"
+  },
+  {
+    "word": "開く",
+    "reading": "あく",
+    "meaning_en": "to open (intransitive)",
+    "exampleSentence": "窓が開いています。 (The window is open.)"
+  },
+  {
+    "word": "止まる",
+    "reading": "とまる",
+    "meaning_en": "to stop",
+    "exampleSentence": "車が止まりました。 (The car stopped.)"
+  },
+  {
+    "word": "止める",
+    "reading": "とめる",
+    "meaning_en": "to stop (something)",
+    "exampleSentence": "音楽を止めます。 (I stop the music.)"
+  },
+  {
+    "word": "付ける",
+    "reading": "つける",
+    "meaning_en": "to turn on",
+    "exampleSentence": "電気を付けます。 (I turn on the light.)"
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "meaning_en": "to turn off",
+    "exampleSentence": "テレビを消します。 (I turn off the TV.)"
+  },
+  {
+    "word": "急に",
+    "reading": "きゅうに",
+    "meaning_en": "suddenly",
+    "exampleSentence": "急に雨が降りました。 (It suddenly rained.)"
+  },
+  {
+    "word": "すぐに",
+    "reading": "すぐに",
+    "meaning_en": "right away",
+    "exampleSentence": "すぐに来てください。 (Please come right away.)"
+  },
+  {
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning_en": "slowly",
+    "exampleSentence": "ゆっくり話してください。 (Please speak slowly.)"
+  },
+  {
+    "word": "もっと",
+    "reading": "もっと",
+    "meaning_en": "more",
+    "exampleSentence": "もっと勉強が必要です。 (I need to study more.)"
+  },
+  {
+    "word": "また",
+    "reading": "また",
+    "meaning_en": "again",
+    "exampleSentence": "また会いましょう。 (Let’s meet again.)"
+  },
+  {
+    "word": "もう一度",
+    "reading": "もういちど",
+    "meaning_en": "once more",
+    "exampleSentence": "もう一度言ってください。 (Please say it again.)"
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning_en": "all; everything",
+    "exampleSentence": "全部食べました。 (I ate everything.)"
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "meaning_en": "half",
+    "exampleSentence": "半分だけください。 (Give me only half.)"
+  },
+  {
+    "word": "多分",
+    "reading": "たぶん",
+    "meaning_en": "probably",
+    "exampleSentence": "多分行きます。 (I will probably go.)"
+  },
+  {
+    "word": "必ず",
+    "reading": "かならず",
+    "meaning_en": "surely; definitely",
+    "exampleSentence": "明日必ず来ます。 (I will definitely come tomorrow.)"
+  },
+  {
+    "word": "本当に",
+    "reading": "ほんとうに",
+    "meaning_en": "really",
+    "exampleSentence": "本当にありがとう。 (Thank you very much.)"
+  },
+  {
+    "word": "とても",
+    "reading": "とても",
+    "meaning_en": "very",
+    "exampleSentence": "今日はとても寒いです。 (It is very cold today.)"
+  },
+  {
+    "word": "すこし",
+    "reading": "すこし",
+    "meaning_en": "a little",
+    "exampleSentence": "すこし時間があります。 (I have a little time.)"
+  },
+  {
+    "word": "あまり",
+    "reading": "あまり",
+    "meaning_en": "not much",
+    "exampleSentence": "今日はあまり寒くないです。 (It is not very cold today.)"
+  },
+  {
+    "word": "全然",
+    "reading": "ぜんぜん",
+    "meaning_en": "not at all",
+    "exampleSentence": "全然分かりません。 (I don’t understand at all.)"
+  },
+  {
+    "word": "一緒に",
+    "reading": "いっしょに",
+    "meaning_en": "together",
+    "exampleSentence": "一緒に行きましょう。 (Let's go together.)"
+  },
+  {
+    "word": "別々に",
+    "reading": "べつべつに",
+    "meaning_en": "separately",
+    "exampleSentence": "会計は別々にお願いします。 (Please separate the bills.)"
+  },
+  {
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning_en": "to put in; insert",
+    "exampleSentence": "カバンに本を入れます。 (I put a book in my bag.)"
+  },
+  {
+    "word": "出る",
+    "reading": "でる",
+    "meaning_en": "to leave; exit",
+    "exampleSentence": "家を出ます。 (I leave the house.)"
+  },
+  {
+    "word": "出かける",
+    "reading": "でかける",
+    "meaning_en": "to go out",
+    "exampleSentence": "友だちと出かけます。 (I go out with a friend.)"
+  },
+  {
+    "word": "開ける",
+    "reading": "あける",
+    "meaning_en": "to open",
+    "exampleSentence": "ドアを開けます。 (I open the door.)"
+  },
+  {
+    "word": "閉める",
+    "reading": "しめる",
+    "meaning_en": "to close",
+    "exampleSentence": "窓を閉めます。 (I close the window.)"
+  },
+  {
+    "word": "映る",
+    "reading": "うつる",
+    "meaning_en": "to be reflected",
+    "exampleSentence": "山が湖に映っています。 (The mountain is reflected in the lake.)"
+  },
+  {
+    "word": "映す",
+    "reading": "うつす",
+    "meaning_en": "to project; reflect",
+    "exampleSentence": "スクリーンに映します。 (I project it on the screen.)"
+  },
+  {
+    "word": "写す",
+    "reading": "うつす",
+    "meaning_en": "to copy; photograph",
+    "exampleSentence": "写真を写します。 (I take a photo.)"
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "meaning_en": "to stand",
+    "exampleSentence": "ここに立ってください。 (Please stand here.)"
+  },
+  {
+    "word": "座る",
+    "reading": "すわる",
+    "meaning_en": "to sit",
+    "exampleSentence": "椅子に座ります。 (I sit on the chair.)"
+  },
+  {
+    "word": "働く",
+    "reading": "はたらく",
+    "meaning_en": "to work",
+    "exampleSentence": "会社で働いています。 (I work at a company.)"
+  },
+  {
+    "word": "疲れる",
+    "reading": "つかれる",
+    "meaning_en": "to get tired",
+    "exampleSentence": "疲れたので休みます。 (I’m tired so I will rest.)"
+  },
+  {
+    "word": "住む",
+    "reading": "すむ",
+    "meaning_en": "to live",
+    "exampleSentence": "大阪に住んでいます。 (I live in Osaka.)"
+  },
+  {
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning_en": "to return home",
+    "exampleSentence": "家に帰ります。 (I go home.)"
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "meaning_en": "to wake up",
+    "exampleSentence": "毎日6時に起きます。 (I wake up at 6 every day.)"
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "meaning_en": "to sleep",
+    "exampleSentence": "早く寝ます。 (I sleep early.)"
+  },
+  {
+    "word": "持って行く",
+    "reading": "もっていく",
+    "meaning_en": "to take (something)",
+    "exampleSentence": "水を持って行きます。 (I take water with me.)"
+  },
+  {
+    "word": "持って来る",
+    "reading": "もってくる",
+    "meaning_en": "to bring (something)",
+    "exampleSentence": "資料を持って来てください。 (Please bring the documents.)"
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "meaning_en": "to begin",
+    "exampleSentence": "映画が始まります。 (The movie begins.)"
+  },
+  {
+    "word": "呼ぶ",
+    "reading": "よぶ",
+    "meaning_en": "to call",
+    "exampleSentence": "友だちを呼びます。 (I call a friend.)"
+  },
+  {
+    "word": "売る",
+    "reading": "うる",
+    "meaning_en": "to sell",
+    "exampleSentence": "古い本を売ります。 (I sell old books.)"
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "meaning_en": "to buy",
+    "exampleSentence": "パンを買います。 (I buy bread.)"
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning_en": "cooking",
+    "exampleSentence": "料理が上手です。 (I am good at cooking.)"
+  },
+  {
+    "word": "掃除",
+    "reading": "そうじ",
+    "meaning_en": "cleaning",
+    "exampleSentence": "部屋を掃除します。 (I clean the room.)"
+  },
+  {
+    "word": "旅行",
+    "reading": "りょこう",
+    "meaning_en": "travel",
+    "exampleSentence": "旅行が好きです。 (I like traveling.)"
+  },
+  {
+    "word": "運動",
+    "reading": "うんどう",
+    "meaning_en": "exercise",
+    "exampleSentence": "毎朝運動します。 (I exercise every morning.)"
+  },
+  {
+    "word": "始める",
+    "reading": "はじめる",
+    "meaning_en": "to start (something)",
+    "exampleSentence": "ゲームを始めます。 (I start the game.)"
+  },
+  {
+    "word": "答え",
+    "reading": "こたえ",
+    "meaning_en": "answer",
+    "exampleSentence": "答えを見せてください。 (Show me the answer.)"
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning_en": "question",
+    "exampleSentence": "質問はありますか。 (Do you have any questions?)"
+  },
+  {
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "meaning_en": "address",
+    "exampleSentence": "住所を教えてください。 (Please tell me your address.)"
+  },
+  {
+    "word": "番号",
+    "reading": "ばんごう",
+    "meaning_en": "number",
+    "exampleSentence": "電話番号は何ですか。 (What is your phone number?)"
+  },
+  {
+    "word": "道",
+    "reading": "みち",
+    "meaning_en": "road; street",
+    "exampleSentence": "この道は広いです。 (This road is wide.)"
+  },
+  {
+    "word": "角",
+    "reading": "かど",
+    "meaning_en": "corner",
+    "exampleSentence": "角を右に曲がってください。 (Turn right at the corner.)"
+  },
+  {
+    "word": "橋",
+    "reading": "はし",
+    "meaning_en": "bridge",
+    "exampleSentence": "橋を渡ります。 (I cross the bridge.)"
+  },
+  {
+    "word": "信号",
+    "reading": "しんごう",
+    "meaning_en": "traffic light",
+    "exampleSentence": "信号を渡ってください。 (Cross at the traffic light.)"
+  },
+  {
+    "word": "空港",
+    "reading": "くうこう",
+    "meaning_en": "airport",
+    "exampleSentence": "空港へ行きます。 (I go to the airport.)"
+  },
+  {
+    "word": "港",
+    "reading": "みなと",
+    "meaning_en": "port; harbor",
+    "exampleSentence": "港に船があります。 (There is a ship in the port.)"
+  },
+  {
+    "word": "地図",
+    "reading": "ちず",
+    "meaning_en": "map",
+    "exampleSentence": "地図を見ながら歩きます。 (I walk while looking at a map.)"
+  },
+  {
+    "word": "場所",
+    "reading": "ばしょ",
+    "meaning_en": "place",
+    "exampleSentence": "この場所が好きです。 (I like this place.)"
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning_en": "building",
+    "exampleSentence": "大きい建物です。 (It is a big building.)"
+  },
+  {
+    "word": "駅",
+    "reading": "えき",
+    "meaning_en": "station",
+    "exampleSentence": "駅まで歩きます。 (I walk to the station.)"
+  },
+  {
+    "word": "店",
+    "reading": "みせ",
+    "meaning_en": "shop",
+    "exampleSentence": "店で買い物します。 (I shop at the store.)"
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning_en": "company",
+    "exampleSentence": "会社で働いています。 (I work at a company.)"
+  },
+  {
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "meaning_en": "bank",
+    "exampleSentence": "銀行へ行きます。 (I go to the bank.)"
+  },
+  {
+    "word": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meaning_en": "post office",
+    "exampleSentence": "郵便局で手紙を出します。 (I mail a letter at the post office.)"
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning_en": "hospital",
+    "exampleSentence": "明日病院へ行きます。 (I will go to the hospital tomorrow.)"
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning_en": "illness",
+    "exampleSentence": "彼は病気です。 (He is sick.)"
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaning_en": "medicine",
+    "exampleSentence": "薬を飲みます。 (I take medicine.)"
+  },
+  {
+    "word": "医者",
+    "reading": "いしゃ",
+    "meaning_en": "doctor",
+    "exampleSentence": "医者に相談します。 (I consult a doctor.)"
+  },
+  {
+    "word": "看護師",
+    "reading": "かんごし",
+    "meaning_en": "nurse",
+    "exampleSentence": "看護師が来ました。 (The nurse came.)"
+  },
+  {
+    "word": "頭",
+    "reading": "あたま",
+    "meaning_en": "head",
+    "exampleSentence": "頭が痛いです。 (My head hurts.)"
+  },
+  {
+    "word": "顔",
+    "reading": "かお",
+    "meaning_en": "face",
+    "exampleSentence": "顔を洗います。 (I wash my face.)"
+  },
+  {
+    "word": "手",
+    "reading": "て",
+    "meaning_en": "hand",
+    "exampleSentence": "手を上げてください。 (Raise your hand, please.)"
+  },
+  {
+    "word": "足",
+    "reading": "あし",
+    "meaning_en": "leg; foot",
+    "exampleSentence": "足が速いです。 (He runs fast.)"
+  },
+  {
+    "word": "目",
+    "reading": "め",
+    "meaning_en": "eye",
+    "exampleSentence": "目が悪いです。 (My eyes are bad.)"
+  },
+  {
+    "word": "耳",
+    "reading": "みみ",
+    "meaning_en": "ear",
+    "exampleSentence": "耳で聞きます。 (I listen with my ears.)"
+  },
+  {
+    "word": "口",
+    "reading": "くち",
+    "meaning_en": "mouth",
+    "exampleSentence": "口を開けてください。 (Please open your mouth.)"
+  },
+  {
+    "word": "歯",
+    "reading": "は",
+    "meaning_en": "tooth",
+    "exampleSentence": "毎日歯を磨きます。 (I brush my teeth every day.)"
+  },
+  {
+    "word": "首",
+    "reading": "くび",
+    "meaning_en": "neck",
+    "exampleSentence": "首が痛いです。 (My neck hurts.)"
+  },
+  {
+    "word": "背中",
+    "reading": "せなか",
+    "meaning_en": "back",
+    "exampleSentence": "背中がかゆいです。 (My back is itchy.)"
+  },
+  {
+    "word": "体",
+    "reading": "からだ",
+    "meaning_en": "body",
+    "exampleSentence": "体に気をつけてください。 (Take care of your body.)"
+  },
+  {
+    "word": "元気",
+    "reading": "げんき",
+    "meaning_en": "healthy; energetic",
+    "exampleSentence": "今日は元気です。 (I feel good today.)"
+  },
+  {
+    "word": "弱い",
+    "reading": "よわい",
+    "meaning_en": "weak",
+    "exampleSentence": "私は体が弱いです。 (I have a weak body.)"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaning_en": "strong",
+    "exampleSentence": "彼は強いです。 (He is strong.)"
+  },
+  {
+    "word": "痛い",
+    "reading": "いたい",
+    "meaning_en": "painful",
+    "exampleSentence": "お腹が痛いです。 (My stomach hurts.)"
+  },
+  {
+    "word": "熱",
+    "reading": "ねつ",
+    "meaning_en": "fever",
+    "exampleSentence": "熱があります。 (I have a fever.)"
+  },
+  {
+    "word": "風邪",
+    "reading": "かぜ",
+    "meaning_en": "cold (illness)",
+    "exampleSentence": "風邪を引きました。 (I caught a cold.)"
+  },
+  {
+    "word": "咳",
+    "reading": "せき",
+    "meaning_en": "cough",
+    "exampleSentence": "咳が出ます。 (I am coughing.)"
+  },
+  {
+    "word": "病室",
+    "reading": "びょうしつ",
+    "meaning_en": "hospital room",
+    "exampleSentence": "病室に入ります。 (I enter the hospital room.)"
+  },
+  {
+    "word": "薬局",
+    "reading": "やっきょく",
+    "meaning_en": "pharmacy",
+    "exampleSentence": "薬局で薬を買います。 (I buy medicine at the pharmacy.)"
+  },
+  {
+    "word": "天気",
+    "reading": "てんき",
+    "meaning_en": "weather",
+    "exampleSentence": "今日の天気はいいです。 (The weather is good today.)"
+  },
+  {
+    "word": "空",
+    "reading": "そら",
+    "meaning_en": "sky",
+    "exampleSentence": "空が青いです。 (The sky is blue.)"
+  },
+  {
+    "word": "雲",
+    "reading": "くも",
+    "meaning_en": "cloud",
+    "exampleSentence": "雲がたくさんあります。 (There are many clouds.)"
+  },
+  {
+    "word": "雨",
+    "reading": "あめ",
+    "meaning_en": "rain",
+    "exampleSentence": "雨が降っています。 (It is raining.)"
+  },
+  {
+    "word": "雪",
+    "reading": "ゆき",
+    "meaning_en": "snow",
+    "exampleSentence": "雪が降りました。 (It snowed.)"
+  },
+  {
+    "word": "風",
+    "reading": "かぜ",
+    "meaning_en": "wind",
+    "exampleSentence": "今日は風が強いです。 (It is windy today.)"
+  },
+  {
+    "word": "晴れ",
+    "reading": "はれ",
+    "meaning_en": "sunny",
+    "exampleSentence": "明日は晴れです。 (Tomorrow will be sunny.)"
+  },
+  {
+    "word": "曇り",
+    "reading": "くもり",
+    "meaning_en": "cloudy",
+    "exampleSentence": "今日は曇りです。 (It is cloudy today.)"
+  },
+  {
+    "word": "台風",
+    "reading": "たいふう",
+    "meaning_en": "typhoon",
+    "exampleSentence": "台風が来ています。 (A typhoon is coming.)"
+  },
+  {
+    "word": "季節",
+    "reading": "きせつ",
+    "meaning_en": "season",
+    "exampleSentence": "日本には四つの季節があります。 (Japan has four seasons.)"
+  },
+  {
+    "word": "春",
+    "reading": "はる",
+    "meaning_en": "spring",
+    "exampleSentence": "春は暖かいです。 (Spring is warm.)"
+  },
+  {
+    "word": "夏",
+    "reading": "なつ",
+    "meaning_en": "summer",
+    "exampleSentence": "夏は暑いです。 (Summer is hot.)"
+  },
+  {
+    "word": "秋",
+    "reading": "あき",
+    "meaning_en": "autumn",
+    "exampleSentence": "秋は涼しいです。 (Autumn is cool.)"
+  },
+  {
+    "word": "冬",
+    "reading": "ふゆ",
+    "meaning_en": "winter",
+    "exampleSentence": "冬は寒いです。 (Winter is cold.)"
+  },
+  {
+    "word": "東",
+    "reading": "ひがし",
+    "meaning_en": "east",
+    "exampleSentence": "太陽は東から昇ります。 (The sun rises in the east.)"
+  },
+  {
+    "word": "西",
+    "reading": "にし",
+    "meaning_en": "west",
+    "exampleSentence": "西に山があります。 (There is a mountain to the west.)"
+  },
+  {
+    "word": "南",
+    "reading": "みなみ",
+    "meaning_en": "south",
+    "exampleSentence": "南の海はきれいです。 (The southern sea is beautiful.)"
+  },
+  {
+    "word": "北",
+    "reading": "きた",
+    "meaning_en": "north",
+    "exampleSentence": "北は寒いです。 (The north is cold.)"
+  },
+  {
+    "word": "方向",
+    "reading": "ほうこう",
+    "meaning_en": "direction",
+    "exampleSentence": "正しい方向に進みます。 (I go in the correct direction.)"
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "meaning_en": "time",
+    "exampleSentence": "今は時間がありません。 (I don't have time now.)"
+  },
+  {
+    "word": "時計",
+    "reading": "とけい",
+    "meaning_en": "clock; watch",
+    "exampleSentence": "時計を見ます。 (I check the time.)"
+  },
+  {
+    "word": "朝",
+    "reading": "あさ",
+    "meaning_en": "morning",
+    "exampleSentence": "朝ごはんを食べます。 (I eat breakfast.)"
+  },
+  {
+    "word": "昼",
+    "reading": "ひる",
+    "meaning_en": "noon",
+    "exampleSentence": "昼に休みます。 (I rest at noon.)"
+  },
+  {
+    "word": "夜",
+    "reading": "よる",
+    "meaning_en": "night",
+    "exampleSentence": "夜は静かです。 (The night is quiet.)"
+  },
+  {
+    "word": "今",
+    "reading": "いま",
+    "meaning_en": "now",
+    "exampleSentence": "今行きます。 (I'm going now.)"
+  },
+  {
+    "word": "今日",
+    "reading": "きょう",
+    "meaning_en": "today",
+    "exampleSentence": "今日は忙しいです。 (I am busy today.)"
+  },
+  {
+    "word": "明日",
+    "reading": "あした",
+    "meaning_en": "tomorrow",
+    "exampleSentence": "明日会いましょう。 (Let's meet tomorrow.)"
+  },
+  {
+    "word": "昨日",
+    "reading": "きのう",
+    "meaning_en": "yesterday",
+    "exampleSentence": "昨日映画を見ました。 (I watched a movie yesterday.)"
+  },
+  {
+    "word": "週",
+    "reading": "しゅう",
+    "meaning_en": "week",
+    "exampleSentence": "今週は忙しいです。 (This week is busy.)"
+  },
+  {
+    "word": "月",
+    "reading": "つき",
+    "meaning_en": "moon; month",
+    "exampleSentence": "月がきれいです。 (The moon is beautiful.)"
+  },
+  {
+    "word": "年",
+    "reading": "とし",
+    "meaning_en": "year",
+    "exampleSentence": "今年はいい年です。 (This year is good.)"
+  },
+  {
+    "word": "春休み",
+    "reading": "はるやすみ",
+    "meaning_en": "spring break",
+    "exampleSentence": "春休みに旅行します。 (I travel during spring break.)"
+  },
+  {
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "meaning_en": "summer vacation",
+    "exampleSentence": "夏休みは長いです。 (Summer vacation is long.)"
+  },
+  {
+    "word": "冬休み",
+    "reading": "ふゆやすみ",
+    "meaning_en": "winter vacation",
+    "exampleSentence": "冬休みに帰ります。 (I go home during winter vacation.)"
+  },
+  {
+    "word": "午前",
+    "reading": "ごぜん",
+    "meaning_en": "a.m.",
+    "exampleSentence": "午前9時に会います。 (We meet at 9 a.m.)"
+  },
+  {
+    "word": "午後",
+    "reading": "ごご",
+    "meaning_en": "p.m.",
+    "exampleSentence": "午後は暇です。 (I am free in the afternoon.)"
+  },
+  {
+    "word": "朝食",
+    "reading": "ちょうしょく",
+    "meaning_en": "breakfast",
+    "exampleSentence": "朝食を作ります。 (I prepare breakfast.)"
+  },
+  {
+    "word": "昼食",
+    "reading": "ちゅうしょく",
+    "meaning_en": "lunch",
+    "exampleSentence": "昼食を食べました。 (I ate lunch.)"
+  },
+  {
+    "word": "夕食",
+    "reading": "ゆうしょく",
+    "meaning_en": "dinner",
+    "exampleSentence": "夕食は6時です。 (Dinner is at 6.)"
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meaning_en": "drink",
+    "exampleSentence": "飲み物を買います。 (I buy a drink.)"
+  },
+  {
+    "word": "食べ物",
+    "reading": "たべもの",
+    "meaning_en": "food",
+    "exampleSentence": "日本の食べ物が好きです。 (I like Japanese food.)"
+  },
+  {
+    "word": "果物",
+    "reading": "くだもの",
+    "meaning_en": "fruit",
+    "exampleSentence": "果物をよく食べます。 (I often eat fruit.)"
+  },
+  {
+    "word": "野菜",
+    "reading": "やさい",
+    "meaning_en": "vegetable",
+    "exampleSentence": "野菜は体にいいです。 (Vegetables are good for your health.)"
+  },
+  {
+    "word": "肉",
+    "reading": "にく",
+    "meaning_en": "meat",
+    "exampleSentence": "肉を食べます。 (I eat meat.)"
+  },
+  {
+    "word": "魚",
+    "reading": "さかな",
+    "meaning_en": "fish",
+    "exampleSentence": "魚が好きです。 (I like fish.)"
+  },
+  {
+    "word": "水",
+    "reading": "みず",
+    "meaning_en": "water",
+    "exampleSentence": "水を飲みます。 (I drink water.)"
+  },
+  {
+    "word": "お茶",
+    "reading": "おちゃ",
+    "meaning_en": "tea",
+    "exampleSentence": "お茶を飲みます。 (I drink tea.)"
+  },
+  {
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "meaning_en": "black tea",
+    "exampleSentence": "紅茶をください。 (Please give me black tea.)"
+  },
+  {
+    "word": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "meaning_en": "milk",
+    "exampleSentence": "牛乳を飲みます。 (I drink milk.)"
+  },
+  {
+    "word": "ジュース",
+    "reading": "じゅーす",
+    "meaning_en": "juice",
+    "exampleSentence": "ジュースが好きです。 (I like juice.)"
+  },
+  {
+    "word": "パン",
+    "reading": "ぱん",
+    "meaning_en": "bread",
+    "exampleSentence": "パンを食べます。 (I eat bread.)"
+  },
+  {
+    "word": "ご飯",
+    "reading": "ごはん",
+    "meaning_en": "rice; meal",
+    "exampleSentence": "ご飯を炊きます。 (I cook rice.)"
+  },
+  {
+    "word": "味",
+    "reading": "あじ",
+    "meaning_en": "flavor; taste",
+    "exampleSentence": "この味が好きです。 (I like this flavor.)"
+  },
+  {
+    "word": "塩",
+    "reading": "しお",
+    "meaning_en": "salt",
+    "exampleSentence": "塩を入れます。 (I add salt.)"
+  },
+  {
+    "word": "砂糖",
+    "reading": "さとう",
+    "meaning_en": "sugar",
+    "exampleSentence": "砂糖を少し入れます。 (I add a little sugar.)"
+  },
+  {
+    "word": "醤油",
+    "reading": "しょうゆ",
+    "meaning_en": "soy sauce",
+    "exampleSentence": "醤油で味をつけます。 (I season it with soy sauce.)"
+  },
+  {
+    "word": "料理人",
+    "reading": "りょうりにん",
+    "meaning_en": "cook; chef",
+    "exampleSentence": "彼は料理人です。 (He is a chef.)"
+  },
+  {
+    "word": "皿",
+    "reading": "さら",
+    "meaning_en": "plate",
+    "exampleSentence": "皿を洗います。 (I wash the dishes.)"
+  },
+  {
+    "word": "コップ",
+    "reading": "こっぷ",
+    "meaning_en": "cup",
+    "exampleSentence": "コップに水を入れます。 (I pour water into a cup.)"
+  },
+  {
+    "word": "スプーン",
+    "reading": "すぷーん",
+    "meaning_en": "spoon",
+    "exampleSentence": "スプーンを使います。 (I use a spoon.)"
+  },
+  {
+    "word": "フォーク",
+    "reading": "ふぉーく",
+    "meaning_en": "fork",
+    "exampleSentence": "フォークで食べます。 (I eat with a fork.)"
+  },
+  {
+    "word": "箸",
+    "reading": "はし",
+    "meaning_en": "chopsticks",
+    "exampleSentence": "箸を使います。 (I use chopsticks.)"
+  },
+  {
+    "word": "弁当",
+    "reading": "べんとう",
+    "meaning_en": "boxed lunch",
+    "exampleSentence": "弁当を作ります。 (I make a bento.)"
+  },
+  {
+    "word": "料理する",
+    "reading": "りょうりする",
+    "meaning_en": "to cook",
+    "exampleSentence": "毎日料理します。 (I cook every day.)"
+  },
+  {
+    "word": "店員",
+    "reading": "てんいん",
+    "meaning_en": "store clerk",
+    "exampleSentence": "店員に聞きます。 (I ask the store clerk.)"
+  },
+  {
+    "word": "客",
+    "reading": "きゃく",
+    "meaning_en": "customer; guest",
+    "exampleSentence": "店に客が多いです。 (There are many customers in the shop.)"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning_en": "teacher",
+    "exampleSentence": "先生に質問します。 (I ask the teacher a question.)"
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning_en": "student",
+    "exampleSentence": "私は学生です。 (I am a student.)"
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "meaning_en": "friend",
+    "exampleSentence": "友達と遊びます。 (I hang out with a friend.)"
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "meaning_en": "family",
+    "exampleSentence": "家族と住んでいます。 (I live with my family.)"
+  },
+  {
+    "word": "兄",
+    "reading": "あに",
+    "meaning_en": "older brother",
+    "exampleSentence": "兄は大学生です。 (My older brother is a university student.)"
+  },
+  {
+    "word": "弟",
+    "reading": "おとうと",
+    "meaning_en": "younger brother",
+    "exampleSentence": "弟は小学生です。 (My younger brother is an elementary student.)"
+  },
+  {
+    "word": "姉",
+    "reading": "あね",
+    "meaning_en": "older sister",
+    "exampleSentence": "姉は看護師です。 (My older sister is a nurse.)"
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "meaning_en": "younger sister",
+    "exampleSentence": "妹はかわいいです。 (My younger sister is cute.)"
+  },
+  {
+    "word": "父",
+    "reading": "ちち",
+    "meaning_en": "father (my own)",
+    "exampleSentence": "父は仕事中です。 (My father is at work.)"
+  },
+  {
+    "word": "母",
+    "reading": "はは",
+    "meaning_en": "mother (my own)",
+    "exampleSentence": "母は料理が上手です。 (My mother is good at cooking.)"
+  },
+  {
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "meaning_en": "father (someone else’s)",
+    "exampleSentence": "お父さんは元気ですか。 (How is your father?)"
+  },
+  {
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "meaning_en": "mother (someone else’s)",
+    "exampleSentence": "お母さんはいますか。 (Is your mother here?)"
+  },
+  {
+    "word": "子ども",
+    "reading": "こども",
+    "meaning_en": "child",
+    "exampleSentence": "子どもが遊んでいます。 (A child is playing.)"
+  },
+  {
+    "word": "大人",
+    "reading": "おとな",
+    "meaning_en": "adult",
+    "exampleSentence": "彼は大人です。 (He is an adult.)"
+  },
+  {
+    "word": "男",
+    "reading": "おとこ",
+    "meaning_en": "man",
+    "exampleSentence": "あの男は先生です。 (That man is a teacher.)"
+  },
+  {
+    "word": "女",
+    "reading": "おんな",
+    "meaning_en": "woman",
+    "exampleSentence": "あの女は学生です。 (That woman is a student.)"
+  },
+  {
+    "word": "男の子",
+    "reading": "おとこのこ",
+    "meaning_en": "boy",
+    "exampleSentence": "男の子が走っています。 (A boy is running.)"
+  },
+  {
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "meaning_en": "girl",
+    "exampleSentence": "女の子が笑っています。 (A girl is smiling.)"
+  },
+  {
+    "word": "会社員",
+    "reading": "かいしゃいん",
+    "meaning_en": "office worker",
+    "exampleSentence": "父は会社員です。 (My father is an office worker.)"
+  },
+  {
+    "word": "店",
+    "reading": "みせ",
+    "meaning_en": "shop",
+    "exampleSentence": "店でケーキを買います。 (I buy cake at the shop.)"
+  },
+  {
+    "word": "映画館",
+    "reading": "えいがかん",
+    "meaning_en": "movie theater",
+    "exampleSentence": "映画館で映画を見ます。 (I watch a movie at the theater.)"
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaning_en": "library",
+    "exampleSentence": "図書館で勉強します。 (I study at the library.)"
+  },
+  {
+    "word": "教室",
+    "reading": "きょうしつ",
+    "meaning_en": "classroom",
+    "exampleSentence": "教室に入ります。 (I enter the classroom.)"
+  },
+  {
+    "word": "部屋",
+    "reading": "へや",
+    "meaning_en": "room",
+    "exampleSentence": "部屋を掃除します。 (I clean the room.)"
+  },
+  {
+    "word": "台所",
+    "reading": "だいどころ",
+    "meaning_en": "kitchen",
+    "exampleSentence": "台所で料理します。 (I cook in the kitchen.)"
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "meaning_en": "garden; yard",
+    "exampleSentence": "庭で遊びます。 (I play in the yard.)"
+  },
+  {
+    "word": "部屋番号",
+    "reading": "へやばんごう",
+    "meaning_en": "room number",
+    "exampleSentence": "部屋番号を教えてください。 (Please tell me your room number.)"
+  },
+  {
+    "word": "玄関",
+    "reading": "げんかん",
+    "meaning_en": "entrance",
+    "exampleSentence": "玄関で靴を脱ぎます。 (I take off my shoes at the entrance.)"
+  },
+  {
+    "word": "階段",
+    "reading": "かいだん",
+    "meaning_en": "stairs",
+    "exampleSentence": "階段を上ります。 (I go up the stairs.)"
+  },
+  {
+    "word": "エレベーター",
+    "reading": "えれべーたー",
+    "meaning_en": "elevator",
+    "exampleSentence": "エレベーターで3階に行きます。 (I go to the 3rd floor by elevator.)"
+  },
+  {
+    "word": "ビル",
+    "reading": "びる",
+    "meaning_en": "building",
+    "exampleSentence": "新しいビルがあります。 (There is a new building.)"
+  },
+  {
+    "word": "窓",
+    "reading": "まど",
+    "meaning_en": "window",
+    "exampleSentence": "窓を開けます。 (I open the window.)"
+  },
+  {
+    "word": "机",
+    "reading": "つくえ",
+    "meaning_en": "desk",
+    "exampleSentence": "机で勉強します。 (I study at the desk.)"
+  },
+  {
+    "word": "椅子",
+    "reading": "いす",
+    "meaning_en": "chair",
+    "exampleSentence": "椅子に座ります。 (I sit on a chair.)"
+  },
+  {
+    "word": "鍵",
+    "reading": "かぎ",
+    "meaning_en": "key",
+    "exampleSentence": "鍵をなくしました。 (I lost my key.)"
+  },
+  {
+    "word": "財布",
+    "reading": "さいふ",
+    "meaning_en": "wallet",
+    "exampleSentence": "財布を忘れました。 (I forgot my wallet.)"
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning_en": "telephone",
+    "exampleSentence": "電話をかけます。 (I make a phone call.)"
+  },
+  {
+    "word": "携帯電話",
+    "reading": "けいたいでんわ",
+    "meaning_en": "mobile phone",
+    "exampleSentence": "携帯電話を使います。 (I use my mobile phone.)"
+  },
+  {
+    "word": "パソコン",
+    "reading": "ぱそこん",
+    "meaning_en": "computer",
+    "exampleSentence": "パソコンで仕事をします。 (I work on the computer.)"
+  },
+  {
+    "word": "テレビ",
+    "reading": "てれび",
+    "meaning_en": "television",
+    "exampleSentence": "テレビを見ます。 (I watch TV.)"
+  },
+  {
+    "word": "ラジオ",
+    "reading": "らじお",
+    "meaning_en": "radio",
+    "exampleSentence": "ラジオを聞きます。 (I listen to the radio.)"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaning_en": "newspaper",
+    "exampleSentence": "新聞を読みます。 (I read the newspaper.)"
+  },
+  {
+    "word": "雑誌",
+    "reading": "ざっし",
+    "meaning_en": "magazine",
+    "exampleSentence": "雑誌を買いました。 (I bought a magazine.)"
+  },
+  {
+    "word": "本",
+    "reading": "ほん",
+    "meaning_en": "book",
+    "exampleSentence": "本を読みます。 (I read a book.)"
+  },
+  {
+    "word": "ノート",
+    "reading": "のーと",
+    "meaning_en": "notebook",
+    "exampleSentence": "ノートに書きます。 (I write in my notebook.)"
+  },
+  {
+    "word": "ペン",
+    "reading": "ぺん",
+    "meaning_en": "pen",
+    "exampleSentence": "ペンで書きます。 (I write with a pen.)"
+  },
+  {
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "meaning_en": "pencil",
+    "exampleSentence": "鉛筆を使います。 (I use a pencil.)"
+  },
+  {
+    "word": "消しゴム",
+    "reading": "けしごむ",
+    "meaning_en": "eraser",
+    "exampleSentence": "消しゴムで消します。 (I erase with an eraser.)"
+  },
+  {
+    "word": "紙",
+    "reading": "かみ",
+    "meaning_en": "paper",
+    "exampleSentence": "紙を切ります。 (I cut the paper.)"
+  },
+  {
+    "word": "手紙",
+    "reading": "てがみ",
+    "meaning_en": "letter",
+    "exampleSentence": "手紙を書きました。 (I wrote a letter.)"
+  },
+  {
+    "word": "写真",
+    "reading": "しゃしん",
+    "meaning_en": "photograph",
+    "exampleSentence": "写真を撮ります。 (I take a photo.)"
+  },
+  {
+    "word": "絵",
+    "reading": "え",
+    "meaning_en": "picture; drawing",
+    "exampleSentence": "絵を描きます。 (I draw a picture.)"
+  },
+  {
+    "word": "映画",
+    "reading": "えいが",
+    "meaning_en": "movie",
+    "exampleSentence": "映画を見ます。 (I watch a movie.)"
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning_en": "music",
+    "exampleSentence": "音楽を聞きます。 (I listen to music.)"
+  },
+  {
+    "word": "歌",
+    "reading": "うた",
+    "meaning_en": "song",
+    "exampleSentence": "この歌が好きです。 (I like this song.)"
+  },
+  {
+    "word": "ビデオ",
+    "reading": "びでお",
+    "meaning_en": "video",
+    "exampleSentence": "ビデオを見ます。 (I watch a video.)"
+  },
+  {
+    "word": "ゲーム",
+    "reading": "げーむ",
+    "meaning_en": "game",
+    "exampleSentence": "ゲームで遊びます。 (I play a game.)"
+  },
+  {
+    "word": "スポーツ",
+    "reading": "すぽーつ",
+    "meaning_en": "sports",
+    "exampleSentence": "スポーツが好きです。 (I like sports.)"
+  },
+  {
+    "word": "サッカー",
+    "reading": "さっかー",
+    "meaning_en": "soccer",
+    "exampleSentence": "サッカーをします。 (I play soccer.)"
+  },
+  {
+    "word": "テニス",
+    "reading": "てにす",
+    "meaning_en": "tennis",
+    "exampleSentence": "テニスが得意です。 (I am good at tennis.)"
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning_en": "to swim",
+    "exampleSentence": "プールで泳ぎます。 (I swim in the pool.)"
+  },
+  {
+    "word": "走る",
+    "reading": "はしる",
+    "meaning_en": "to run",
+    "exampleSentence": "毎日走っています。 (I run every day.)"
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning_en": "to walk",
+    "exampleSentence": "学校まで歩きます。 (I walk to school.)"
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "meaning_en": "to stand",
+    "exampleSentence": "ここに立ってください。 (Please stand here.)"
+  },
+  {
+    "word": "座る",
+    "reading": "すわる",
+    "meaning_en": "to sit",
+    "exampleSentence": "椅子に座ります。 (I sit on a chair.)"
+  },
+  {
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning_en": "to play",
+    "exampleSentence": "友達と遊びます。 (I play with friends.)"
+  },
+  {
+    "word": "勉強する",
+    "reading": "べんきょうする",
+    "meaning_en": "to study",
+    "exampleSentence": "毎日日本語を勉強します。 (I study Japanese every day.)"
+  },
+  {
+    "word": "練習する",
+    "reading": "れんしゅうする",
+    "meaning_en": "to practice",
+    "exampleSentence": "漢字を練習します。 (I practice kanji.)"
+  },
+  {
+    "word": "仕事",
+    "reading": "しごと",
+    "meaning_en": "work; job",
+    "exampleSentence": "仕事が忙しいです。 (Work is busy.)"
+  },
+  {
+    "word": "休み",
+    "reading": "やすみ",
+    "meaning_en": "holiday; break",
+    "exampleSentence": "今日は休みです。 (Today is a holiday.)"
+  },
+  {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "meaning_en": "homework",
+    "exampleSentence": "宿題をします。 (I do my homework.)"
+  },
+  {
+    "word": "試験",
+    "reading": "しけん",
+    "meaning_en": "exam",
+    "exampleSentence": "明日試験があります。 (There is an exam tomorrow.)"
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning_en": "class; lesson",
+    "exampleSentence": "授業が始まります。 (Class begins.)"
+  },
+  {
+    "word": "小学校",
+    "reading": "しょうがっこう",
+    "meaning_en": "elementary school",
+    "exampleSentence": "妹は小学校に通っています。 (My sister goes to elementary school.)"
+  },
+  {
+    "word": "中学校",
+    "reading": "ちゅうがっこう",
+    "meaning_en": "middle school",
+    "exampleSentence": "弟は中学校の生徒です。 (My brother is a middle school student.)"
+  },
+  {
+    "word": "高校",
+    "reading": "こうこう",
+    "meaning_en": "high school",
+    "exampleSentence": "私は高校生です。 (I am a high school student.)"
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "meaning_en": "university",
+    "exampleSentence": "大学で勉強します。 (I study at a university.)"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning_en": "teacher",
+    "exampleSentence": "先生は親切です。 (The teacher is kind.)"
+  },
+  {
+    "word": "教える",
+    "reading": "おしえる",
+    "meaning_en": "to teach",
+    "exampleSentence": "日本語を教えます。 (I teach Japanese.)"
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "meaning_en": "to learn",
+    "exampleSentence": "ピアノを習っています。 (I am learning piano.)"
+  },
+  {
+    "word": "読む",
+    "reading": "よむ",
+    "meaning_en": "to read",
+    "exampleSentence": "新聞を読みます。 (I read the newspaper.)"
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "meaning_en": "to write",
+    "exampleSentence": "名前を書いてください。 (Please write your name.)"
+  },
+  {
+    "word": "聞く",
+    "reading": "きく",
+    "meaning_en": "to listen; to ask",
+    "exampleSentence": "音楽を聞きます。 (I listen to music.)"
+  },
+  {
+    "word": "話す",
+    "reading": "はなす",
+    "meaning_en": "to speak",
+    "exampleSentence": "日本語で話します。 (I speak in Japanese.)"
+  },
+  {
+    "word": "見る",
+    "reading": "みる",
+    "meaning_en": "to see; to watch",
+    "exampleSentence": "映画を見ます。 (I watch a movie.)"
+  },
+  {
+    "word": "食べる",
+    "reading": "たべる",
+    "meaning_en": "to eat",
+    "exampleSentence": "パンを食べます。 (I eat bread.)"
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "meaning_en": "to drink",
+    "exampleSentence": "水を飲みます。 (I drink water.)"
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "meaning_en": "to buy",
+    "exampleSentence": "りんごを買います。 (I buy apples.)"
+  },
+  {
+    "word": "売る",
+    "reading": "うる",
+    "meaning_en": "to sell",
+    "exampleSentence": "古い本を売ります。 (I sell old books.)"
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "meaning_en": "expensive; tall",
+    "exampleSentence": "この服は高いです。 (These clothes are expensive.)"
+  },
+  {
+    "word": "安い",
+    "reading": "やすい",
+    "meaning_en": "cheap",
+    "exampleSentence": "この店は安いです。 (This store is cheap.)"
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaning_en": "new",
+    "exampleSentence": "新しい靴を買いました。 (I bought new shoes.)"
+  },
+  {
+    "word": "古い",
+    "reading": "ふるい",
+    "meaning_en": "old (things)",
+    "exampleSentence": "古い家です。 (It is an old house.)"
+  },
+  {
+    "word": "白い",
+    "reading": "しろい",
+    "meaning_en": "white",
+    "exampleSentence": "白いシャツを着ます。 (I wear a white shirt.)"
+  },
+  {
+    "word": "黒い",
+    "reading": "くろい",
+    "meaning_en": "black",
+    "exampleSentence": "黒い車です。 (It is a black car.)"
+  },
+  {
+    "word": "赤い",
+    "reading": "あかい",
+    "meaning_en": "red",
+    "exampleSentence": "赤い花が咲いています。 (Red flowers are blooming.)"
+  },
+  {
+    "word": "青い",
+    "reading": "あおい",
+    "meaning_en": "blue",
+    "exampleSentence": "空は青いです。 (The sky is blue.)"
+  },
+  {
+    "word": "黄色い",
+    "reading": "きいろい",
+    "meaning_en": "yellow",
+    "exampleSentence": "黄色いかばんです。 (It is a yellow bag.)"
+  },
+  {
+    "word": "緑",
+    "reading": "みどり",
+    "meaning_en": "green",
+    "exampleSentence": "緑の葉がきれいです。 (The green leaves are beautiful.)"
+  },
+  {
+    "word": "色",
+    "reading": "いろ",
+    "meaning_en": "color",
+    "exampleSentence": "何色が好きですか。 (What color do you like?)"
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaning_en": "big",
+    "exampleSentence": "大きい犬がいます。 (There is a big dog.)"
+  },
+  {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meaning_en": "small",
+    "exampleSentence": "小さい箱です。 (It is a small box.)"
+  },
+  {
+    "word": "長い",
+    "reading": "ながい",
+    "meaning_en": "long",
+    "exampleSentence": "長い道を歩きます。 (I walk a long road.)"
+  },
+  {
+    "word": "短い",
+    "reading": "みじかい",
+    "meaning_en": "short",
+    "exampleSentence": "短い時間でした。 (It was a short time.)"
+  },
+  {
+    "word": "広い",
+    "reading": "ひろい",
+    "meaning_en": "spacious; wide",
+    "exampleSentence": "この部屋は広いです。 (This room is spacious.)"
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning_en": "narrow; small",
+    "exampleSentence": "狭い道です。 (It is a narrow road.)"
+  },
+  {
+    "word": "明るい",
+    "reading": "あかるい",
+    "meaning_en": "bright",
+    "exampleSentence": "部屋が明るいです。 (The room is bright.)"
+  },
+  {
+    "word": "暗い",
+    "reading": "くらい",
+    "meaning_en": "dark",
+    "exampleSentence": "外は暗いです。 (It is dark outside.)"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaning_en": "strong",
+    "exampleSentence": "風が強いです。 (The wind is strong.)"
+  },
+  {
+    "word": "弱い",
+    "reading": "よわい",
+    "meaning_en": "weak",
+    "exampleSentence": "私は体が弱いです。 (My body is weak.)"
+  },
+  {
+    "word": "太い",
+    "reading": "ふとい",
+    "meaning_en": "thick",
+    "exampleSentence": "太い木があります。 (There is a thick tree.)"
+  },
+  {
+    "word": "細い",
+    "reading": "ほそい",
+    "meaning_en": "thin",
+    "exampleSentence": "細い道です。 (It is a narrow path.)"
+  },
+  {
+    "word": "速い",
+    "reading": "はやい",
+    "meaning_en": "fast",
+    "exampleSentence": "彼は走るのが速いです。 (He runs fast.)"
+  },
+  {
+    "word": "遅い",
+    "reading": "おそい",
+    "meaning_en": "slow; late",
+    "exampleSentence": "電車が遅いです。 (The train is slow/late.)"
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "meaning_en": "convenient",
+    "exampleSentence": "このアプリは便利です。 (This app is convenient.)"
+  },
+  {
+    "word": "不便",
+    "reading": "ふべん",
+    "meaning_en": "inconvenient",
+    "exampleSentence": "駅から遠くて不便です。 (It is far from the station and inconvenient.)"
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "meaning_en": "quiet",
+    "exampleSentence": "図書館は静かです。 (The library is quiet.)"
+  },
+  {
+    "word": "にぎやか",
+    "reading": "にぎやか",
+    "meaning_en": "lively",
+    "exampleSentence": "町はにぎやかです。 (The town is lively.)"
+  },
+  {
+    "word": "簡単",
+    "reading": "かんたん",
+    "meaning_en": "easy; simple",
+    "exampleSentence": "この問題は簡単です。 (This problem is easy.)"
+  },
+  {
+    "word": "大事",
+    "reading": "だいじ",
+    "meaning_en": "important",
+    "exampleSentence": "これは大事な書類です。 (This is an important document.)"
+  },
+  {
+    "word": "有名",
+    "reading": "ゆうめい",
+    "meaning_en": "famous",
+    "exampleSentence": "彼は有名な歌手です。 (He is a famous singer.)"
+  },
+  {
+    "word": "好き",
+    "reading": "すき",
+    "meaning_en": "like",
+    "exampleSentence": "日本語が好きです。 (I like Japanese.)"
+  },
+  {
+    "word": "嫌い",
+    "reading": "きらい",
+    "meaning_en": "dislike",
+    "exampleSentence": "野菜が嫌いです。 (I dislike vegetables.)"
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning_en": "skillful",
+    "exampleSentence": "彼は英語が上手です。 (He is good at English.)"
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "meaning_en": "unskilled",
+    "exampleSentence": "私は料理が下手です。 (I am bad at cooking.)"
+  },
+  {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meaning_en": "okay; alright",
+    "exampleSentence": "大丈夫ですか。 (Are you okay?)"
+  },
+  {
+    "word": "危ない",
+    "reading": "あぶない",
+    "meaning_en": "dangerous",
+    "exampleSentence": "ここは危ないです。 (It is dangerous here.)"
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meaning_en": "fun",
+    "exampleSentence": "旅行は楽しいです。 (Traveling is fun.)"
+  },
+  {
+    "word": "つまらない",
+    "reading": "つまらない",
+    "meaning_en": "boring",
+    "exampleSentence": "この映画はつまらないです。 (This movie is boring.)"
+  },
+  {
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "meaning_en": "busy",
+    "exampleSentence": "今日は忙しいです。 (I am busy today.)"
+  },
+  {
+    "word": "暇",
+    "reading": "ひま",
+    "meaning_en": "free; not busy",
+    "exampleSentence": "明日は暇です。 (I am free tomorrow.)"
+  }
+]
